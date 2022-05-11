@@ -287,9 +287,9 @@ permalink: /publications/
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<iframe src="//www.slideshare.net/slideshow/embed_code/key/ETls0h9NP00aLL" width="165" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PritamSarkar8/a-deep-learning-approach-for-arbased-adaptive-simulation-using-wearables" title="A Deep Learning Approach for AR-based Adaptive Simulation using Wearables​" target="_blank">A Deep Learning Approach for AR-based Adaptive Simulation using Wearables​</a> </strong> from <strong><a href="//www.slideshare.net/PritamSarkar8" target="_blank">Pritam Sarkar</a></strong> </div>
-		</div>
+		<!-- <div class="col-sm-3">
+			<a href=""> <img class="pub-image" src="/assets/publications/feas19.png">
+		</div> -->
 		<div class="col-sm-9">
 			<div class="pub-title">
 				A Deep Learning Approach for AR-based Adaptive Simulation using Wearables
@@ -312,7 +312,7 @@ permalink: /publications/
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<<!-- div class="col-sm-3">
+		<!-- div class="col-sm-3">
 			<a href="https://qspace.library.queensu.ca/handle/1974/27746"> <img class="pub-image" src="/assets/publications/img.png"> </a>
 		</div> -->
 		<div class="col-sm-12">
