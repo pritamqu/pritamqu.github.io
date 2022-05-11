@@ -8,11 +8,11 @@ permalink: /bio/
 
 ### Education
 
-**Doctor of Philosophy**, Department of Electrical and Computer Engineering, Queen's University, Canada, 2020 - Present.
+**Doctor of Philosophy**, Department of Electrical and Computer Engineering, Queen's University, Canada, <br> 2020 - Present.
 
-**Master of Applied Science**, Department of Electrical and Computer Engineering, Queen's University, Canada, 2018 - 2020.
+**Master of Applied Science**, Department of Electrical and Computer Engineering, Queen's University, Canada, <br> 2018 - 2020.
 
-**Bachelor of Technology**, Department of Electrical Engineering, West Bengal University of Technology, India, 2011 - 2015.
+**Bachelor of Technology**, Department of Electrical Engineering, West Bengal University of Technology, India, <br> 2011 - 2015.
 
 <a name="/experience"></a>
 

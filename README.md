@@ -3,5 +3,9 @@ in making...
 TODO:
 
 [ ] fix read more button
-[ ] fix publications page
-[ ] fix bio, add resume 
+
+[x] fix publications page
+
+[x] fix bio, add resume 
+
+[] add slides
