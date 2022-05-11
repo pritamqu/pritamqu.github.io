@@ -31,30 +31,6 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf"> <img class="pub-image" src="/assets/publications/happy_driver.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				Happy Driver: Investigating the Effect of Mood on Preferred Style of Driving in Self-Driving Cars
-			</div>
-			<div class="pub-authors">
-				R. Phinnemore, G. Cimolino, <strong>P. Sarkar</strong>, A. Etemad, T.C. Nicholas Graham
-			</div>
-			<div class="pub-conf">
-				International Conference on Human-Agent Interaction, (HAI), 2021.
-			</div>
-			<div class="pub-links">
-				<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf">[paper]</a>
-				<a href="https://www.youtube.com/watch?v=YlWGldNbvgQ">[short video]</a>
-				<a href="https://www.youtube.com/watch?v=i81t03q964U">[long video]</a>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
 			<a href="https://arxiv.org/abs/2010.00104"> <img class="pub-image" src="/assets/publications/ppg2ecg_fast.gif"> </a>
 		</div>
 		<div class="col-sm-9">
@@ -72,6 +48,30 @@ permalink: /publications/
 				<a href="https://github.com/pritamqu/ppg2ecg-cardiogan">[code]</a>
 				<a href="https://pritamqu.github.io/ppg2ecg-cardiogan/">[website]</a>
 				<a href="https://slideslive.com/38948024/cardiogan-attentive-generative-adversarial-network-with-dual-discriminators-for-synthesis-of-ecg-from-ppg">[video]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf"> <img class="pub-image" src="/assets/publications/happy_driver.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				Happy Driver: Investigating the Effect of Mood on Preferred Style of Driving in Self-Driving Cars
+			</div>
+			<div class="pub-authors">
+				R. Phinnemore, G. Cimolino, <strong>P. Sarkar</strong>, A. Etemad, T.C. Nicholas Graham
+			</div>
+			<div class="pub-conf">
+				International Conference on Human-Agent Interaction, (HAI), 2021.
+			</div>
+			<div class="pub-links">
+				<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf">[paper]</a>
+				<a href="https://www.youtube.com/watch?v=YlWGldNbvgQ">[short video]</a>
+				<a href="https://www.youtube.com/watch?v=i81t03q964U">[long video]</a>
 			</div>
 		</div>
 	</div>
@@ -240,13 +240,50 @@ permalink: /publications/
 ## Patents:
 
 [1] P. Sarkar, A. Etemad, “Title withheld”, US Patent Application, 63/085,394, 2020. 
-
+ -->
 ## Workshops/Posters/Others:
 
-[2]  "Toward Wearables of the Future: Affordable Acquisition of Continuous ECG with Deep Learning", Robotics and AI Symposium at Ingunity Labs, Canada, 2021. *Best Poster Award*
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				Toward Wearables of the Future: Affordable Acquisition of Continuous ECG with Deep Learning
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				Robotics and AI Symposium at Ingunity Labs, Canada, 2021. <strong>Best Poster Award</strong>
+			</div>
+		</div>
+	</div>
+</div>
 
-[1] "A Deep Learning Approach for AR-based Adaptive Simulation using Wearables", FEAS Research Symposium at Queen's University, Canada, 2019.
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				A Deep Learning Approach for AR-based Adaptive Simulation using Wearables
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, V. Davoodnia, A. Etemad
+			</div>
+			<div class="pub-conf">
+				FEAS Research Symposium at Queen's University, Canada, 2019.
+			</div>
+			<div class="pub-links">
+				<a href="https://ieeexplore.ieee.org/document/8999310">[paper]</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 ## Theses:
 
-[1] "Self-supervised ECG Representation Learning for Affective Computing", Queen's University, 2020. [M.A.Sc.] -->
+[1] "Self-supervised ECG Representation Learning for Affective Computing", Queen's University, 2020. [M.A.Sc.]
