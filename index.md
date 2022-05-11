@@ -51,9 +51,9 @@ Apart from research, I am intersted in photography and short-film making, you ma
 - [Mar 21] I received postgraduate affiliation award from Vector Institute.
 - [Dec 20] Our paper 'CardioGAN' got accepted in AAAI 2021.
 - [Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.
-- [Apr 20] Successfully defended my M.A.Sc. thesis. [picture]
+- [Apr 20] Successfully defended my M.A.Sc. thesis. [picture](https://www.linkedin.com/posts/sarkarpritam_phd-thesisabrdefense-activity-6656981020174356480-K8K5/)
 - [Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for lecture presentation.
-- [Sep 19] It was a great experience to visit the University of Cambridge and meet Rosalind Picard. [picture]
+- [Sep 19] It was a great experience to visit the University of Cambridge and meet Rosalind Picard. [picture](https://www.linkedin.com/posts/sarkarpritam_universityofcambridge-activity-6592510130728906752-bEfP/)
 - [Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.
 - [Sep 18] Joined Queen's for master's degree.
 - [Dec 17] Joined Infosys as a Sr. System Engineer.
