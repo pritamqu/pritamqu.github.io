@@ -290,7 +290,7 @@ permalink: /publications/
 		<!-- <div class="col-sm-3">
 			<a href=""> <img class="pub-image" src="/assets/publications/feas19.png">
 		</div> -->
-		<div class="col-sm-9">
+		<div class="col-sm-12">
 			<div class="pub-title">
 				A Deep Learning Approach for AR-based Adaptive Simulation using Wearables
 			</div>
