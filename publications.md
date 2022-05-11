@@ -236,19 +236,39 @@ permalink: /publications/
 
 
 
-<!-- 
-## Patents:
-
-[1] P. Sarkar, A. Etemad, “Title withheld”, US Patent Application, 63/085,394, 2020. 
- -->
-## Workshops/Posters/Others:
+<h1> Patents </h1>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<div class="col-sm-3">
+<!-- 		<div class="col-sm-3">
 			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
-		</div>
+		</div> -->
 		<div class="col-sm-9">
+			<div class="pub-title">
+				Title withheld
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				US Patent Application, 63/085,394, 2020.
+			</div>
+<!-- 			<div class="pub-links">
+				<a href="">[poster]</a>
+			</div> -->
+		</div>
+	</div>
+</div>
+
+
+<h1> Workshops/Posters/Others </h1>
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<!-- <div class="col-sm-3">
+			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
+		</div> -->
+		<div class="col-sm-12">
 			<div class="pub-title">
 				Toward Wearables of the Future: Affordable Acquisition of Continuous ECG with Deep Learning
 			</div>
@@ -258,6 +278,9 @@ permalink: /publications/
 			<div class="pub-conf">
 				Robotics and AI Symposium at Ingunity Labs, Canada, 2021. <strong>Best Poster Award</strong>
 			</div>
+			<div class="pub-links">
+				<a href="">[poster]</a>
+			</div>
 		</div>
 	</div>
 </div>
@@ -265,25 +288,46 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
+			<iframe src="//www.slideshare.net/slideshow/embed_code/key/ETls0h9NP00aLL" width="165px" height="150px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
 				A Deep Learning Approach for AR-based Adaptive Simulation using Wearables
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, V. Davoodnia, A. Etemad
+				<strong>P. Sarkar</strong>, K. Ross, D. Rodenburg, A. Ruberto, P. Hungler, D. Howes, A. Szulewski, A. Etemad
 			</div>
 			<div class="pub-conf">
 				FEAS Research Symposium at Queen's University, Canada, 2019.
 			</div>
 			<div class="pub-links">
-				<a href="https://ieeexplore.ieee.org/document/8999310">[paper]</a>
+				<a href="https://www.slideshare.net/PritamSarkar8/a-deep-learning-approach-for-arbased-adaptive-simulation-using-wearables">[poster]</a>
 			</div>
 		</div>
 	</div>
 </div>
 
-## Theses:
 
-[1] "Self-supervised ECG Representation Learning for Affective Computing", Queen's University, 2020. [M.A.Sc.]
+<h1> Theses </h1> 
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<<!-- div class="col-sm-3">
+			<a href="https://qspace.library.queensu.ca/handle/1974/27746"> <img class="pub-image" src="/assets/publications/img.png"> </a>
+		</div> -->
+		<div class="col-sm-12">
+			<div class="pub-title">
+				Self-supervised ECG Representation Learning for Affective Computing
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>
+			</div>
+			<div class="pub-conf">
+				Queen's University, Kingston, Canada, 2020.
+			</div>
+			<div class="pub-links">
+				<a href="https://qspace.library.queensu.ca/handle/1974/27746">[M.A.Sc. Thesis]</a>
+			</div>
+		</div>
+	</div>
+</div>
