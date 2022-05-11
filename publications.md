@@ -7,7 +7,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2111.05329"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/crisscross.png"> </a>
+			<a href="https://arxiv.org/abs/2111.05329"> <img class="pub-image" src="/assets/publications/crisscross.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -31,7 +31,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/happy_driver.png"> </a>
+			<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf"> <img class="pub-image" src="/assets/publications/happy_driver.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -55,7 +55,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2010.00104"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/ppg2ecg_fast.gif"> </a>
+			<a href="https://arxiv.org/abs/2010.00104"> <img class="pub-image" src="/assets/publications/ppg2ecg_fast.gif"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -79,7 +79,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2011.02000"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/sslecg2.png"> </a>
+			<a href="https://arxiv.org/abs/2011.02000"> <img class="pub-image" src="/assets/publications/sslecg2.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -102,7 +102,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2002.03898"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/sslecg_jr.png"> </a>
+			<a href="https://arxiv.org/abs/2002.03898"> <img class="pub-image" src="/assets/publications/sslecg_jr.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -125,7 +125,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/1910.07497"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/sslecg_cf.png"> </a>
+			<a href="https://arxiv.org/abs/1910.07497"> <img class="pub-image" src="/assets/publications/sslecg_cf.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -148,7 +148,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://pubmed.ncbi.nlm.nih.gov/34222746/"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/ideas1.png"> </a>
+			<a href="https://pubmed.ncbi.nlm.nih.gov/34222746/"> <img class="pub-image" src="/assets/publications/ideas1.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -171,7 +171,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/1908.00385"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/acii19.png"> </a>
+			<a href="https://arxiv.org/abs/1908.00385"> <img class="pub-image" src="/assets/publications/acii19.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -193,7 +193,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://www.mdpi.com/1424-8220/19/19/4270"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/ideas2.png"> </a>
+			<a href="https://www.mdpi.com/1424-8220/19/19/4270"> <img class="pub-image" src="/assets/publications/ideas2.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -214,7 +214,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://ieeexplore.ieee.org/document/8999310"> <img class="pub-image" src="https://pritamqu.github.io/website/assets/publications/cad.png"> </a>
+			<a href="https://ieeexplore.ieee.org/document/8999310"> <img class="pub-image" src="/assets/publications/cad.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
