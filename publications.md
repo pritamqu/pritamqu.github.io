@@ -236,13 +236,13 @@ permalink: /publications/
 
 
 
-<h1> Patents </h1>
+<!-- <h1> Patents </h1>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-<!-- 		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
-		</div> -->
+		<div class="col-sm-3">
+			<a href=""> <img class="pub-image" src="/assets/publications/img.png"> </a>
+		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
 				Title withheld
@@ -253,13 +253,13 @@ permalink: /publications/
 			<div class="pub-conf">
 				US Patent Application, 63/085,394, 2020.
 			</div>
-<!-- 			<div class="pub-links">
-				<a href="">[poster]</a>
-			</div> -->
+			<div class="pub-links">
+				<a href="">[patent]</a>
+			</div>
 		</div>
 	</div>
 </div>
-
+ -->
 
 <h1> Workshops/Posters/Others </h1>
 
@@ -288,9 +288,7 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<iframe src="https://www.slideshare.net/PritamSarkar8/a-deep-learning-approach-for-arbased-adaptive-simulation-using-wearables" 
-			width="165px" height="150px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
-			</iframe>
+			<iframe src="//www.slideshare.net/slideshow/embed_code/key/ETls0h9NP00aLL" width="165" height="150" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/PritamSarkar8/a-deep-learning-approach-for-arbased-adaptive-simulation-using-wearables" title="A Deep Learning Approach for AR-based Adaptive Simulation using Wearables​" target="_blank">A Deep Learning Approach for AR-based Adaptive Simulation using Wearables​</a> </strong> from <strong><a href="//www.slideshare.net/PritamSarkar8" target="_blank">Pritam Sarkar</a></strong> </div>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
