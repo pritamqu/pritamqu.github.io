@@ -288,7 +288,9 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<iframe src="//www.slideshare.net/slideshow/embed_code/key/ETls0h9NP00aLL" width="165px" height="150px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+			<iframe src="https://www.slideshare.net/PritamSarkar8/a-deep-learning-approach-for-arbased-adaptive-simulation-using-wearables" 
+			width="165px" height="150px" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> 
+			</iframe>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
