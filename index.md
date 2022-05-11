@@ -12,7 +12,7 @@ permalink: /
     <div class="col-sm-9 col-xs-12" style="margin-bottom: 0;">
         <h4>
             <!-- <strong> -->
-            <span style="color: rgb(71, 85, 119); font-family: 'Caveat'; font-size: 32px;">
+            <span style="color: rgb(71, 85, 119); font-family: 'Caveat'; font-size: 36px;">
                 Pritam Sarkar
             </span><br>
             <span style="font-size: 16px;">
