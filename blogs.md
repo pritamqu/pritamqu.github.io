@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Blogs
+permalink: /blogs/
 ---
 
 <div class="posts">
