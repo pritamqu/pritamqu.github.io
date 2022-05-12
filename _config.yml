@@ -6,10 +6,10 @@
 name: Pritam Sarkar
 
 # Short bio or description (displayed in the header)
-description: # PhD Student
+description:
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: # https://pritamqu.github.io/website/assets/my_images/pp_round.png
+avatar: # https://pritamqu.github.io/assets/my_images/pp_round.png
 
 #
 # Flags below are optional
@@ -21,15 +21,15 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: # barryclark/jekyll-now
+  github:
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: # jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  rss:
+  twitter:
+  stackoverflow:
+  youtube:
+  googleplus:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-113548395-2
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed

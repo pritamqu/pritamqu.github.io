@@ -37,16 +37,20 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 
 ### Academic Service 
 
+**Mentorship**
+- Jordan Posen, ECE at Queen's, undergrad final year project, 2021.
+- Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
+
+**PC Member**
+- IEEE Affective Computing and Intelligent Interaction (ACII), 2022.
+
 **Reviewing**
+- European Conference on Computer Vision (ECCV), 2022.
 - IEEE Transactions on Artificial Intelligence (T-AI), 2021 - Present.
 - IEEE Affective Computing and Intelligent Interaction (ACII), 2021.
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
 - ACM Symposium on Applied Perception (SAP), 2019.
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019, 2020.
-
-**Mentorship**
-- Jordan Posen, ECE at Queen's, undergrad final year project, 2021.
-- Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
 
 **Memberships/Others**
 - Co-chaired (Workflow Chair) AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL). 
