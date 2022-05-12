@@ -20,7 +20,7 @@ permalink: /bio/
 
 **Research Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
-I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director). My research focus is self-supervised learning in computer vision, currently working on multi-modal (vision + x) self-supervised frameworks to learn meaningful representations without (or with minimal) human supervision. Please see the list of publications to know more about my research.
+I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director). My research focus is self-supervised learning, currently working on multi-modal (vision + x) self-supervised frameworks to learn meaningful representations without (or with minimal) human supervision. Please see the list of publications to know more about my research.
 
 **Teaching Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 - Head Teaching assistant for ELEC 472 (Artificial Intelligence), Winter 2022.
