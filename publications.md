@@ -7,6 +7,31 @@ permalink: /publications/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2205.06887"> <img class="pub-image" src="/assets/publications/avcaffe.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				AVCAffe: A Large Scale Audio-Visual Dataset of Cognitive Load and Affect for Remote Work
+			</div>
+			<div class="pub-authors">
+				<strong>Pritam Sarkar</strong>, Aaron Posen, Ali Etemad
+			</div>
+			<div class="pub-conf">
+				Preprint
+			</div>
+			<div class="pub-links">
+				<a href="https://arxiv.org/abs/2005.06887">[paper]</a>
+				<a href="https://github.com/pritamqu/AVCAffe">[code]</a>
+				<a href="https://pritamqu.github.io/AVCAffe/">[website]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
 			<a href="https://arxiv.org/abs/2111.05329"> <img class="pub-image" src="/assets/publications/crisscross.png"> </a>
 		</div>
 		<div class="col-sm-9">
@@ -90,7 +115,7 @@ permalink: /publications/
 				<strong>P. Sarkar*</strong>, S. Lobmaier*, B. Fabre, G. Berg, A. Mueller, M. G. Frasch, M. C. Antonelli, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Scientific Reports, 2020.
+				Scientific Reports, 2021.
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2011.02000">[paper]</a>
