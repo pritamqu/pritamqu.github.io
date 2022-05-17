@@ -20,7 +20,7 @@ permalink: /publications/
 				Preprint
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2005.06887">[paper]</a>
+				<a href="https://arxiv.org/abs/2205.06887">[paper]</a>
 				<a href="https://github.com/pritamqu/AVCAffe">[code]</a>
 				<a href="https://pritamqu.github.io/AVCAffe/">[website]</a>
 			</div>
