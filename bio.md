@@ -52,15 +52,23 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - ACM Symposium on Applied Perception (SAP), 2019.
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019, 2020.
 
-**Memberships/Others**
+**Organizing workshops and conferences**
 - Co-chaired (Workflow Chair) AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL). 
+- Served on the organizing committee of AI/GI/CRV Conference 2019.
+
+**Academic memberships/Others**
 - Postgraduate Affiliate at Vector Institute, 2021 - Present.
 - Student Representative in Graduate Studies Academic Advisory (GSAC) Committee, Dept. of ECE, Queen's, 2020 - 2021.
 - PhD Rep. at Graduate Electrical and Computer Engineering (GECE) student council, Queen's University, 2020 - 2021.
-- Member of IEEE Signal Processing Society (IEEE SPS), 2020 - 2021.
-- IEEE Graduate Student Member 2020 - Present.
-- Student member of Association for the Advancement of Affective Computing (AAAC), 2019 - 2021.
-- Served on the organizing committee of AI/GI/CRV Conference 2019.
+<!-- - Member of IEEE Signal Processing Society (IEEE SPS), 2020 - 2021. -->
+<!-- - IEEE Graduate Student Member 2020 - Present. -->
+<!-- - Student member of Association for the Advancement of Affective Computing (AAAC), 2019 - 2021. -->
 
+### Talks/Presentations
 
+- Poster presentation at Robotics and AI Symposium, Ingunity Labs, 2021.
+- Paper talk at AAAI, 2021.
+- Paper talk at ICASSP, 2020.
+- Poster presentation at FEAS Research Symposium, Queen’s University, Canada, 2019.
+- Paper talk at ACII, 2019.
 
