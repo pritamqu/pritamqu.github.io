@@ -40,11 +40,13 @@ permalink: /
 
 <a name="/news"></a>
 
-I am a PhD student at Queen’s University, Canada and a Postgraduate Affiliate at Vector Institute. My research is broadly focused on self-supervised learning. Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me.
+I am a PhD student at Queen’s University, Canada and a Postgraduate Affiliate at Vector Institute. My research is broadly focused on self-supervised learning. 
+<!-- Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me. -->
 Apart from research, I am intersted in photography and short-film making, you may find a few selected photographs [here](https://www.flickr.com/photos/pritams-photography/albums/72177720295443321).
 
 # News
 
+- [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
 - [Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.
 - [Aug 21] Call for papers [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/).
 - [Aug 21] One paper that I supervised got accepted into HAI 2021.
