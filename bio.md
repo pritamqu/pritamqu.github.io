@@ -18,20 +18,23 @@ permalink: /bio/
 
 ### Experience
 
-**Research Assistant** at Queen's University, Kingston, Canada, 2018 - Present
+**Research at Queen's University**, Kingston, Canada, 2018 - Present
 
 I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director). My research focus is self-supervised learning, currently working on multi-modal (vision + x) self-supervised frameworks to learn meaningful representations without (or with minimal) human supervision. Please see the list of publications to know more about my research.
 
-**Teaching Assistant** at Queen's University, Kingston, Canada, 2018 - Present
-- Head Teaching assistant for ELEC 472 (Artificial Intelligence), Winter 2022.
-- Teaching assistant for ELEC 472 (Artificial Intelligence), Winter 2021.
-- Course developer for ELEC-252 (Electronics I), Fall 2020
-- Teaching assistant for APSC-143 (Introduction to Computer Programming for Engineers), Fall 2019.
-- Course developer for ELEC 472 (Artificial Intelligence), Summer 2019.
+**Teaching at Queen's University**, Kingston, Canada, 2018 - Present
 
-**Sr. System Engineer** at Infosys Ltd., Bangalore, India, 2017 - 2018
+- I will be a Guest Lecturer for ELEC 872 (Artificial Intelligence & Interactive Systems), Fall 2023. 
+- Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2023.
+- Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2022.
+- Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2021.
+- Course Developer for ELEC-252 (Electronics I), Fall 2020
+- Teaching Assistant for APSC-143 (Introduction to Computer Programming for Engineers), Fall 2019.
+- Course Developer for ELEC 472 (Artificial Intelligence), Summer 2019.
 
-**Software Engineer** at Tech Mahindra, Hyderabad, India, 2015 - 2017
+**Sr. System Engineer at Infosys Ltd.**, Bangalore, India, 2017 - 2018
+
+**Software Engineer at Tech Mahindra Ltd.**, Hyderabad, India, 2015 - 2017
 
 <a name="/academic_service"></a>
 
