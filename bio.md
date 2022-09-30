@@ -18,14 +18,18 @@ permalink: /bio/
 
 ### Experience
 
+**Machine Learning Research Intern at Borealis AI**, Toronto, Canada, Fall 2022.
+
+**Postgraduate Affiliate at Vector Institute**, Toronto, Canada, 2021 - Present
+
 **Research at Queen's University**, Kingston, Canada, 2018 - Present
 
-I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director). My research focus is self-supervised learning, currently working on multi-modal (vision + x) self-supervised frameworks to learn meaningful representations without (or with minimal) human supervision. Please see the list of publications to know more about my research.
+I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director). My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Please see the list of publications to know more about my research.
 
 **Teaching at Queen's University**, Kingston, Canada, 2018 - Present
 
-- I will be a Guest Lecturer for ELEC 872 (Artificial Intelligence & Interactive Systems), Fall 2023. 
-- Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2023.
+<!-- - Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2023. -->
+- Guest Lecturer for ELEC 872 (Artificial Intelligence & Interactive Systems), Fall 2023. 
 - Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2022.
 - Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2021.
 - Course Developer for ELEC-252 (Electronics I), Fall 2020
@@ -45,8 +49,8 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
 
 **Reviewing/PC Member**
-- ECCV Workshop on Visual Object-oriented Learning meets Interaction (VOLI), 2022
 - European Conference on Computer Vision (ECCV), 2022.
+- ECCV Workshop on Visual Object-oriented Learning meets Interaction (VOLI), 2022
 - IEEE Transactions on Artificial Intelligence (T-AI), 2021 - Present.
 - IEEE Affective Computing and Intelligent Interaction (ACII), 2021, 2022.
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
@@ -54,11 +58,11 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019, 2020.
 
 **Organizing workshops and conferences**
-- Co-chaired (Workflow Chair) AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL). 
+- Workflow and Publicity Chair AAAI 2023 Workshop on Representation Learning for Resposible Human-Centric AI (R2HCAI). 
+- Workflow Chair AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL). 
 - Served on the organizing committee of AI/GI/CRV Conference 2019.
 
 **Academic memberships/Others**
-- Postgraduate Affiliate at Vector Institute, 2021 - Present.
 - Student Representative in Graduate Studies Academic Advisory (GSAC) Committee, Dept. of ECE, Queen's, 2020 - 2021.
 - PhD Rep. at Graduate Electrical and Computer Engineering (GECE) student council, Queen's University, 2020 - 2021.
 <!-- - Member of IEEE Signal Processing Society (IEEE SPS), 2020 - 2021. -->
