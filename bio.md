@@ -18,15 +18,15 @@ permalink: /bio/
 
 ### Experience
 
-**Machine Learning Research Intern at Borealis AI**, Toronto, Canada, Fall 2022.
+**Machine Learning Research Intern** at Borealis AI, Toronto, Canada, Fall 2022.
 
-**Postgraduate Affiliate at Vector Institute**, Toronto, Canada, 2021 - Present
+**Postgraduate Affiliate** at Vector Institute, Toronto, Canada, 2021 - Present
 
-**Research at Queen's University**, Kingston, Canada, 2018 - Present
+**Research Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
 I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director). My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Please see the list of publications to know more about my research.
 
-**Teaching at Queen's University**, Kingston, Canada, 2018 - Present
+**Lecturer/Teaching Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
 <!-- - Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2023. -->
 - Guest Lecturer for ELEC 872 (Artificial Intelligence & Interactive Systems), Fall 2023. 
@@ -36,9 +36,9 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - Teaching Assistant for APSC-143 (Introduction to Computer Programming for Engineers), Fall 2019.
 - Course Developer for ELEC 472 (Artificial Intelligence), Summer 2019.
 
-**Sr. System Engineer at Infosys Ltd.**, Bangalore, India, 2017 - 2018
+**Sr. System Engineer** at Infosys Ltd., Bangalore, India, 2017 - 2018
 
-**Software Engineer at Tech Mahindra Ltd.**, Hyderabad, India, 2015 - 2017
+**Software Engineer** at Tech Mahindra Ltd., Hyderabad, India, 2015 - 2017
 
 <a name="/academic_service"></a>
 
