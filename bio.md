@@ -69,7 +69,7 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 <!-- - IEEE Graduate Student Member 2020 - Present. -->
 <!-- - Student member of Association for the Advancement of Affective Computing (AAAC), 2019 - 2021. -->
 
-### Talks/Presentations
+<!-- ### Talks/Presentations
 
 - Poster presentation at Robotics and AI Symposium, Ingunity Labs, 2022. **Honourable Mention**
 - Poster presentation at FEAS Research Symposium, Queen’s University, Canada, 2022. **Honourable Mention**
@@ -78,4 +78,4 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - Paper talk at ICASSP, 2020.
 - Poster presentation at FEAS Research Symposium, Queen’s University, Canada, 2019.
 - Paper talk at ACII, 2019.
-
+ -->

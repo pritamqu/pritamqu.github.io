@@ -295,6 +295,50 @@ permalink: /publications/
 		</div> -->
 		<div class="col-sm-12">
 			<div class="pub-title">
+				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				FEAS Research Symposium at Queen's University, Canada, 2022. <strong>Honourable Mention</strong>
+			</div>
+			<div class="pub-links">
+				<a href="/files/poster/poster_2022_rais_feas.pdf">[poster]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<!-- <div class="col-sm-3">
+			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
+		</div> -->
+		<div class="col-sm-12">
+			<div class="pub-title">
+				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				Robotics and AI Symposium at Ingunity Labs, Canada, 2022. <strong>Honourable Mention</strong>
+			</div>
+			<div class="pub-links">
+				<a href="/files/poster/poster_2022_rais_feas.pdf">[poster]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<!-- <div class="col-sm-3">
+			<a href=""> <img class="pub-image" src="/assets/publications/rais21.png"> </a>
+		</div> -->
+		<div class="col-sm-12">
+			<div class="pub-title">
 				Toward Wearables of the Future: Affordable Acquisition of Continuous ECG with Deep Learning
 			</div>
 			<div class="pub-authors">
@@ -304,7 +348,7 @@ permalink: /publications/
 				Robotics and AI Symposium at Ingunity Labs, Canada, 2021. <strong>Best Poster Award</strong>
 			</div>
 			<div class="pub-links">
-				<a href="">[poster]</a>
+				<a href="/files/poster/poster_2021_rais.pdf">[poster]</a>
 			</div>
 		</div>
 	</div>
@@ -326,7 +370,7 @@ permalink: /publications/
 				FEAS Research Symposium at Queen's University, Canada, 2019.
 			</div>
 			<div class="pub-links">
-				<a href="https://www.slideshare.net/PritamSarkar8/a-deep-learning-approach-for-arbased-adaptive-simulation-using-wearables">[poster]</a>
+				<a href="/files/poster/poster_2019_feas.pdf">[poster]</a>
 			</div>
 		</div>
 	</div>
