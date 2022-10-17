@@ -46,9 +46,10 @@ Apart from research, I am intersted in photography and short-film making, you ma
 
 # News
 
+- [OCT 22] Call for papers [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/).
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
 - [Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.
-- [Aug 21] Call for papers [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/).
+<!-- - [Aug 21] Call for papers [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/). -->
 - [Aug 21] One paper that I supervised got accepted into HAI 2021.
 - [Mar 21] I received postgraduate affiliation award from Vector Institute.
 - [Dec 20] Our paper 'CardioGAN' got accepted in AAAI 2021.
