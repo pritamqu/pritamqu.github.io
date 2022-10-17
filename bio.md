@@ -58,7 +58,7 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019, 2020.
 
 **Organizing workshops and conferences**
-- Workflow and Publicity Chair [AAAI 2023 Workshop on Representation Learning for Resposible Human-Centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/). 
+- Workflow and Publicity Chair [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/). 
 - Workflow Chair [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/). 
 - Served on the organizing committee of AI/GI/CRV Conference 2019.
 
