@@ -49,13 +49,14 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
 
 **Reviewing/PC Member**
-- European Conference on Computer Vision (ECCV), 2022.
-- ECCV Workshop on Visual Object-oriented Learning meets Interaction (VOLI), 2022
+- IEEE Transactions on Affective Computing, 2022 - Present.
 - IEEE Transactions on Artificial Intelligence (T-AI), 2021 - Present.
+- European Conference on Computer Vision (ECCV), 2022.
 - IEEE Affective Computing and Intelligent Interaction (ACII), 2021, 2022.
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
-- ACM Symposium on Applied Perception (SAP), 2019.
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019, 2020.
+- ACM Symposium on Applied Perception (SAP), 2019.
+- ECCV Workshop on Visual Object-oriented Learning meets Interaction (VOLI), 2022.
 
 **Organizing workshops and conferences**
 - Workflow and Publicity Chair [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/). 
