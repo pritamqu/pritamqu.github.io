@@ -17,7 +17,7 @@ permalink: /publications/
 				<strong>Pritam Sarkar</strong>, Aaron Posen, Ali Etemad
 			</div>
 			<div class="pub-conf">
-				Preprint
+				AAAI Conference on Artificial Intelligence, (AAAI), 2023.
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2205.06887">[paper]</a>
@@ -42,7 +42,7 @@ permalink: /publications/
 				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
-				Preprint
+				AAAI Conference on Artificial Intelligence, (AAAI), 2023.
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2111.05329">[paper]</a>

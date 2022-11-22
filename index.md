@@ -41,16 +41,16 @@ permalink: /
 <a name="/news"></a>
 
 I am a PhD student at Queen’s University, Canada and a Postgraduate Affiliate at Vector Institute. My research is broadly focused on self-supervised learning. 
-<!-- Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me. -->
+Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me.
 Apart from research, I am intersted in photography and short-film making, you may find a few selected photographs [here](https://www.flickr.com/photos/pritams-photography/albums/72177720295443321).
 
 # News
-
-- [OCT 22] Call for papers [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/).
-- [OCT 22] Honourable Mention in poster competition at Robotics and AI Symposium 2022 and FEAS Research Symposium 2022.
+- [Nov 22] 2 papers got accepted in AAAI 2023.
+- [Oct 22] We are organizing [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/).
+- [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
 - [Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.
-<!-- - [Aug 21] Call for papers [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/). -->
+- [Aug 21] We are organizing [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/).
 - [Aug 21] One paper that I supervised got accepted into HAI 2021.
 - [Mar 21] I received postgraduate affiliation award from Vector Institute.
 - [Dec 20] Our paper 'CardioGAN' got accepted in AAAI 2021.
