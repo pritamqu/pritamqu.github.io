@@ -14,7 +14,7 @@ permalink: /publications/
 				AVCAffe: A Large Scale Audio-Visual Dataset of Cognitive Load and Affect for Remote Work
 			</div>
 			<div class="pub-authors">
-				<strong>Pritam Sarkar</strong>, Aaron Posen, Ali Etemad
+				<strong>P. Sarkar</strong>, A. Posen, A. Etemad
 			</div>
 			<div class="pub-conf">
 				AAAI Conference on Artificial Intelligence, (AAAI), 2023.
@@ -39,7 +39,7 @@ permalink: /publications/
 				Self-supervised Audio-Visual Representation Learning with Relaxed Cross-Modal Synchronicity
 			</div>
 			<div class="pub-authors">
-				<strong>Pritam Sarkar</strong>, Ali Etemad
+				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
 				AAAI Conference on Artificial Intelligence, (AAAI), 2023.
