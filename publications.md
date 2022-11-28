@@ -4,6 +4,32 @@ title: Publications
 permalink: /publications/
 ---
 
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2211.00000"> <img class="pub-image" src="/assets/publications/xkd.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				XKD: Cross-modal Knowledge Distillation with Domain Alignment for Video Representation Learning
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				Under review.
+			</div>
+			<div class="pub-links">
+				<a href="https://arxiv.org/abs/2211.06887">[paper]</a>
+				<a href="https://github.com/pritamqu/XKD">[code]</a>
+				<a href="https://pritamqu.github.io/XKD/">[website]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
