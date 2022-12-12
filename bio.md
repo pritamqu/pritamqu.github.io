@@ -28,8 +28,8 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 
 **Lecturer/Teaching Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
-<!-- - Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2023. -->
 - Guest Lecturer for ELEC 872 (Artificial Intelligence & Interactive Systems), Fall 2023. 
+- Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2023.
 - Head Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2022.
 - Teaching Assistant for ELEC 472 (Artificial Intelligence), Winter 2021.
 - Course Developer for ELEC-252 (Electronics I), Fall 2020
@@ -49,14 +49,15 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
 
 **Reviewing/PC Member**
+- Computer Vision and Pattern Recognition (CVPR), 2023.
+- European Conference on Computer Vision (ECCV), 2022.
 - IEEE Transactions on Affective Computing, 2022 - Present.
 - IEEE Transactions on Artificial Intelligence (T-AI), 2021 - Present.
-- European Conference on Computer Vision (ECCV), 2022.
 - IEEE Affective Computing and Intelligent Interaction (ACII), 2021, 2022.
+- ECCV Workshop on Visual Object-oriented Learning meets Interaction (VOLI), 2022.
 - IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), 2020.
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2019, 2020.
 - ACM Symposium on Applied Perception (SAP), 2019.
-- ECCV Workshop on Visual Object-oriented Learning meets Interaction (VOLI), 2022.
 
 **Organizing workshops and conferences**
 - Workflow and Publicity Chair [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/). 
