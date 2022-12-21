@@ -24,14 +24,11 @@ permalink: /
             </span>
             <!-- </strong> -->
         </h4>
-        <!-- <a href="mailto:pritam.sarkar@queensu.ca" target="_blank">email</a> - 
-        <a href="https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ" target="_blank">google scholar</a> - 
-        <a href="https://www.linkedin.com/in/sarkarpritam/" target="_blank">linkedin</a> - 
-        <a href="" target="_blank">resume</a> -->
         <a href="mailto:pritam.sarkar@queensu.ca" target="_blank"><img src="./assets/logos/email.png" width="7.5%" height="7.5%"></a> 
         <a href="https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ" target="_blank"><img src="./assets/logos/google_scholar.png" width="7.5%" height="7.5%"></a> 
         <a href="https://www.linkedin.com/in/sarkarpritam/" target="_blank"><img src="./assets/logos/linkedin.png" width="7.5%" height="7.5%"></a> 
         <a href="https://github.com/pritamqu/" target="_blank"><img src="./assets/logos/github.png" width="7.5%" height="7.5%"></a> 
+        <a href="./files/sarkar_resume.pdf" target="_blank"><img src="./assets/logos/cv.png" width="7.5%" height="7.5%"></a> 
     </div>
     <!-- </center> -->
 </div>
@@ -41,11 +38,11 @@ permalink: /
 <a name="/news"></a>
 
 I am a PhD student at Queen’s University, Canada and a Postgraduate Affiliate at Vector Institute. My research is broadly focused on self-supervised learning. 
-Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me.
+**Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me.**
 Apart from research, I am intersted in photography and short-film making, you may find a few selected photographs [here](https://www.flickr.com/photos/pritams-photography/albums/72177720295443321).
 
 # News
-- [Nov 22] 2 papers got accepted in AAAI 2023.
+- [Nov 22] **2 papers got accepted in AAAI 2023.**
 - [Oct 22] We are organizing [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
