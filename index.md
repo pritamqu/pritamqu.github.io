@@ -50,7 +50,7 @@ Apart from research, I am intersted in photography and short-film making, you ma
 - [Aug 21] We are organizing [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/).
 - [Aug 21] One paper that I supervised got accepted into HAI 2021.
 - [Mar 21] I received postgraduate affiliation award from Vector Institute.
-- [Dec 20] Our paper 'CardioGAN' got accepted in AAAI 2021.
+- [Dec 20] Our paper CardioGAN got accepted in AAAI 2021.
 - [Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.
 - [Apr 20] Successfully defended my M.A.Sc. thesis. [picture](https://www.linkedin.com/posts/sarkarpritam_phd-thesisabrdefense-activity-6656981020174356480-K8K5/)
 - [Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for lecture presentation.
