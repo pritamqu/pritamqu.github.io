@@ -68,7 +68,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (AAAI), 2023.
+				AAAI Conference on Artificial Intelligence, (AAAI), 2023. <strong>Oral</strong>
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2111.05329">[paper]</a>
@@ -187,7 +187,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				IEEE International Conference on Acoustics, Speech, and Signal Processing, (ICASSP), 2020. Oral (Virtual)
+				IEEE International Conference on Acoustics, Speech, and Signal Processing, (ICASSP), 2020. <strong>Oral</strong> (Virtual)
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/1910.07497">[paper]</a>
@@ -233,7 +233,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>,  K. Ross, A. Ruberto, D. Rodenburg, P. Hungler, A. Etemad
 			</div>
 			<div class="pub-conf">
-				IEEE Affective Computing and Intelligent Interaction, (ACII), 2019. Oral
+				IEEE Affective Computing and Intelligent Interaction, (ACII), 2019. <strong>Oral</strong>
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/1908.00385">[paper]</a>
