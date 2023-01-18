@@ -68,7 +68,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (AAAI), 2023. <strong>Oral</strong>
+				AAAI Conference on Artificial Intelligence, (AAAI), 2023. <strong style="color:red;">Oral</strong>
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2111.05329">[paper]</a>
@@ -187,7 +187,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				IEEE International Conference on Acoustics, Speech, and Signal Processing, (ICASSP), 2020. <strong>Oral</strong> (Virtual)
+				IEEE International Conference on Acoustics, Speech, and Signal Processing, (ICASSP), 2020. <strong style="color:red;">Oral</strong>
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/1910.07497">[paper]</a>
@@ -233,7 +233,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>,  K. Ross, A. Ruberto, D. Rodenburg, P. Hungler, A. Etemad
 			</div>
 			<div class="pub-conf">
-				IEEE Affective Computing and Intelligent Interaction, (ACII), 2019. <strong>Oral</strong>
+				IEEE Affective Computing and Intelligent Interaction, (ACII), 2019. <strong style="color:red;">Oral</strong>
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/1908.00385">[paper]</a>
@@ -327,7 +327,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				FEAS Research Symposium at Queen's University, Canada, 2022. <strong>Honourable Mention</strong>
+				FEAS Research Symposium at Queen's University, Canada, 2022. <strong style="color:red;">Honourable Mention</strong>
 			</div>
 			<div class="pub-links">
 				<a href="/files/poster/poster_2022_rais_feas.pdf">[poster]</a>
@@ -349,7 +349,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Robotics and AI Symposium at Ingunity Labs, Canada, 2022. <strong>Honourable Mention</strong>
+				Robotics and AI Symposium at Ingunity Labs, Canada, 2022. <strong style="color:red;">Honourable Mention</strong>
 			</div>
 			<div class="pub-links">
 				<a href="/files/poster/poster_2022_rais_feas.pdf">[poster]</a>
@@ -371,7 +371,7 @@ permalink: /publications/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Robotics and AI Symposium at Ingunity Labs, Canada, 2021. <strong>Best Poster Award</strong>
+				Robotics and AI Symposium at Ingunity Labs, Canada, 2021. <strong style="color:red;">Best Poster Award</strong>
 			</div>
 			<div class="pub-links">
 				<a href="/files/poster/poster_2021_rais.pdf">[poster]</a>
