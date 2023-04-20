@@ -17,7 +17,7 @@ permalink: /
             </span><br>
             <span style="font-size: 16px;">
                 Ph.D. Student at Queen&apos;s University<br>
-                Postgraduate Affiliate at Vector Institute
+                Affiliate at Vector Institute
             </span><br>
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 16px;'>
                 pritam[dot]sarkar[at]queensu[dot]ca
