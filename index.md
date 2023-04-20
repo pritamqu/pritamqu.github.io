@@ -37,7 +37,7 @@ permalink: /
 
 <a name="/news"></a>
 
-I am a PhD student at Queen’s University, Canada and a Postgraduate Affiliate at Vector Institute. My research is broadly focused on self-supervised learning. 
+I am a PhD student at Queen’s University, Canada and an Affiliate at Vector Institute. My research is broadly focused on self-supervised learning. 
 **Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me.**
 Apart from research, I am intersted in photography and short-film making, you may find a few selected photographs [here](https://www.flickr.com/photos/pritams-photography/albums/72177720295443321).
 

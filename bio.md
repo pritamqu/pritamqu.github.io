@@ -18,13 +18,14 @@ permalink: /bio/
 
 ### Experience
 
-**Machine Learning Research Intern** at Borealis AI, Toronto, Canada, Fall 2022.
-
-**Postgraduate Affiliate** at Vector Institute, Toronto, Canada, 2021 - Present
 
 **Research Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
 I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director). My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Please see the list of publications to know more about my research.
+
+**Machine Learning Research Intern** at Borealis AI, Toronto, Canada, Fall 2022.
+
+**Affiliate** at Vector Institute, Toronto, Canada, 2021 - Present
 
 **Lecturer/Teaching Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
@@ -49,6 +50,7 @@ I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenui
 - Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
 
 **Reviewing/PC Member**
+- International Conference on Computer Vision (ICCV), 2023.
 - Computer Vision and Pattern Recognition (CVPR), 2023.
 - European Conference on Computer Vision (ECCV), 2022.
 - IEEE Transactions on Affective Computing, 2022 - Present.
