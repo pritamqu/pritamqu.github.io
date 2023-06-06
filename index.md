@@ -42,11 +42,11 @@ My primary research interests include self-/un-supervised learning, computer vis
 
 # News
 - [Nov 22] **2 papers got accepted in AAAI 2023.**
-- [Oct 22] We are organizing [AAAI 2023 Workshop on Representation Learning for Responsible Human-centric AI (R2HCAI)](https://r2hcai.github.io/AAAI-23/).
+- [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
 - [Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.
-- [Aug 21] We are organizing [AAAI 2022 Workshop on Human-Centric Self-supervised Learning (HC-SSL)](https://hcssl.github.io/AAAI-22/).
+- [Aug 21] We are organizing [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/).
 - [Aug 21] One paper that I supervised got accepted into HAI 2021.
 - [Mar 21] I received postgraduate affiliation award from Vector Institute.
 - [Dec 20] Our paper CardioGAN got accepted in AAAI 2021.
