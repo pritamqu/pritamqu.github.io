@@ -22,7 +22,7 @@ permalink: /bio/
 **Research Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
 <!-- I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director).  -->
-My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Please find more (here)[./research.md].
+My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Please find more [here](./research.md).
 
 **Machine Learning Research Intern** at Borealis AI, Toronto, Canada, Fall 2022.
 
@@ -58,6 +58,7 @@ My research is primarily focused on self-supervised learning to learn meaningful
 - Served on the organizing committee of AI/GI/CRV Conference 2019.
 
 **Reviewing/PC Member**
+
 I regularly review for the following venues:
 - NeurIPS, CVPR, ICCV, ECCV, ICASSP, ACII, SMC
 - IEEE Transactions on - Affective Computing, Artificial Intelligence

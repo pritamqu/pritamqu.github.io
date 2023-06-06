@@ -53,6 +53,31 @@ permalink: /research/
 	</div>
 </div>
 
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2111.05329"> <img class="pub-image" src="/assets/publications/crisscross.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				Self-supervised Audio-Visual Representation Learning with Relaxed Cross-Modal Synchronicity
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				AAAI Conference on Artificial Intelligence, (AAAI), 2023. <mark class="red">Oral</mark>
+			</div>
+			<div class="pub-links">
+				<a href="https://arxiv.org/abs/2111.05329">[paper]</a>
+				<a href="https://github.com/pritamqu/crisscross">[code]</a>
+				<a href="https://pritamqu.github.io/CrissCross/">[website]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
 
 <div class="container-fluid">
 	<div class="row pub-entry">
@@ -79,29 +104,6 @@ permalink: /research/
 </div>
 
 
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2111.05329"> <img class="pub-image" src="/assets/publications/crisscross.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				Self-supervised Audio-Visual Representation Learning with Relaxed Cross-Modal Synchronicity
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
-			</div>
-			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (AAAI), 2023. <mark class="red">Oral</mark>
-			</div>
-			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2111.05329">[paper]</a>
-				<a href="https://github.com/pritamqu/crisscross">[code]</a>
-				<a href="https://pritamqu.github.io/CrissCross/">[website]</a>
-			</div>
-		</div>
-	</div>
-</div>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
