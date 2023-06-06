@@ -37,9 +37,8 @@ permalink: /
 
 <a name="/news"></a>
 
-I am a PhD student at Queen’s University, Canada and an Affiliate at Vector Institute. My research is broadly focused on self-supervised learning. 
-**Currently, I am looking for internship opportunity, if you have any opening, please feel free to reach out to me.**
-Apart from research, I am intersted in photography and short-film making, you may find a few selected photographs [here](https://www.flickr.com/photos/pritams-photography/albums/72177720295443321).
+I am a PhD student at Queen’s University, Canada and Vector Institute.
+My primary research interests include self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, and continual learning, among a few others. I am highly interested in large-scale pretraining of foundational models in vision and vision-language domains, understanding the high-level context from long videos, among a few others. **I am looking for an internship opportunity in related areas.** My resume can be shared upon request. If you have any opening, please feel free to reach out to me. 
 
 # News
 - [Nov 22] **2 papers got accepted in AAAI 2023.**

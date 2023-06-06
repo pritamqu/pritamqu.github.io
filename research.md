@@ -1,8 +1,32 @@
 ---
 layout: page
-title: Publications
-permalink: /publications/
+title: Research
+permalink: /research/
 ---
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/ood_vssl.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				Uncovering the Hidden Dynamics of Video Self-supervised Learning under Distribution Shifts
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Beirami, A. Etemad
+			</div>
+			<div class="pub-conf">
+				Under review.
+			</div>
+			<div class="pub-links">
+				<a href="https://arxiv.org/abs/2306.02014">[paper]</a>
+				<a href="https://github.com/pritamqu/OOD-VSSL">[code]</a>
+				<a href="https://pritamqu.github.io/OOD-VSSL/">[website]</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 
 <div class="container-fluid">
