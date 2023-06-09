@@ -7,7 +7,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/ood_vssl.png" width="100%" height="100%"> </a>
+			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/ood_vssl.png" width="auto" height="auto"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -32,7 +32,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/xkd.png"> </a>
+			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/xkd.png" width="auto" height="auto"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
