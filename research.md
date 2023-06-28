@@ -118,7 +118,7 @@ permalink: /research/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (AAAI), 2021.
+				AAAI Conference on Artificial Intelligence, (<strong>AAAI</strong>), 2021.
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2010.00104">[paper]</a>
