@@ -343,7 +343,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
+			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -365,7 +365,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
+			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -387,7 +387,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/poster_2021_rais.png"> </a>
+			<a href="/files/poster/poster_2021_rais.pdf"> <img class="pub-image" src="/assets/publications/poster_2021_rais.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -409,7 +409,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/poster_2019_feas.png">
+			<a href="/files/poster/poster_2019_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2019_feas.png">
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
