@@ -434,7 +434,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://qspace.library.queensu.ca/handle/1974/27746"> <img class="pub-image" src="/assets/publications/QueensU_thesis.png"> </a>
+			<a href="https://qspace.library.queensu.ca/handle/1974/27746"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
