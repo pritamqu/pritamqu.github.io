@@ -338,7 +338,7 @@ permalink: /research/
 </div>
  -->
 
-<h1> Symposium/Posters/Others </h1>
+<h1> Symposiums/Posters/Others </h1>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
