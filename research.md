@@ -342,10 +342,10 @@ permalink: /research/
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<div class="col-sm-3">
+		<!-- <div class="col-sm-3">
 			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
-		</div>
-		<div class="col-sm-9">
+		</div> -->
+		<div class="col-sm-12">
 			<div class="pub-title">
 				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
 			</div>
@@ -364,10 +364,10 @@ permalink: /research/
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<div class="col-sm-3">
+		<!-- <div class="col-sm-3">
 			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
-		</div>
-		<div class="col-sm-9">
+		</div> -->
+		<div class="col-sm-12">
 			<div class="pub-title">
 				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
 			</div>
@@ -386,10 +386,10 @@ permalink: /research/
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<div class="col-sm-3">
+		<!-- <div class="col-sm-3">
 			<a href="/files/poster/poster_2021_rais.pdf"> <img class="pub-image" src="/assets/publications/poster_2021_rais.png"> </a>
-		</div>
-		<div class="col-sm-9">
+		</div> -->
+		<div class="col-sm-12">
 			<div class="pub-title">
 				Toward Wearables of the Future: Affordable Acquisition of Continuous ECG with Deep Learning
 			</div>
@@ -408,10 +408,10 @@ permalink: /research/
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<div class="col-sm-3">
+		<!-- <div class="col-sm-3">
 			<a href="/files/poster/poster_2019_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2019_feas.png">
-		</div>
-		<div class="col-sm-9">
+		</div> -->
+		<div class="col-sm-12">
 			<div class="pub-title">
 				A Deep Learning Approach for AR-based Adaptive Simulation using Wearables
 			</div>
@@ -433,10 +433,10 @@ permalink: /research/
 
 <div class="container-fluid">
 	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="https://qspace.library.queensu.ca/handle/1974/27746"> <img class="pub-image" src="/assets/publications/QueensU_thesis.png"> </a>
-		</div> 
-		<div class="col-sm-9">
+		<!-- <div class="col-sm-3">
+			<a href="https://qspace.library.queensu.ca/handle/1974/27746"> <img class="pub-image" src="/assets/publications/img.png"> </a>
+		</div> -->
+		<div class="col-sm-12">
 			<div class="pub-title">
 				Self-supervised ECG Representation Learning for Affective Computing
 			</div>
