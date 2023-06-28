@@ -406,10 +406,10 @@ permalink: /research/
 	</div>
 </div>
 
-<!-- <div class="container-fluid">
+<div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="/files/poster/poster_2019_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2019_feas.png">
+			<a href="/files/poster/poster_2019_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2019_feas.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -427,7 +427,7 @@ permalink: /research/
 		</div>
 	</div>
 </div>
- -->
+
 
 <h1> Theses </h1> 
 
