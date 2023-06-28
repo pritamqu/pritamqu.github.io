@@ -345,7 +345,7 @@ permalink: /research/
 		<div class="col-sm-3">
 			<a href=""> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
 		</div>
-		<div class="col-sm-12">
+		<div class="col-sm-9">
 			<div class="pub-title">
 				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
 			</div>
@@ -367,7 +367,7 @@ permalink: /research/
 		<div class="col-sm-3">
 			<a href=""> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
 		</div>
-		<div class="col-sm-12">
+		<div class="col-sm-9">
 			<div class="pub-title">
 				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
 			</div>
@@ -389,7 +389,7 @@ permalink: /research/
 		<div class="col-sm-3">
 			<a href=""> <img class="pub-image" src="/assets/publications/poster_2021_rais.png"> </a>
 		</div>
-		<div class="col-sm-12">
+		<div class="col-sm-9">
 			<div class="pub-title">
 				Toward Wearables of the Future: Affordable Acquisition of Continuous ECG with Deep Learning
 			</div>
@@ -411,7 +411,7 @@ permalink: /research/
 		<div class="col-sm-3">
 			<a href=""> <img class="pub-image" src="/assets/publications/poster_2019_feas.png">
 		</div>
-		<div class="col-sm-12">
+		<div class="col-sm-9">
 			<div class="pub-title">
 				A Deep Learning Approach for AR-based Adaptive Simulation using Wearables
 			</div>
