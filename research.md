@@ -66,7 +66,7 @@ permalink: /research/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (AAAI), 2023. <mark class="red">Oral</mark>
+				AAAI Conference on Artificial Intelligence, (<strong>AAAI</strong>), 2023. <mark class="red">Oral</mark>
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2111.05329">[paper]</a>
@@ -92,7 +92,7 @@ permalink: /research/
 				<strong>P. Sarkar</strong>, A. Posen, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (AAAI), 2023.
+				AAAI Conference on Artificial Intelligence, (<strong>AAAI</strong>), 2023.
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2205.06887">[paper]</a>
@@ -167,7 +167,7 @@ permalink: /research/
 				<strong>P. Sarkar*</strong>, S. Lobmaier*, B. Fabre, G. Berg, A. Mueller, M. G. Frasch, M. C. Antonelli, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Scientific Reports, 2021.
+				Nature Scientific Reports, 2021.
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2011.02000">[paper]</a>
