@@ -38,7 +38,7 @@ permalink: /
 <a name="/news"></a>
 
 I am a PhD student at Queen’s University, Canada and Vector Institute.
-My primary research interests include self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, and continual learning, among a few others. I am highly interested in large-scale pretraining of foundational models in vision and vision-language domains, understanding the high-level context from long videos, among a few others. **I am looking for an internship opportunity in related areas.** My resume can be shared upon request. If you have any opening, please feel free to reach out to me. 
+My primary research interests include self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, and continual learning, among a few others. I am highly interested in large-scale pretraining of foundational models in vision and vision-language domains, understanding the high-level context from long videos, among a few others. **I am looking for an internship opportunity in related areas.** If you have any opening, please feel free to reach out to me. 
 
 # News
 - [Nov 22] **2 papers got accepted in AAAI 2023.**

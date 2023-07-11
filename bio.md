@@ -39,7 +39,6 @@ My research is primarily focused on self-supervised learning to learn meaningful
 - TA for ELEC 472 (Artificial Intelligence), Summer 2019, Winter 2021.
 - TA for ELEC-252 (Electronics I), Fall 2020
 - TA for APSC-143 (Introduction to Computer Programming for Engineers), Fall 2019.
-<!-- - Course Developer for ELEC 472 (Artificial Intelligence), Summer 2019. -->
 
 <a name="/academic_service"></a>
 
@@ -53,9 +52,9 @@ My research is primarily focused on self-supervised learning to learn meaningful
 
 **Organizing workshops and conferences**
 - Session chair for CV tracks in AAAI 2023.
-- Workflow and Publicity Chair at [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/). 
-- Workflow Chair at [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/). 
-- Served on the organizing committee of AI/GI/CRV Conference 2019.
+- Co-organizer of [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/). 
+- Co-organizer of [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/). 
+- Volunteer at AI/GI/CRV Conference 2019.
 
 **Reviewing/PC Member**
 
