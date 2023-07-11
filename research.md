@@ -32,12 +32,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<!-- <a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/xkd.png" width="100%"> </a> -->
-			<video class="pub-image" width="100%" alt="XKD" title="XKD" controls loop autoplay poster="./assets/publications/xkd.png">
-        		<source src='./assets/publications/xkd.mp4' type='video/mp4'>
-        		Your browser does not support the video tag.
-    		</video>
-
+			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/xkd.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
