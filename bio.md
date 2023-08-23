@@ -21,7 +21,7 @@ permalink: /bio/
 
 **Research Assistant** at Queen's University, Kingston, Canada, 2018 - Present
 
-<!-- I am a Research Assistant in [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/) at Queen's, working with [Prof. Etemad](https://www.aiimlab.com/director).  -->
+Here at Queen's, I am affiliated to [Ingenuity Labs Research Institute](https://ingenuitylabs.queensu.ca/) and [Ambient Intelligence and Interactive Machines (Aiim) Lab](https://www.aiimlab.com/). 
 My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Please find more [here](./research.md).
 
 **Machine Learning Research Intern** at Borealis AI, Toronto, Canada, Fall 2022.
@@ -45,6 +45,7 @@ My research is primarily focused on self-supervised learning to learn meaningful
 ### Academic Service 
 
 **Mentorship**
+- Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, present.
 - Brennan Cruse, PhD at CS, Queen’s University, present.
 - Debaditya Shome, MASc at ECE, Queen’s University, present.
 - Jordan Posen, ECE at Queen's, undergrad final year project, 2021.
@@ -59,8 +60,12 @@ My research is primarily focused on self-supervised learning to learn meaningful
 **Reviewing/PC Member**
 
 I regularly review for the following venues:
-- NeurIPS, CVPR, ICCV, ECCV, ICASSP, ACII, SMC
+- NeurIPS, CVPR, ICCV, ECCV, ICASSP, ACII
 - IEEE Transactions on - Affective Computing, Artificial Intelligence
+
+**Talks**
+- [Jul 2023] at Ingenuity Labs, Title: Learning withour human supervision
+- [Jan 2023] at Borealis AI, Title: AugESeq: Augmentation Improves Event Sequence Prediction
 
 **Others**
 - Student Rep. in Graduate Studies Academic Advisory Committee, Dept. of ECE, Queen's, 2020 - 2021.

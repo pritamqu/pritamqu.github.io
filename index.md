@@ -19,9 +19,13 @@ permalink: /
                 Ph.D. Student at Queen&apos;s University<br>
                 Affiliate at Vector Institute
             </span><br>
-            <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 16px;'>
+            <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
                 pritam[dot]sarkar[at]queensu[dot]ca
             </span>
+            <!-- <br>
+            <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
+                sarkar[dot]pritam[dot]ai[at]gmail[dot]com
+            </span> (personal email id) -->
             <!-- </strong> -->
         </h4>
         <a title="Email" href="mailto:pritam.sarkar@queensu.ca" target="_blank"><img src="./assets/logos/email.png" width="7.5%" height="7.5%" alt="Email"></a> 
@@ -38,7 +42,10 @@ permalink: /
 <a name="/news"></a>
 
 I am a PhD student at Queen’s University, Canada and Vector Institute.
-My primary research interests include self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, and continual learning, among a few others. I am highly interested in large-scale pretraining of foundational models in vision and vision-language domains, understanding the high-level context from long videos, among a few others. **I am looking for an internship opportunity in related areas.** If you have any opening, please feel free to reach out to me. 
+My primary research interests include self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, and continual learning, among a few others. I am highly interested in large-scale pretraining of foundational models in vision and multimodal domains, understanding the high-level context from long videos, among a few others. 
+
+<!-- **I am looking for an new opportunities, please feel free to reach out if you have any opening**. -->
+<div><span style="color: #ff0000;"><strong>I am looking for new opportunities, please feel free to reach out if you have any openings.</strong></span></div>
 
 # News
 - [Nov 22] **2 papers got accepted in AAAI 2023.**
