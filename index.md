@@ -61,9 +61,33 @@ I am interested in self-/un-supervised learning, computer vision, video understa
 
 - [Aug 23] Accepted an offer from Google to join as a Student Researcher.
 - [Nov 22] 2 papers got accepted in AAAI 2023.
-<!-- <details>
-  <summary style="margin-left: 25px;">Click to see more</summary> -->
-- [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
+
+<details>
+  <summary style="margin-left: 25px;">Click to see more</summary>
+  <ul>
+  <li><a href="https://r2hcai.github.io/AAAI-23/">[Oct 22] We are organizing AAAI 2023 Workshop on R2HCAI</a></li>
+  <li>[Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.</li>
+  <li>[Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.</li>
+  <li>[Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.</li>
+  <li><a href="https://hcssl.github.io/AAAI-22/">[Aug 21] We are organizing AAAI 2022 Workshop on HC-SSL</a></li>
+  <li>[Aug 21] One paper that I supervised got accepted into HAI 2021.</li>
+  <li>[Mar 21] I received postgraduate affiliation award from Vector Institute.</li>
+  <li>[Dec 20] Our paper CardioGAN got accepted in AAAI 2021.</li>
+  <li>[Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
+  <li>[Apr 20] Successfully defended my M.A.Sc. thesis. <a href="https://www.linkedin.com/posts/sarkarpritam_phd-thesisabrdefense-activity-6656981020174356480-K8K5/">picture</a></li>
+  <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for lecture presentation.</li>
+  <li>[Sep 19] It was a great experience to visit the University of Cambridge and meet Rosalind Picard. <a href="https://www.linkedin.com/posts/sarkarpritam_universityofcambridge-activity-6592510130728906752-bEfP/">picture</a></li>
+  <li>[Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.</li>
+  <li>[Sep 18] Joined Queen's for master's degree.</li>
+  <li>[Dec 17] Joined Infosys as a Sr. System Engineer.</li>
+  <li>[Nov 15] Joined Tech Mahindra as an Associate Software Engineer.</li>
+  <li>[Jun 15] Completed graduation!</li>
+</ul>
+
+
+</details>
+
+<!-- - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
 - [Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.
@@ -79,9 +103,7 @@ I am interested in self-/un-supervised learning, computer vision, video understa
 - [Sep 18] Joined Queen's for master's degree.
 - [Dec 17] Joined Infosys as a Sr. System Engineer.
 - [Nov 15] Joined Tech Mahindra as an Associate Software Engineer.
-- [Jun 15] Completed graduation!
-
-<!-- </details> -->
+- [Jun 15] Completed graduation! -->
 
 <!-- <hr> -->
 
