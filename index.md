@@ -46,14 +46,16 @@ I will be joining [Google Research](https://research.google/) as a Student Resea
 My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Earlier, I interened at [Borealis AI](https://www.borealisai.com/) in Fall 2022. I joined [Queen's](https://queensu.ca/) in 2018 and completed my master's in 2020. Prior to that, I worked as a Software Engineer for approximately total of 3 years in [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's in 2015 in Electrical Engineering from [WBUT, India](/).
 
 
-## Research interests
+### Research interests
+<hr>
 Currently, I am interested in self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, understanding the high-level context from long videos, among a few others. Please find more [here](./research.md).
 
 
 <!-- <div><span style="color: #ff0000;"><strong>I am looking for new opportunities, please feel free to reach out if you have any openings.</strong></span></div> -->
 
 
-## News
+### News
+<hr>
 - [Aug 23] Accepted an offer from Google to join as a Student Researcher.
 - [Nov 22] 2 papers got accepted in AAAI 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
@@ -79,8 +81,8 @@ Currently, I am interested in self-/un-supervised learning, computer vision, vid
 
 <a name="/academic_service"></a>
 
-## Academic Service 
-
+### Academic Service 
+<hr>
 **Mentorship**
 - Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, present.
 - Brennan Cruse, PhD at CS, Queen’s University, present.
