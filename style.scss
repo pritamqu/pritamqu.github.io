@@ -327,6 +327,19 @@ footer {
 }
 
 
+// collapsable item list in markdown
+
+details {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 8px;
+  margin-bottom: 16px;
+}
+
+summary {
+  font-weight: bold;
+  cursor: pointer;
+}
 
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

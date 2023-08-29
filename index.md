@@ -54,10 +54,17 @@ I am interested in self-/un-supervised learning, computer vision, video understa
 <!-- <div><span style="color: #ff0000;"><strong>I am looking for new opportunities, please feel free to reach out if you have any openings.</strong></span></div> -->
 
 
+
+
 ### News
 <hr>
+
 - [Aug 23] Accepted an offer from Google to join as a Student Researcher.
 - [Nov 22] 2 papers got accepted in AAAI 2023.
+
+<details>
+  <summary style="margin-left: 25px;">Click to see more</summary>
+
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
@@ -76,13 +83,36 @@ I am interested in self-/un-supervised learning, computer vision, video understa
 - [Nov 15] Joined Tech Mahindra as an Associate Software Engineer.
 - [Jun 15] Completed graduation!
 
+</details>
+
 <!-- <hr> -->
+
+<a name="/education"></a>
+
+### Education
+<hr>
+
+- PhD at Queen's University, Canada, 2020 - Present.
+- MASc at Queen's University, Canada, 2018 - 2020.
+- B.Tech at West Bengal University of Technology, India, 2011 - 2015.
+
+<a name="/employment"></a>
+
+### Employment/Experience
+<hr>
+
+- Research Assistant at Queen's University, Kingston, Canada, 2018 - Present.
+- Machine Learning Research Intern at Borealis AI, Toronto, Canada, Fall 2022.
+- Sr. System Engineer at Infosys Ltd., Bangalore, India, 2017 - 2018.
+- Software Engineer at Tech Mahindra Ltd., Hyderabad, India, 2015 - 2017.
+- Teaching Assistant/Guest Lecturer at Queen's University, Kingston, Canada, 2018 - Present.
 
 
 <a name="/academic_service"></a>
 
 ### Academic Service 
 <hr>
+
 **Mentorship**
 - Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, present.
 - Brennan Cruse, PhD at CS, Queen’s University, present.
@@ -98,7 +128,7 @@ I am interested in self-/un-supervised learning, computer vision, video understa
 
 **Reviewing/PC Member**
 
-I regularly review for the following venues:
+<!-- I regularly review for the following venues: -->
 - NeurIPS, CVPR, ICCV, ECCV, ICASSP, ACII
 - IEEE Transactions on - Affective Computing, Artificial Intelligence
 
