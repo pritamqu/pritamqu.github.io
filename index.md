@@ -61,10 +61,8 @@ I am interested in self-/un-supervised learning, computer vision, video understa
 
 - [Aug 23] Accepted an offer from Google to join as a Student Researcher.
 - [Nov 22] 2 papers got accepted in AAAI 2023.
-
-<details>
-  <summary style="margin-left: 25px;">Click to see more</summary>
-
+<!-- <details>
+  <summary style="margin-left: 25px;">Click to see more</summary> -->
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
@@ -83,7 +81,7 @@ I am interested in self-/un-supervised learning, computer vision, video understa
 - [Nov 15] Joined Tech Mahindra as an Associate Software Engineer.
 - [Jun 15] Completed graduation!
 
-</details>
+<!-- </details> -->
 
 <!-- <hr> -->
 
