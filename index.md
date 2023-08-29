@@ -42,7 +42,7 @@ permalink: /
 
 <a name="/news"></a>
 
-I will be joining [Google Research](https://research.google/) as a Student Researcher starting from October 2023. I am a PhD student at [Queen’s University, Canada](https://queensu.ca/) and [Vector Institute](https://vectorinstitute.ai/). 
+I will be joining [Google Research](https://research.google/) as a Student Researcher starting from October 2023. I am a PhD candidate at [Queen’s University, Canada](https://queensu.ca/) and affiliated with [Vector Institute](https://vectorinstitute.ai/). 
 My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Earlier, I interened at [Borealis AI](https://www.borealisai.com/) in Fall 2022. I joined [Queen's](https://queensu.ca/) in 2018 and completed my master's in 2020. Prior to that, I worked as a Software Engineer for approximately total of 3 years in [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's in 2015 from [West Bengal University of Technology, India](/).
 
 
@@ -103,7 +103,7 @@ I regularly review for the following venues:
 - IEEE Transactions on - Affective Computing, Artificial Intelligence
 
 **Talks**
-- [Jul 2023] at Ingenuity Labs, Title: Learning withour human supervision
-- [Jan 2023] at Borealis AI, Title: AugESeq: Augmentation Improves Event Sequence Prediction
+- [Jul 2023] at Ingenuity Labs, Queen's University, Title: Learning withour human supervision
+- [Jan 2023] at Borealis AI, Title: AugESeq: Augmentation improves Event Sequence prediction
 
 
