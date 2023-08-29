@@ -15,10 +15,11 @@ permalink: /
             <span style="color: rgb(71, 85, 119); font-family: 'Caveat'; font-size: 36px;">
                 Pritam Sarkar
             </span><br>
-            <span style="font-size: 16px;">
+            <!-- <span style="font-size: 16px;">
+                Incoming Student Researcher at Google<br>
                 Ph.D. Student at Queen&apos;s University<br>
                 Affiliate at Vector Institute
-            </span><br>
+            </span><br> -->
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
                 pritam[dot]sarkar[at]queensu[dot]ca
             </span>
@@ -41,14 +42,20 @@ permalink: /
 
 <a name="/news"></a>
 
-I am a PhD student at Queen’s University, Canada and Vector Institute.
-My primary research interests include self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, and continual learning, among a few others. I am highly interested in large-scale pretraining of foundational models in vision and multimodal domains, understanding the high-level context from long videos, among a few others. 
+I will be joining [Google Research](https://research.google/) as a Student Researcher starting from October 2023. I am a PhD student at [Queen’s University, Canada](https://queensu.ca/) and [Vector Institute](https://vectorinstitute.ai/). 
+My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Earlier, I interened at [Borealis AI](https://www.borealisai.com/) in Fall 2022. I joined [Queen's](https://queensu.ca/) in 2018 and completed my master's in 2020. Prior to that, I worked as a Software Engineer for approximately total of 3 years in [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's in 2015 in Electrical Engineering from [WBUT, India](/).
 
-<!-- **I am looking for an new opportunities, please feel free to reach out if you have any opening**. -->
-<div><span style="color: #ff0000;"><strong>I am looking for new opportunities, please feel free to reach out if you have any openings.</strong></span></div>
 
-# News
-- [Nov 22] **2 papers got accepted in AAAI 2023.**
+## Research interests
+Currently, I am interested in self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, understanding the high-level context from long videos, among a few others. Please find more [here](./research.md).
+
+
+<!-- <div><span style="color: #ff0000;"><strong>I am looking for new opportunities, please feel free to reach out if you have any openings.</strong></span></div> -->
+
+
+## News
+- [Aug 23] Accepted an offer from Google to join as a Student Researcher.
+- [Nov 22] 2 papers got accepted in AAAI 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
@@ -67,5 +74,34 @@ My primary research interests include self-/un-supervised learning, computer vis
 - [Nov 15] Joined Tech Mahindra as an Associate Software Engineer.
 - [Jun 15] Completed graduation!
 
-<hr>
+<!-- <hr> -->
+
+
+<a name="/academic_service"></a>
+
+## Academic Service 
+
+**Mentorship**
+- Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, present.
+- Brennan Cruse, PhD at CS, Queen’s University, present.
+- Debaditya Shome, MASc at ECE, Queen’s University, present.
+- Jordan Posen, ECE at Queen's, undergrad final year project, 2021.
+- Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
+
+**Organizing workshops and conferences**
+- Session chair for CV tracks in AAAI 2023.
+- Co-organizer of [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/). 
+- Co-organizer of [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/). 
+- Volunteer at AI/GI/CRV Conference 2019.
+
+**Reviewing/PC Member**
+
+I regularly review for the following venues:
+- NeurIPS, CVPR, ICCV, ECCV, ICASSP, ACII
+- IEEE Transactions on - Affective Computing, Artificial Intelligence
+
+**Talks**
+- [Jul 2023] at Ingenuity Labs, Title: Learning withour human supervision
+- [Jan 2023] at Borealis AI, Title: AugESeq: Augmentation Improves Event Sequence Prediction
+
 
