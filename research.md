@@ -362,7 +362,7 @@ permalink: /research/
 </div>
  -->
 
-<h1> Symposiums/Posters/Others </h1>
+<!-- <h1> Symposiums/Posters/Others </h1>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
@@ -450,10 +450,10 @@ permalink: /research/
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
 
 
-<h1> Theses </h1> 
+<!-- <h1> Theses </h1> 
 
 <div class="container-fluid">
 	<div class="row pub-entry">
@@ -475,4 +475,4 @@ permalink: /research/
 			</div>
 		</div>
 	</div>
-</div>
+</div> -->
