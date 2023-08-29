@@ -42,13 +42,13 @@ permalink: /
 
 <a name="/news"></a>
 
-I will be joining [Google Research](https://research.google/) as a Student Researcher starting from October 2023. I am a PhD candidate at [Queen’s University, Canada](https://queensu.ca/) and affiliated with [Vector Institute](https://vectorinstitute.ai/). 
-My research is primarily focused on self-supervised learning to learn meaningful representations without (or with minimal) human supervision. Earlier, I interened at [Borealis AI](https://www.borealisai.com/) in Fall 2022. I joined [Queen's](https://queensu.ca/) in 2018 and completed my master's in 2020. Prior to that, I worked as a Software Engineer for approximately total of 3 years in [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's in 2015 from [West Bengal University of Technology, India](/).
+I will be joining [Google Research](https://research.google/) as a Student Researcher starting from October 2023. I am a PhD candidate at [Queen’s University](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
+My research primarily focuses on self-supervised learning to acquire meaningful representations from unlabelled data, i.e., without (or with minimal) human supervision. Earlier, I interned at [Borealis AI](https://www.borealisai.com/) in Fall 2022. I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
 
 
 ### [Research](./research.md)
 <hr>
-I am interested in self-/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, understanding the high-level context from long videos, among a few others. Please find more about my research [here](./research.md).
+I am interested in self/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, and understanding the high-level context from long videos, among a few others. Please find more about my research [here](./research.md).
 
 
 <!-- <div><span style="color: #ff0000;"><strong>I am looking for new opportunities, please feel free to reach out if you have any openings.</strong></span></div> -->
@@ -85,7 +85,7 @@ I am interested in self-/un-supervised learning, computer vision, video understa
   -->
   <li>[Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
   <li>[Apr 20] Successfully defended my M.A.Sc. thesis. <a href="https://www.linkedin.com/posts/sarkarpritam_phd-thesisabrdefense-activity-6656981020174356480-K8K5/">picture</a></li>
-  <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for lecture presentation.</li>
+  <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for oral presentation.</li>
   <li>[Sep 19] It was a great experience to visit the University of Cambridge and meet Rosalind Picard. <a href="https://www.linkedin.com/posts/sarkarpritam_universityofcambridge-activity-6592510130728906752-bEfP/">picture</a></li>
   <li>[Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.</li>
   <li>[Sep 18] Joined Queen's for master's degree.</li>
