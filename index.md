@@ -30,7 +30,7 @@ permalink: /
             <!-- </strong> -->
         </h4>
         <a title="Email" href="mailto:pritam.sarkar@queensu.ca" target="_blank"><img src="./assets/logos/email.png" width="7.5%" height="7.5%" alt="Email"></a> 
-        <a title="Google Scholar" href="https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ" target="_blank"><img src="./assets/logos/google_scholar.png" width="7.5%" height="7.5%" alt="Google Scholar"></a> 
+        <a title="Google Scholar" href="https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./assets/logos/google_scholar.png" width="7.5%" height="7.5%" alt="Google Scholar"></a> 
         <a title="LinkedIn" href="https://www.linkedin.com/in/sarkarpritam/" target="_blank"><img src="./assets/logos/linkedin.png" width="7.5%" height="7.5%" alt="LinkedIn"></a> 
         <a title="GitHub" href="https://github.com/pritamqu/" target="_blank"><img src="./assets/logos/github.png" width="7.5%" height="7.5%" alt="GitHub"></a> 
         <!-- <a title="Resume" href="./files/sarkar_resume.pdf" target="_blank"><img src="./assets/logos/cv.png" width="7.5%" height="7.5%" alt="Resume"></a>  -->
@@ -106,7 +106,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 <hr>
 
 - PhD at Queen's University, Canada, 2020 - Present.
-- MASc at Queen's University, Canada, 2018 - 2020. [M.A.Sc. Thesis](https://qspace.library.queensu.ca/handle/1974/27746)
+- MASc at Queen's University, Canada, 2018 - 2020. Link to [M.A.Sc. Thesis](https://qspace.library.queensu.ca/handle/1974/27746).
 - B.Tech at West Bengal University of Technology, India, 2011 - 2015.
 
 <a name="/employment"></a>
