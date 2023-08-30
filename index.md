@@ -111,7 +111,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 
 <a name="/employment"></a>
 
-### Employment/Experience
+### Employment
 <hr>
 
 - Research Assistant at Queen's University, Kingston, Canada, 2018 - Present.
