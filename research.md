@@ -147,7 +147,7 @@ permalink: /research/
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2010.00104">[paper]</a>
 				<a href="https://github.com/pritamqu/ppg2ecg-cardiogan">[code]</a>
-				<a href="https://pritamqu.github.io/ppg2ecg-cardiogan/">[website]</a>
+				<!-- <a href="https://pritamqu.github.io/ppg2ecg-cardiogan/">[website]</a> -->
 				<a href="https://slideslive.com/38948024/cardiogan-attentive-generative-adversarial-network-with-dual-discriminators-for-synthesis-of-ecg-from-ppg">[video]</a>
 			</div>
 		</div>
