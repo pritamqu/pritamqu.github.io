@@ -15,11 +15,11 @@ permalink: /
             <span style="color: rgb(71, 85, 119); font-family: 'Caveat'; font-size: 36px;">
                 Pritam Sarkar
             </span><br>
-            <!-- <span style="font-size: 16px;">
-                Incoming Student Researcher at Google<br>
+            <span style="font-size: 16px;">
+                <!-- Incoming Student Researcher at Google<br> -->
                 Ph.D. Student at Queen&apos;s University<br>
                 Affiliate at Vector Institute
-            </span><br> -->
+            </span><br>
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
                 pritam[dot]sarkar[at]queensu[dot]ca
             </span>
