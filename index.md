@@ -106,7 +106,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 <hr>
 
 - PhD at Queen's University, Canada, 2020 - Present.
-- MASc at Queen's University, Canada, 2018 - 2020. Link to [M.A.Sc. Thesis](https://qspace.library.queensu.ca/handle/1974/27746).
+- MASc at Queen's University, Canada, 2018 - 2020. Link to [MASc Thesis](https://qspace.library.queensu.ca/handle/1974/27746).
 - B.Tech at West Bengal University of Technology, India, 2011 - 2015.
 
 <a name="/employment"></a>
