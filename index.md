@@ -51,8 +51,7 @@ My research primarily focuses on self-supervised learning to acquire meaningful 
 I am interested in self/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, and understanding the high-level context from long videos, among a few others. Please find more about my research [here](./research.md).
 
 
-<!-- <div><span style="color: #ff0000;"><strong>I am looking for new opportunities, please feel free to reach out if you have any openings.</strong></span></div> -->
-
+<!-- <mark class="red">highlighted</mark> -->
 
 
 
