@@ -7,7 +7,7 @@ permalink: /
 <div class="row">
 	<!-- <center> -->
     <div class="col-sm-3 col-xs-12">
-        <img src="./assets/my_images/pp_square.jpg" >
+        <img src="./assets/my_images/pp_round.jpg" >
     </div>
     <div class="col-sm-9 col-xs-12" style="margin-bottom: 0;">
         <h4>
@@ -59,16 +59,16 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### News
 <hr>
 
-- [Aug 23] Accepted an offer from Google to join as a Student Researcher.
-- [Nov 22] 2 papers got accepted in AAAI 2023.
+- [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
+- [Nov 22] **2** papers got accepted in **AAAI** 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
-- [Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
+- [Oct 22] **Honourable Mention** in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
-- [Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.
+- [Oct 21] **Best poster** award at Robotics and AI Symposium, Ingenuity Labs, 2021.
 - [Aug 21] We are organizing [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/).
 - [Aug 21] One paper that I supervised got accepted into HAI 2021.
 - [Mar 21] I received postgraduate affiliation award from Vector Institute.
-- [Dec 20] Our paper CardioGAN got accepted in AAAI 2021.
+- [Dec 20] Our paper CardioGAN got accepted in **AAAI** 2021.
 
 <details>
   <summary style="margin-left: 25px;">Click to see more</summary>
@@ -142,7 +142,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 **Reviewing/PC Member**
 
 <!-- I regularly review for the following venues: -->
-- NeurIPS, CVPR, ICCV, ECCV, ICASSP, ACII
+- NeurIPS, ICLR, CVPR, ICCV, ECCV, ICASSP, ACII
 - IEEE Transactions on - Affective Computing, Artificial Intelligence
 
 **Talks**
