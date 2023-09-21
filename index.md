@@ -58,6 +58,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### News
 <hr>
 
+- [Sep 23] Our paper got accepted in **NeurIPS** as a Spotlight.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
 - [Nov 22] **2** papers got accepted in **AAAI** 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).

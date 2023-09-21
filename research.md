@@ -17,7 +17,7 @@ permalink: /research/
 				<strong>P. Sarkar</strong>, A. Beirami, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Under review.
+				Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2023. <mark class="red">Spotlight</mark>
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2306.02014">[paper]</a>
