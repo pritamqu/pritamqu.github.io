@@ -16,8 +16,8 @@ permalink: /
                 Pritam Sarkar
             </span><br>
             <span style="font-size: 16px;">
-                <!-- Incoming Student Researcher at Google<br> -->
-                Ph.D. Student at Queen&apos;s University<br>
+                Student Researcher at Google<br>
+                Ph.D. Candidate at Queen&apos;s University<br>
                 Affiliate at Vector Institute
             </span><br>
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
@@ -42,7 +42,7 @@ permalink: /
 
 <a name="/news"></a>
 
-I will be joining [Google Research](https://research.google/) as a Student Researcher starting from October 2023. I am a PhD candidate at [Queen’s University](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
+Currently, I am a Student Researcher at [Google](/). I am a PhD candidate at [Queen’s University](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
 My research primarily focuses on self-supervised learning to acquire meaningful representations from unlabelled data, i.e., without (or with minimal) human supervision. Earlier, I interned at [Borealis AI](https://www.borealisai.com/) in Fall 2022. I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
 
 
@@ -128,7 +128,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 
 **Mentorship**
 - Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, present.
-- Brennan Cruse, PhD at CS, Queen’s University, present.
+<!-- - Brennan Cruse, PhD at CS, Queen’s University, present. -->
 - Debaditya Shome, MASc at ECE, Queen’s University, present.
 - Jordan Posen, ECE at Queen's, undergrad final year project, 2021.
 - Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
@@ -139,7 +139,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 - Co-organizer of [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/). 
 - Volunteer at AI/GI/CRV Conference 2019.
 
-**Reviewing/PC Member**
+**Reviewing**
 
 <!-- I regularly review for the following venues: -->
 - NeurIPS, ICLR, CVPR, ICCV, ECCV, ICASSP, ACII
