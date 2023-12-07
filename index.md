@@ -46,6 +46,10 @@ Currently, I am a Student Researcher at [Google](https://research.google/). I am
 My research primarily focuses on self-supervised learning to acquire meaningful representations from unlabelled data, i.e., without (or with minimal) human supervision. Earlier, I interned at [Borealis AI](https://www.borealisai.com/) in Fall 2022. I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
 
 
+<mark class="red">
+I am on the job market for industrial roles e.g., internship or full-time. Please feel free to reach out if you have a suitable opportunity. <a title="Contact me for my CV" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me for my CV</a>
+</mark>
+
 ### [Research](./research.md)
 <hr>
 I am interested in self/un-supervised learning, computer vision, video understanding, multimodal learning, out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, and multimodal LLMs, among a few others. Please find more about my research [here](./research.md).
@@ -54,9 +58,6 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### News
 <hr>
 
-<mark class="red">I am on the job market for industrial roles e.g., internship or full-time. Please feel free to reach out if you have a suitable opportunity. <a title="Contact me for my CV" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me for my CV</a>
-</mark>
-<br>
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
 - [Sep 23] Our paper got accepted in **NeurIPS** as a **Spotlight**.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
