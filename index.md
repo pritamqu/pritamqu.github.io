@@ -50,15 +50,13 @@ My research primarily focuses on self-supervised learning to acquire meaningful 
 <hr>
 I am interested in self/un-supervised learning, computer vision, video understanding, multimodal learning, out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, and multimodal LLMs, among a few others. Please find more about my research [here](./research.md).
 
-<br>
-<mark class="red">I am on the job market for industrial roles like internship or full-time positions in related areas. Please feel free to reach out if you have a suitable opportunity. <a title="Contact me for my CV" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me for my CV</a>
-</mark>
-
-
 
 ### News
 <hr>
 
+<mark class="red">I am on the job market for industrial roles like internship or full-time positions in related areas. Please feel free to reach out if you have a suitable opportunity. <a title="Contact me for my CV" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me for my CV</a>
+</mark>
+<br>
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
 - [Sep 23] Our paper got accepted in **NeurIPS** as a **Spotlight**.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
