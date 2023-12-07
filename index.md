@@ -54,7 +54,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### News
 <hr>
 
-<mark class="red">I am on the job market for industrial roles like internship or full-time positions in related areas. Please feel free to reach out if you have a suitable opportunity. <a title="Contact me for my CV" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me for my CV</a>
+<mark class="red">I am on the job market for industrial roles e.g., internship or full-time. Please feel free to reach out if you have a suitable opportunity. <a title="Contact me for my CV" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me for my CV</a>
 </mark>
 <br>
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
