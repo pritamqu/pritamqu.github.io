@@ -48,17 +48,19 @@ My research primarily focuses on self-supervised learning to acquire meaningful 
 
 ### [Research](./research.md)
 <hr>
-I am interested in self/un-supervised learning, computer vision, video understanding, multimodal learning (i.e., vision-language, audio-visual), out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, and understanding the high-level context from long videos, among a few others. Please find more about my research [here](./research.md).
+I am interested in self/un-supervised learning, computer vision, video understanding, multimodal learning, out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, and multimodal LLMs, among a few others. Please find more about my research [here](./research.md).
 
-
-<!-- <mark class="red">highlighted</mark> -->
+<br>
+<mark class="red">I am on the job market for industrial roles like internship or full-time positions in related areas. Please feel free to reach out if you have a suitable opportunity. <a title="Contact me for my CV" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me for my CV</a>
+</mark>
 
 
 
 ### News
 <hr>
 
-- [Sep 23] Our paper got accepted in **NeurIPS** as a Spotlight.
+- [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
+- [Sep 23] Our paper got accepted in **NeurIPS** as a **Spotlight**.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
 - [Nov 22] **2** papers got accepted in **AAAI** 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
@@ -73,16 +75,6 @@ I am interested in self/un-supervised learning, computer vision, video understan
 <details>
   <summary style="margin-left: 25px;">Click to see more</summary>
   <ul>
-  <!-- 
-  <li><a href="https://r2hcai.github.io/AAAI-23/">[Oct 22] We are organizing AAAI 2023 Workshop on R2HCAI</a></li>
-  <li>[Oct 22] Honourable Mention in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.</li>
-  <li>[Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.</li>
-  <li>[Oct 21] Best poster award at Robotics and AI Symposium, Ingenuity Labs, 2021.</li>
-  <li><a href="https://hcssl.github.io/AAAI-22/">[Aug 21] We are organizing AAAI 2022 Workshop on HC-SSL</a></li>
-  <li>[Aug 21] One paper that I supervised got accepted into HAI 2021.</li>
-  <li>[Mar 21] I received postgraduate affiliation award from Vector Institute.</li>
-  <li>[Dec 20] Our paper CardioGAN got accepted in AAAI 2021.</li> 
-  -->
   <li>[Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
   <li>[Apr 20] Successfully defended my M.A.Sc. thesis. <a href="https://www.linkedin.com/posts/sarkarpritam_phd-thesisabrdefense-activity-6656981020174356480-K8K5/">picture</a></li>
   <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for oral presentation.</li>
@@ -114,39 +106,39 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### Employment
 <hr>
 
+- Student Researcher at Google, Sunnyvale, USA, Oct 2023 - Present.
 - Research Assistant at Queen's University, Kingston, Canada, 2018 - Present.
 - Machine Learning Research Intern at Borealis AI, Toronto, Canada, Fall 2022.
 - Sr. System Engineer at Infosys Ltd., Bangalore, India, 2017 - 2018.
 - Software Engineer at Tech Mahindra Ltd., Hyderabad, India, 2015 - 2017.
 - Teaching Assistant/Guest Lecturer at Queen's University, Kingston, Canada, 2018 - Present.
 
+<a name="/mentorship"></a>
 
-<a name="/academic_service"></a>
-
-### Academic Service 
+### Mentorship
 <hr>
 
-**Mentorship**
-- Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, present.
-<!-- - Brennan Cruse, PhD at CS, Queen’s University, present. -->
-- Debaditya Shome, MASc at ECE, Queen’s University, present.
-- Jordan Posen, ECE at Queen's, undergrad final year project, 2021.
-- Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020.
+- Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, 2023-Present.
+- Debaditya Shome, MASc at ECE, Queen’s University, 2022-2023.
+- Jordan Posen, ECE at Queen's, undergrad final year project, 2021-2022.
+- Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020-2021.
 
-**Organizing workshops and conferences**
-- Session chair for CV tracks in AAAI 2023.
-- Co-organizer of [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/). 
-- Co-organizer of [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/). 
-- Volunteer at AI/GI/CRV Conference 2019.
 
-**Reviewing**
+<a name="/reviewing"></a>
 
-<!-- I regularly review for the following venues: -->
+### Reviewing
+<hr>
+
 - NeurIPS, ICLR, CVPR, ICCV, ECCV, ICASSP, ACII
-- IEEE Transactions on - Affective Computing, Artificial Intelligence
+- IEEE Transactions on - PAMI, Affective Computing, Artificial Intelligence
 
-**Talks**
+<!-- 
+<a name="/talks"></a>
+
+### Talks
+<hr>
+
 - [Jul 2023] at Ingenuity Labs, Queen's University, Title: Learning withour human supervision
 - [Jan 2023] at Borealis AI, Title: AugESeq: Augmentation improves Event Sequence prediction
-
+ -->
 
