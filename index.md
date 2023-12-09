@@ -57,7 +57,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 
 ### News
 <hr>
-
+- [Dec 23] **2** papers got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
 - [Sep 23] Our paper got accepted in **NeurIPS** as a **Spotlight**.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.

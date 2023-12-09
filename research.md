@@ -42,7 +42,8 @@ permalink: /research/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Under review.
+				AAAI Conference on Artificial Intelligence, (<mark class="red">AAAI</mark>), 2024. 
+				<!-- <mark class="red">Oral</mark> -->
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2211.13929">[paper]</a>
@@ -66,7 +67,8 @@ permalink: /research/
 				D. Shome, <strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Under review.
+				AAAI Conference on Artificial Intelligence, (<mark class="red">AAAI</mark>), 2024. 
+				<!-- <mark class="red">Oral</mark> -->
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2308.13568">[paper]</a>
