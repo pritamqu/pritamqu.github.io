@@ -42,16 +42,19 @@ permalink: /
 <a name="/news"></a>
 
 Currently, I am a PhD candidate at [Queen’s University](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
-Earlier, I interned at [Google Cloud AI Research](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
+Earlier, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
 
 
-<mark class="red">
-I am on the job market for industrial roles, internship (allows conversion) or full-time. Please do not hesitate to reach out if you have a suitable opportunity. <a title="Contact me!" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me!</a>
-</mark>
 
 ### [Research](./research.md)
 <hr>
-I am interested in self/un-supervised learning, computer vision, video understanding, multimodal learning, out-of-distribution generalization, large-scale pretraining of foundational models in vision and multimodal domains, and multimodal LLMs, among a few others. Please find more about my research [here](./research.md).
+My primary research interest is in representation learning, specifically self-supervised learning, multimodal learning, computer vision, video understanding, multimodal LLMs, and the large-scale training of foundational models. Please find more about my research [here](./research.md).
+
+<br>
+
+<mark class="red">
+I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity. <a title="Contact me!" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me!</a>
+</mark>
 
 
 ### News
@@ -104,9 +107,9 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### Employment
 <hr>
 
-- Student Researcher at Google, Sunnyvale, USA, Oct 2023 - Jan 2024.
 - Research Assistant at Queen's University, Kingston, Canada, 2018 - Present.
-- Machine Learning Research Intern at Borealis AI, Toronto, Canada, Fall 2022.
+- Student Researcher at Google, Sunnyvale, USA, 2023 - 2024.
+- Machine Learning Research Intern at Borealis AI, Toronto, Canada, 2022.
 - Sr. System Engineer at Infosys Ltd., Bangalore, India, 2017 - 2018.
 - Software Engineer at Tech Mahindra Ltd., Hyderabad, India, 2015 - 2017.
 - Teaching Assistant/Guest Lecturer at Queen's University, Kingston, Canada, 2018 - Present.
@@ -116,10 +119,11 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### Mentorship
 <hr>
 
-- Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, 2023-Present.
-- Debaditya Shome, MASc at ECE, Queen’s University, 2022-2023.
-- Jordan Posen, ECE at Queen's, undergrad final year project, 2021-2022.
-- Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020-2021.
+- Seth Grief-Albert, ECE at Queen's, undergrad summer project, 2024 - present.
+- Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, 2023 - 2024.
+- Debaditya Shome, MASc at ECE, Queen’s University, 2022 - 2023.
+- Jordan Posen, ECE at Queen's, undergrad final year project, 2021 - 2022.
+- Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020 - 2021.
 
 
 <a name="/reviewing"></a>
@@ -127,7 +131,7 @@ I am interested in self/un-supervised learning, computer vision, video understan
 ### Reviewing
 <hr>
 
-- NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ICASSP, ACII, ACM MM
+- NeurIPS, ICLR, CVPR, ICCV, ECCV, ICML, ICASSP, ACM MM, ACII
 - IEEE Transactions on - PAMI, Affective Computing, Artificial Intelligence
 
 <!-- 

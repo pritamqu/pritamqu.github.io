@@ -4,6 +4,31 @@ title: Research
 permalink: /research/
 ---
 
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2405.18654"> <img class="pub-image" src="/assets/publications/halva.png" width="100%"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				Mitigating Object Hallucination via Data Augmented Contrastive Tuning
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, S. Ebrahimi, A. Etemad, A. Beirami, S. Ö. Arık, T. Pfister
+			</div>
+			<div class="pub-conf">
+				Under review.
+			</div>
+			<div class="pub-links">
+				<a href="https://arxiv.org/abs/2405.18654">[paper]</a>
+				<!-- <a href="./">[code]</a> -->
+				<!-- <a href="./">[website]</a> -->
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
