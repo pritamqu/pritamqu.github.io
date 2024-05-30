@@ -50,15 +50,14 @@ Earlier, I interned at [Google](https://research.google/) and [Borealis AI](http
 <hr>
 My primary research interest is in representation learning, specifically self-supervised learning, multimodal learning, computer vision, video understanding, multimodal LLMs, and the large-scale training of foundational models. Please find more about my research [here](./research.md).
 
-<br>
+### News
+
+<hr>
 
 <mark class="red">
-I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity. <a title="Contact me!" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me!</a>
+I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity.
 </mark>
 
-
-### News
-<hr>
 - [Dec 23] **2** papers got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
 - [Sep 23] Our paper got accepted in **NeurIPS** as a **Spotlight**.
