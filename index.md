@@ -54,9 +54,7 @@ My primary research interest is in representation learning, specifically multimo
 
 <hr>
 
-<mark class="red">
-I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity. <a title="Contact me" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me</a>
-</mark>
+<p><strong><mark class="red"> I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity. Contact me at: pritam.sarkar@queensu.ca </mark></strong></p>
 
 - [Dec 23] **2** papers got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
