@@ -55,7 +55,7 @@ My primary research interest is in representation learning, specifically multimo
 <hr>
 
 <mark class="red">
-I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity.
+I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity. <a title="Contact me" href="mailto:pritam.sarkar@queensu.ca" target="_blank">Contact me</a>
 </mark>
 
 - [Dec 23] **2** papers got accepted in **AAAI** 2024.
