@@ -22,7 +22,7 @@ permalink: /research/
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2405.18654">[paper]</a>
-				<!-- <a href="./">[code]</a> -->
+				<a href="./">[code coming soon...]</a>
 				<!-- <a href="./">[website]</a> -->
 			</div>
 		</div>
@@ -97,7 +97,7 @@ permalink: /research/
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2308.13568">[paper]</a>
-				<!-- <a href="https://github.com/pritamqu/OOD-VSSL">[code]</a> -->
+				<a href="https://github.com/DebadityaQU/RDDM">[code]</a>
 				<!-- <a href="https://pritamqu.github.io/OOD-VSSL/">[website]</a> -->
 			</div>
 		</div>
