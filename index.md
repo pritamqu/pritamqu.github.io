@@ -128,7 +128,7 @@ My primary research interest is in representation learning, specifically multimo
 ### Reviewing
 <hr>
 
-- NeurIPS, ICLR, CVPR, ICCV, ECCV, ICML, ICASSP, ACM MM, ACII
+- NeurIPS, ICLR, AAAI, CVPR, ICCV, ECCV, ICML, ICASSP, ACM MM, ACII
 - IEEE Transactions on - PAMI, Affective Computing, Artificial Intelligence
 
 <!-- 
