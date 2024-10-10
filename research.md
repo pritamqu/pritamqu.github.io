@@ -12,7 +12,7 @@ permalink: /research/
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
-				Mitigating Object Hallucination via Data Augmented Contrastive Tuning
+				Data-augmented phrase-level alignment for mitigating object hallucination
 			</div>
 			<div class="pub-authors">
 				<strong>P. Sarkar</strong>, S. Ebrahimi, A. Etemad, A. Beirami, S. Ö. Arık, T. Pfister
