@@ -105,8 +105,8 @@ My primary research interest is in representation learning, specifically multimo
 <hr>
 
 - Research Assistant at Queen's University, Kingston, Canada, 2018 - Present.
-- Student Researcher at Google, Sunnyvale, USA, 2023 - 2024.
-- Machine Learning Research Intern at Borealis AI, Toronto, Canada, 2022.
+- Student Researcher at Google, Sunnyvale, USA, Fall 2023.
+- Machine Learning Research Intern at Borealis AI, Toronto, Canada, Fall 2022.
 - Sr. System Engineer at Infosys Ltd., Bangalore, India, 2017 - 2018.
 - Software Engineer at Tech Mahindra Ltd., Hyderabad, India, 2015 - 2017.
 - Teaching Assistant/Guest Lecturer at Queen's University, Kingston, Canada, 2018 - Present.
