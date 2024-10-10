@@ -56,11 +56,11 @@ My primary research interest is in representation learning, specifically multimo
 
 <p><strong><mark class="red"> I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity. Contact me at: pritam.sarkar@queensu.ca </mark></strong></p>
 
-- [Dec 23] **2** papers got accepted in **AAAI** 2024.
+- [Dec 23] **XKD** and **RDDM** got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
-- [Sep 23] Our paper got accepted in **NeurIPS** as a **Spotlight**.
+- [Sep 23] Our paper on **Video SSL in OOD** got accepted in **NeurIPS** as a **Spotlight**.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
-- [Nov 22] **2** papers got accepted in **AAAI** 2023.
+- [Nov 22] **AVCAffe** and **CrissCross** (**Oral**) got accepted in **AAAI** 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] **Honourable Mention** in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
