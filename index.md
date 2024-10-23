@@ -48,7 +48,7 @@ Earlier, I interned at [Google](https://research.google/) and [Borealis AI](http
 
 ### [Research](./research.md)
 <hr>
-My primary research interest is in representation learning, specifically multimodal learning, self-supervised learning, computer vision, video understanding, multimodal LLMs, and the large-scale training of foundational models. Please find more about my research [here](./research.md).
+My primary research interest is in representation learning, specifically multimodal learning, self-supervised learning, computer vision, video understanding, multimodal LLMs, and foundational models. Please find more about my research [here](./research.md).
 
 ### News
 
