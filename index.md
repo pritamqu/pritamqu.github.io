@@ -68,7 +68,7 @@ My primary research interest is in representation learning, specifically multimo
 - [Aug 21] We are organizing [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/).
 - [Aug 21] One paper that I supervised got accepted into HAI 2021.
 - [Mar 21] I received postgraduate affiliation award from Vector Institute.
-- [Dec 20] Our paper CardioGAN got accepted in **AAAI** 2021.
+- [Dec 20] Our paper **CardioGAN** got accepted in **AAAI** 2021.
 
 <details>
   <summary style="margin-left: 25px;">Click to see more</summary>
