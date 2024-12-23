@@ -115,7 +115,7 @@ My primary research interest is in representation learning, specifically multimo
 ### Mentorship
 <hr>
 
-- Seth Grief-Albert, ECE at Queen's, undergrad summer project, 2024 - present.
+- Seth Grief-Albert, ECE at Queen's, undergrad summer project, Summer 2024.
 - Vishal Narnaware, Visiting Student at University of Cambridge, co-mentored with Nikhil Churamani, 2023 - 2024.
 - Debaditya Shome, MASc at ECE, Queen’s University, 2022 - 2023.
 - Jordan Posen, ECE at Queen's, undergrad final year project, 2021 - 2022.
