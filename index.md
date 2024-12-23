@@ -76,7 +76,6 @@ My primary research interest is in representation learning, specifically multimo
   <li>[Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
   <li>[Apr 20] Successfully defended my M.A.Sc. thesis. <a href="https://www.linkedin.com/posts/sarkarpritam_phd-thesisabrdefense-activity-6656981020174356480-K8K5/">picture</a></li>
   <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for oral presentation.</li>
-  <li>[Sep 19] It was a great experience to visit the University of Cambridge and meet Rosalind Picard. <a href="https://www.linkedin.com/posts/sarkarpritam_universityofcambridge-activity-6592510130728906752-bEfP/">picture</a></li>
   <li>[Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.</li>
   <li>[Sep 18] Joined Queen's for master's degree.</li>
   <li>[Dec 17] Joined Infosys as a Sr. System Engineer.</li>
