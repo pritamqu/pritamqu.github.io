@@ -54,8 +54,9 @@ My primary research interest is in representation learning, specifically multimo
 
 <hr>
 
-<p><strong><mark class="red"> I am on the job market for full-time roles. Please do not hesitate to reach out if you have a suitable opportunity. Contact me at: pritam.sarkar@queensu.ca </mark></strong></p>
+<p><strong><mark class="red"> I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out. Here is my [resume](./resume.pdf). </mark></strong></p>
 
+- [May 24] Introduced [phrase-level alignment](https://arxiv.org/abs/2405.18654) to finetune multimodal LLMs to reduce hallucinations.
 - [Dec 23] **XKD** and **RDDM** got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
 - [Sep 23] Our paper on **Video SSL in OOD** got accepted in **NeurIPS** as a **Spotlight**.
