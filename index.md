@@ -56,7 +56,7 @@ My primary research interest is in representation learning, specifically multimo
 
 <p><strong><mark class="red">
 I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.</mark></strong>
-Here is my [resume](./resume.pdf). 
+<!-- Here is my [resume](resume.pdf).  -->
 </p>
 
 - [May 24] Introduced [phrase-level alignment](https://arxiv.org/abs/2405.18654) to finetune multimodal LLMs to reduce hallucinations.
