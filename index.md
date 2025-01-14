@@ -57,7 +57,7 @@ Specifically, multimodal learning with vision, language, and audio, video unders
 <hr>
 
 <p><strong><mark class="red">I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.
-Here is my <a title="resume" href="resume.pdf" target="_blank"></a>
+Here is my <a href="resume.pdf" target="_blank">resume</a>.
 </mark></strong></p>
 
 
