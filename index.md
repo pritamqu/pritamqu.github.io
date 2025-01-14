@@ -48,15 +48,18 @@ Earlier, I interned at [Google](https://research.google/) and [Borealis AI](http
 
 ### [Research](./research.md)
 <hr>
-My primary research interest is in representation learning, specifically multimodal learning, self-supervised learning, computer vision, video understanding, multimodal LLMs, and foundational models. Please find more about my research [here](./research.md).
+
+My current research focus is **video and multimodal learning**. 
+Specifically, multimodal learning with vision, language, and audio, video understanding, representation learning, self-supervised and unsupervised learning, multimodal LLMs, large vision-language models, foundation models and computer vision. Please find more about my research [here](./research.md).
 
 ### News
 
 <hr>
 
 <p><strong><mark class="red">
+
 I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.</mark></strong>
-<!-- Here is my [resume](resume.pdf).  -->
+Here is my [resume](resume.pdf). 
 </p>
 
 - [May 24] Introduced [phrase-level alignment](https://arxiv.org/abs/2405.18654) to finetune multimodal LLMs to reduce hallucinations.
