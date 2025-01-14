@@ -56,11 +56,11 @@ Specifically, multimodal learning with vision, language, and audio, video unders
 
 <hr>
 
-<p><strong><mark class="red">
+<p><strong><mark class="red">I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.</mark></strong></p>
 
-I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.</mark></strong>
-Here is my [resume](resume.pdf). 
-</p>
+Here is my [resume](resume.pdf).
+
+
 
 - [May 24] Introduced [phrase-level alignment](https://arxiv.org/abs/2405.18654) to finetune multimodal LLMs to reduce hallucinations.
 - [Dec 23] **XKD** and **RDDM** got accepted in **AAAI** 2024.
