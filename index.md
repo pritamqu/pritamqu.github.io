@@ -48,18 +48,23 @@ Earlier, I interned at [Google](https://research.google/) and [Borealis AI](http
 
 ### [Research](./research.md)
 <hr>
-My primary research interest is in representation learning, specifically multimodal learning, self-supervised learning, computer vision, video understanding, multimodal LLMs, and foundational models. Please find more about my research [here](./research.md).
+
+My current research focus is **video and multimodal learning**. 
+Specifically, multimodal learning with vision, language, and audio, video understanding, representation learning, self-supervised and unsupervised learning, multimodal LLMs, large vision-language models, foundation models and computer vision. Please find more about my research [here](./research.md).
 
 ### News
 
 <hr>
 
-<p><strong><mark class="red">I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.</mark></strong>
-<!-- Here is my [resume](resume.pdf).  -->
-</p>
+<p><strong><mark class="red">I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.
+Here is my <a href="resume.pdf" target="_blank">resume</a>.
+</mark></strong></p>
 
-- [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.
-- [Dec 23] **[XKD](https://arxiv.org/abs/2211.13929)** and **[RDDM](https://arxiv.org/abs/2308.13568)** got accepted in **AAAI** 2024.
+
+
+
+- [May 24] Introduced [phrase-level alignment](https://arxiv.org/abs/2405.18654) to finetune multimodal LLMs to reduce hallucinations.
+- [Dec 23] **XKD** and **RDDM** got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
 - [Sep 23] Our paper on **[Video SSL in OOD](https://arxiv.org/abs/2306.02014)** got accepted in **NeurIPS** 2023 as a **Spotlight**.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
