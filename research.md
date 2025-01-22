@@ -18,7 +18,8 @@ permalink: /research/
 				<strong>P. Sarkar</strong>, S. Ebrahimi, A. Etemad, A. Beirami, S. Ö. Arık, T. Pfister
 			</div>
 			<div class="pub-conf">
-				Under review.
+				International Conference on Learning Representations, (<mark class="red">ICLR</mark>), 2025. 
+				<!-- <mark class="red">Spotlight</mark> -->
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2405.18654">[paper]</a>

@@ -54,17 +54,16 @@ My primary research interest is in representation learning, specifically multimo
 
 <hr>
 
-<p><strong><mark class="red">
-I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.</mark></strong>
+<p><strong><mark class="red">I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.</mark></strong>
 <!-- Here is my [resume](resume.pdf).  -->
 </p>
 
-- [May 24] Introduced [phrase-level alignment](https://arxiv.org/abs/2405.18654) to finetune multimodal LLMs to reduce hallucinations.
-- [Dec 23] **XKD** and **RDDM** got accepted in **AAAI** 2024.
+- [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.
+- [Dec 23] **[XKD](https://arxiv.org/abs/2211.13929)** and **[RDDM](https://arxiv.org/abs/2308.13568)** got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
-- [Sep 23] Our paper on **Video SSL in OOD** got accepted in **NeurIPS** as a **Spotlight**.
+- [Sep 23] Our paper on **[Video SSL in OOD](https://arxiv.org/abs/2306.02014)** got accepted in **NeurIPS** 2023 as a **Spotlight**.
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
-- [Nov 22] **AVCAffe** and **CrissCross** (**Oral**) got accepted in **AAAI** 2023.
+- [Nov 22] **[AVCAffe](https://arxiv.org/abs/2205.06887)** and **[CrissCross](https://arxiv.org/abs/2111.05329)** (**Oral**) got accepted in **AAAI** 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
 - [Oct 22] **Honourable Mention** in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
