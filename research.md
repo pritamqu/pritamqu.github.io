@@ -23,7 +23,7 @@ permalink: /research/
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2405.18654">[paper]</a>
-				<a href="./">[code coming soon...]</a>
+				<a href="https://github.com/pritamqu/HALVA">[code]</a>
 				<!-- <a href="./">[website]</a> -->
 			</div>
 		</div>
