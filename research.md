@@ -12,7 +12,7 @@ permalink: /research/
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
-				Data-Augmented Phrase-Level Alignment for Mitigating Object Hallucination
+				Mitigating Object Hallucination in MLLMs via Data-augmented Phrase-level Alignment
 			</div>
 			<div class="pub-authors">
 				<strong>P. Sarkar</strong>, S. Ebrahimi, A. Etemad, A. Beirami, S. Ö. Arık, T. Pfister
