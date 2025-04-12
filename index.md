@@ -61,8 +61,6 @@ Here is my <a href="resume.pdf" target="_blank">resume</a>.
 </mark></strong></p>
 
 
-
-
 - [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.
 - [Dec 23] **[XKD](https://arxiv.org/abs/2211.13929)** and **[RDDM](https://arxiv.org/abs/2308.13568)** got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
