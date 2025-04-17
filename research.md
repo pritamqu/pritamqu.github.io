@@ -8,6 +8,31 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2504.12083"> <img class="pub-image" src="/assets/publications/self-alignment.png" width="100%"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				<!-- Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2023. <mark class="red">Spotlight</mark> -->
+				Preprint. Under review.
+			</div>
+			<div class="pub-links">
+				<a href="https://arxiv.org/abs/2504.12083">[paper]</a>
+				<a href="https://github.com/pritamqu/RRPO">[code]</a>
+				<a href="https://pritamqu.github.io/RRPO/">[website]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
 			<a href="https://arxiv.org/abs/2405.18654"> <img class="pub-image" src="/assets/publications/halva.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
