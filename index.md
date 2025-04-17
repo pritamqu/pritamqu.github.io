@@ -58,7 +58,7 @@ Please find more about my research [here](./research.md).
 <hr>
 
 <p><strong><mark class="red">I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.
-Here is my <a href="resume.pdf" target="_blank">resume</a>.
+<!-- Here is my <a href="resume.pdf" target="_blank">resume</a>. -->
 </mark></strong></p>
 
 
