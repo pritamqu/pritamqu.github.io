@@ -4,6 +4,31 @@ title: Research
 permalink: /research/
 ---
 
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2505.08455"> <img class="pub-image" src="/assets/publications/vcrbench.png" width="100%"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>, A. Etemad
+			</div>
+			<div class="pub-conf">
+				<!-- Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2023. <mark class="red">Spotlight</mark> -->
+				Preprint. Under review.
+			</div>
+			<div class="pub-links">
+				<a href="https://arxiv.org/abs/2505.08455">[paper]</a>
+				<a href="https://github.com/pritamqu/VCRBench">[code]</a>
+				<a href="https://pritamqu.github.io/VCRBench/">[website]</a>
+				<a href="https://huggingface.co/datasets/pritamqu/VCRBench">[Benchmark]</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
