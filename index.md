@@ -49,7 +49,7 @@ Earlier, I interned at [Google](https://research.google/) and [Borealis AI](http
 ### [Research](./research.md)
 <hr>
 
-My current research focus is **video understandig and multimodal learning**. 
+My current research focus is **multimodal learning from videos**. 
 Broadly covers: multimodal learning with vision, language, and audio; large multimodal models, multimodal LLMs, foundation models; post-training, alignments; AI agents; self-supervised and unsupervised learning; computer vision. 
 Please find more about my research [here](./research.md).
 
