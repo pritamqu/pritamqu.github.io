@@ -16,7 +16,7 @@ permalink: /
                 Pritam Sarkar
             </span><br>
             <span style="font-size: 16px;">
-                Ph.D. Candidate at Queen&apos;s University<br>
+                Ph.D. Candidate at Queen&apos;s University, Canada<br>
                 Affiliate at Vector Institute
             </span><br>
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
@@ -41,7 +41,7 @@ permalink: /
 
 <a name="/news"></a>
 
-Currently, I am a PhD candidate at [Queen’s University](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
+Currently, I am a PhD candidate at [Queen’s University, Canada](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
 Earlier, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
 
 
@@ -50,6 +50,7 @@ Earlier, I interned at [Google](https://research.google/) and [Borealis AI](http
 <hr>
 
 My current research focus is **multimodal learning from videos**. 
+
 Broadly covers: multimodal learning with vision, language, and audio; large multimodal models, multimodal LLMs, foundation models; post-training, alignments; AI agents; self-supervised and unsupervised learning; computer vision. 
 Please find more about my research [here](./research.md).
 
@@ -61,7 +62,8 @@ Please find more about my research [here](./research.md).
 <!-- Here is my <a href="resume.pdf" target="_blank">resume</a>. -->
 </mark></strong></p>
 
-
+- [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.
+- [Apr 25] Introduced **[RRPO](https://arxiv.org/abs/2504.12083)**, a fine-grained self-alignment recipe to align Multimodal LLMs.
 - [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.
 - [Dec 23] **[XKD](https://arxiv.org/abs/2211.13929)** and **[RDDM](https://arxiv.org/abs/2308.13568)** got accepted in **AAAI** 2024.
 - [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).
