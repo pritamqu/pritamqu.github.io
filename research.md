@@ -246,7 +246,7 @@ permalink: /research/
 				International Conference on Human-Agent Interaction, (HAI), 2021.
 			</div>
 			<div class="pub-links">
-				<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf">[paper]</a>
+				<a href="https://dl.acm.org/doi/10.1145/3472307.3484169">[paper]</a>
 				<a href="https://www.youtube.com/watch?v=YlWGldNbvgQ">[short video]</a>
 				<a href="https://www.youtube.com/watch?v=i81t03q964U">[long video]</a>
 			</div>
