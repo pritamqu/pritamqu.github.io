@@ -42,16 +42,18 @@ permalink: /
 <a name="/news"></a>
 
 Currently, I am a PhD candidate at [Queen’s University, Canada](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
-Earlier, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
+Earlier, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020, and started my PhD subsequently. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
 
 
 
 ### [Research](./research.md)
 <hr>
 
-My current research focus is **multimodal learning from videos**. 
+My research focus is advancing **multimodal intelligence for understanding → generation → reasoning → action**. 
 
-Broadly covers: multimodal learning with vision, language, and audio; large multimodal models, multimodal LLMs, foundation models; post-training, alignments; AI agents; self-supervised and unsupervised learning; computer vision. 
+Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion models), foundation models (video,
+image, vision-language, audio-visual), representation learning (self-supervised, unsupervised), alignment, reasoning,
+AI agents, computer vision.
 Please find more about my research [here](./research.md).
 
 ### News
