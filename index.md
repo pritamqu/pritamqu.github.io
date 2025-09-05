@@ -41,7 +41,7 @@ permalink: /
 
 <a name="/news"></a>
 
-I am interested in advancing multimodal intelligence. 
+I am interested in advancing **safe multimodal intelligence**. 
 I completed my PhD at [Queen’s University, Canada](https://queensu.ca/), where I was also affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
 During my PhD, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020, and subsequently began my PhD. Prior to that, I worked for about three years as a Software Engineer at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Outside of research, I am passionate about photography and film-making.
 
@@ -62,7 +62,7 @@ Please find more about my research [here](./research.md).
 ### News
 <hr>
 
-- [Spe 25] I successfully defended my PhD thesis! 
+- [Sep 25] I successfully defended my PhD thesis! 
 - [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.
 - [Apr 25] Introduced **[RRPO](https://arxiv.org/abs/2504.12083)**, a fine-grained self-alignment recipe to align Multimodal LLMs.
 - [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.
