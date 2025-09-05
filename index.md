@@ -15,10 +15,10 @@ permalink: /
             <span style="color: rgb(71, 85, 119); font-family: 'Caveat'; font-size: 36px;">
                 Pritam Sarkar
             </span><br>
-            <span style="font-size: 16px;">
+            <!-- <span style="font-size: 16px;">
                 Ph.D. Candidate at Queen&apos;s University, Canada<br>
                 Affiliate at Vector Institute
-            </span><br>
+            </span><br> -->
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
                 pritam[dot]sarkar[at]queensu[dot]ca
             </span>
@@ -41,29 +41,28 @@ permalink: /
 
 <a name="/news"></a>
 
-Currently, I am a PhD candidate at [Queen’s University, Canada](https://queensu.ca/) and affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
-Earlier, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020, and started my PhD subsequently. Prior to that, I worked as a Software Engineer for a total of approximately 3 years at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Other than research, I am passionate about photography and film-making.
+I am interested in advancing multimodal intelligence. 
+I completed my PhD at [Queen’s University, Canada](https://queensu.ca/), where I was also affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
+During my PhD, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020, and subsequently began my PhD. Prior to that, I worked for about three years as a Software Engineer at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Outside of research, I am passionate about photography and film-making.
 
-
+<p><strong><mark class="red">
+<!-- I am on the job market for a full-time role as a researcher.  -->
+I am exploring full-time opportunities and would be glad to connect if my experience aligns with your needs. I am also open to collaborations, please feel free to reach out. 
+<!-- Here is my <a href="resume.pdf" target="_blank">resume</a>. -->
+</mark></strong></p>
 
 ### [Research](./research.md)
 <hr>
 
-My research focus is advancing **multimodal intelligence for understanding → generation → reasoning → action**. 
+My current research focus is **multimodal AI with image, video, audio, and language**. 
 
-Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion models), foundation models (video,
-image, vision-language, audio-visual), representation learning (self-supervised, unsupervised), alignment, reasoning,
-AI agents, computer vision.
+Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion models), foundation models (video, image, vision-language, audio-visual), representation learning (self-supervised, unsupervised), alignment, reasoning, AI agents, computer vision.
 Please find more about my research [here](./research.md).
 
 ### News
-
 <hr>
 
-<p><strong><mark class="red">I am on the job market for a full-time role as a researcher. If you find my experience a good fit, please reach out.
-<!-- Here is my <a href="resume.pdf" target="_blank">resume</a>. -->
-</mark></strong></p>
-
+- [Spe 25] I successfully defended my PhD thesis! 
 - [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.
 - [Apr 25] Introduced **[RRPO](https://arxiv.org/abs/2504.12083)**, a fine-grained self-alignment recipe to align Multimodal LLMs.
 - [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.
@@ -105,7 +104,7 @@ Please find more about my research [here](./research.md).
 ### Education
 <hr>
 
-- PhD at Queen's University, Canada, 2020 - Present.
+- PhD at Queen's University, Canada, 2020 - 2025. 
 - MASc at Queen's University, Canada, 2018 - 2020. Link to [MASc Thesis](https://qspace.library.queensu.ca/handle/1974/27746).
 - B.Tech at West Bengal University of Technology, India, 2011 - 2015.
 
@@ -114,12 +113,12 @@ Please find more about my research [here](./research.md).
 ### Employment
 <hr>
 
-- Research Assistant at Queen's University, Kingston, Canada, 2018 - Present.
+- Research Assistant at Queen's University, Kingston, Canada, 2018 - 2025.
+- Teaching Assistant/Guest Lecturer at Queen's University, Kingston, Canada, 2018 - 2025.
 - Student Researcher at Google, Sunnyvale, USA, Fall 2023.
 - Machine Learning Research Intern at Borealis AI, Toronto, Canada, Fall 2022.
 - Sr. System Engineer at Infosys Ltd., Bangalore, India, 2017 - 2018.
 - Software Engineer at Tech Mahindra Ltd., Hyderabad, India, 2015 - 2017.
-- Teaching Assistant/Guest Lecturer at Queen's University, Kingston, Canada, 2018 - Present.
 
 <a name="/mentorship"></a>
 

@@ -69,7 +69,6 @@ permalink: /research/
 			</div>
 			<div class="pub-conf">
 				International Conference on Learning Representations, (<mark class="red">ICLR</mark>), 2025. 
-				<!-- <mark class="red">Spotlight</mark> -->
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2405.18654">[paper]</a>
