@@ -105,7 +105,7 @@ Please find more about my research [here](./research.md).
 ### Education
 <hr>
 
-- PhD at Queen's University, Canada, 2020 - 2025. 
+- PhD at Queen's University, Canada, 2020 - 2025. Link yo [PhD Thesis](https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a).
 - MASc at Queen's University, Canada, 2018 - 2020. Link to [MASc Thesis](https://qspace.library.queensu.ca/handle/1974/27746).
 - B.Tech at West Bengal University of Technology, India, 2011 - 2015.
 
