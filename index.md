@@ -62,6 +62,7 @@ Please find more about my research [here](./research.md).
 ### News
 <hr>
 
+- [Sep 25] Our proposed [Self-alignment with RRPO](https://arxiv.org/abs/2504.12083) got accepted in **NeurIPS** 2025.
 - [Sep 25] I successfully defended my PhD thesis! 
 - [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.
 - [Apr 25] Introduced **[RRPO](https://arxiv.org/abs/2504.12083)**, a fine-grained self-alignment recipe to align Multimodal LLMs.

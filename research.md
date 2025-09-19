@@ -43,8 +43,8 @@ permalink: /research/
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				<!-- Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2023. <mark class="red">Spotlight</mark> -->
-				Preprint. Under review.
+				Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2025.
+				<!-- Preprint. Under review. -->
 			</div>
 			<div class="pub-links">
 				<a href="https://arxiv.org/abs/2504.12083">[paper]</a>
