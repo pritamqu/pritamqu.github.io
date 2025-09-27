@@ -47,7 +47,7 @@ I completed my PhD in 2025 at [Queen’s University, Canada](https://queensu.ca/
 During my PhD, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020, and subsequently began my PhD. Prior to that, I worked for about three years as a Software Engineer at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Outside of research, I am passionate about photography and film-making.
 
 <p><mark class="red">
-I am exploring full-time opportunities and would be glad to connect if my experience aligns with your needs. 
+I am exploring full-time opportunities and would be glad to connect if my experience aligns with your needs. <br>
 I also welcome research collaborations and speaking engagements, please feel free to reach out.
 </mark></p>
 
@@ -62,7 +62,7 @@ Please find more about my research [here](./research.md).
 ### News
 <hr>
 
-- [Sep 25] Our proposed [Self-alignment with RRPO](https://arxiv.org/abs/2504.12083) got accepted in **NeurIPS** 2025.
+- [Sep 25] Our proposed **[Self-alignment with RRPO](https://arxiv.org/abs/2504.12083)** got accepted in **NeurIPS** 2025.
 - [Sep 25] I successfully defended my PhD thesis! 
 - [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.
 - [Apr 25] Introduced **[RRPO](https://arxiv.org/abs/2504.12083)**, a fine-grained self-alignment recipe to align Multimodal LLMs.
@@ -105,7 +105,7 @@ Please find more about my research [here](./research.md).
 ### Education
 <hr>
 
-- PhD at Queen's University, Canada, 2020 - 2025. Link yo [PhD Thesis](https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a).
+- PhD at Queen's University, Canada, 2020 - 2025. Link to [PhD Thesis](https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a).
 - MASc at Queen's University, Canada, 2018 - 2020. Link to [MASc Thesis](https://qspace.library.queensu.ca/handle/1974/27746).
 - B.Tech at West Bengal University of Technology, India, 2011 - 2015.
 
