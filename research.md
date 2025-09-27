@@ -528,12 +528,37 @@ permalink: /research/
 </div> -->
 
 
-<!-- <h1> Theses </h1> 
+<br>
+<h1> Theses </h1> 
+
 
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://qspace.library.queensu.ca/handle/1974/27746"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
+			<a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				Multimodal Learning from Videos: Self-supervised Pre-training, Post-training Alignment, and Benchmarks
+			</div>
+			<div class="pub-authors">
+				<strong>P. Sarkar</strong>
+			</div>
+			<div class="pub-conf">
+				Queen's University, Kingston, Canada, 2025.
+			</div>
+			<div class="pub-links">
+				<a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">[Ph.D. Thesis]</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -546,9 +571,9 @@ permalink: /research/
 				Queen's University, Kingston, Canada, 2020.
 			</div>
 			<div class="pub-links">
-				<a href="https://qspace.library.queensu.ca/handle/1974/27746">[M.A.Sc. Thesis]</a>
+				<a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">[M.A.Sc. Thesis]</a>
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 
