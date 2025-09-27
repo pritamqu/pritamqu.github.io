@@ -13,7 +13,7 @@ permalink: /
         <h4>
             <!-- <strong> -->
             <span style="color: rgb(71, 85, 119); font-family: 'Caveat'; font-size: 36px;">
-                Pritam Sarkar
+                Pritam Sarkar, PhD
             </span><br>
             <!-- <span style="font-size: 16px;">
                 Ph.D. Candidate at Queen&apos;s University, Canada<br>
@@ -41,15 +41,15 @@ permalink: /
 
 <a name="/news"></a>
 
-I am interested in advancing **safe multimodal intelligence**. 
+*I am interested in advancing safe multimodal intelligence and in designing algorithms that require little to no human supervision.*
+
 I completed my PhD at [Queen’s University, Canada](https://queensu.ca/), where I was also affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
 During my PhD, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020, and subsequently began my PhD. Prior to that, I worked for about three years as a Software Engineer at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Outside of research, I am passionate about photography and film-making.
 
-<p><strong><mark class="red">
-<!-- I am on the job market for a full-time role as a researcher.  -->
-I am exploring full-time opportunities and would be glad to connect if my experience aligns with your needs. I am also open to collaborations, please feel free to reach out. 
-<!-- Here is my <a href="resume.pdf" target="_blank">resume</a>. -->
-</mark></strong></p>
+<p><mark class="red">
+I am exploring full-time opportunities and would be glad to connect if my experience aligns with your needs. 
+I also welcome research collaborations and speaking engagements, please feel free to reach out.
+</mark></p>
 
 ### [Research](./research.md)
 <hr>
