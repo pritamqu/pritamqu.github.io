@@ -43,7 +43,7 @@ permalink: /
 
 *I am interested in advancing safe multimodal intelligence and in designing algorithms that require little to no human supervision.*
 
-I completed my PhD at [Queen’s University, Canada](https://queensu.ca/), where I was also affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
+I completed my PhD in 2025 at [Queen’s University, Canada](https://queensu.ca/), where I was also affiliated with the [Vector Institute](https://vectorinstitute.ai/). 
 During my PhD, I interned at [Google](https://research.google/) and [Borealis AI](https://www.borealisai.com/). I joined [Queen's University](https://queensu.ca/) in 2018 and completed my master's degree in 2020, and subsequently began my PhD. Prior to that, I worked for about three years as a Software Engineer at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's degree in 2015 from [West Bengal University of Technology, India](/). Outside of research, I am passionate about photography and film-making.
 
 <p><mark class="red">
