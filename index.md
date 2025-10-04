@@ -20,7 +20,7 @@ permalink: /
                 Affiliate at Vector Institute
             </span><br> -->
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
-                pritam[dot]sarkar[at]queensu[dot]ca
+                Email: pritam.sarkar@queensu.ca
             </span>
             <!-- <br>
             <span style='font-family: "Lucida Console", Monaco, monospace; font-size: 12px;'>
@@ -85,7 +85,7 @@ Please find more about my research [here](./research.md).
   <summary style="margin-left: 25px;">Click to see more</summary>
   <ul>
   <li>[Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
-  <li>[Apr 20] Successfully defended my M.A.Sc. thesis. <a href="https://www.linkedin.com/posts/sarkarpritam_phd-thesisabrdefense-activity-6656981020174356480-K8K5/">picture</a></li>
+  <li>[Apr 20] Successfully defended my M.A.Sc. thesis.</li>
   <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for oral presentation.</li>
   <li>[Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.</li>
   <li>[Sep 18] Joined Queen's for master's degree.</li>
