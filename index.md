@@ -62,6 +62,7 @@ Please find more about my research [here](./research.md).
 ### News
 <hr>
 
+- [Oct 25] I am serving as an AC for WACV 2026.
 - [Sep 25] Our proposed **[Self-alignment with RRPO](https://arxiv.org/abs/2504.12083)** got accepted in **NeurIPS** 2025.
 - [Sep 25] I successfully defended my PhD thesis! 
 - [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.
@@ -133,13 +134,23 @@ Please find more about my research [here](./research.md).
 - Rachel Phinnemore, CS at Queen's, undergrad final year project, 2020 - 2021.
 
 
-<a name="/reviewing"></a>
+<a name="/academic"></a>
+
+### AC/SAC
+<hr>
+
+- WACV
+
 
 ### Reviewing
 <hr>
 
-- NeurIPS, ICLR, AAAI, CVPR, ICCV, ECCV, ICML, ICASSP, ACM MM, ACII
+- NeurIPS, ICLR, AAAI, CVPR, ICCV, ECCV, ICML, WACV, ICASSP, ACM MM, ACII
 - IEEE Transactions on - PAMI, Affective Computing, Artificial Intelligence
+
+
+
+
 
 <!-- 
 <a name="/talks"></a>
