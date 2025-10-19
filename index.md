@@ -136,7 +136,7 @@ Please find more about my research [here](./research.md).
 
 <a name="/academic"></a>
 
-### AC/SAC
+### Area Chair
 <hr>
 
 - WACV
