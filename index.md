@@ -32,7 +32,7 @@ permalink: /
         <a title="Google Scholar" href="https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ&view_op=list_works&sortby=pubdate" target="_blank"><img src="./assets/logos/google_scholar.png" width="7.5%" height="7.5%" alt="Google Scholar"></a> 
         <a title="LinkedIn" href="https://www.linkedin.com/in/sarkarpritam/" target="_blank"><img src="./assets/logos/linkedin.png" width="7.5%" height="7.5%" alt="LinkedIn"></a> 
         <a title="GitHub" href="https://github.com/pritamqu/" target="_blank"><img src="./assets/logos/github.png" width="7.5%" height="7.5%" alt="GitHub"></a> 
-        <!-- <a title="Resume" href="./files/sarkar_resume.pdf" target="_blank"><img src="./assets/logos/cv.png" width="7.5%" height="7.5%" alt="Resume"></a>  -->
+        <a title="CV" href="./cv.pdf" target="_blank"><img src="./assets/logos/cv.png" width="7.5%" height="7.5%" alt="CV"></a> 
     </div>
     <!-- </center> -->
 </div>
