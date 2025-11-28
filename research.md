@@ -7,7 +7,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2505.08455"> <img class="pub-image" src="/assets/publications/vcrbench.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2505.08455"> <img class="pub-image" src="./assets/publications/vcrbench.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -33,7 +33,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2504.12083"> <img class="pub-image" src="/assets/publications/self-alignment.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2504.12083"> <img class="pub-image" src="./assets/publications/self-alignment.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -58,7 +58,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2405.18654"> <img class="pub-image" src="/assets/publications/halva.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2405.18654"> <img class="pub-image" src="./assets/publications/halva.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -82,7 +82,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2306.02014"> <img class="pub-image" src="/assets/publications/ood_vssl.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2306.02014"> <img class="pub-image" src="./assets/publications/ood_vssl.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -107,7 +107,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="/assets/publications/xkd.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2211.13929"> <img class="pub-image" src="./assets/publications/xkd.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -132,7 +132,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2111.05329"> <img class="pub-image" src="/assets/publications/crisscross.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2111.05329"> <img class="pub-image" src="./assets/publications/crisscross.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -158,7 +158,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2205.06887"> <img class="pub-image" src="/assets/publications/avcaffe.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2205.06887"> <img class="pub-image" src="./assets/publications/avcaffe.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -182,7 +182,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2308.13568"> <img class="pub-image" src="/assets/publications/rddm.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2308.13568"> <img class="pub-image" src="./assets/publications/rddm.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -207,7 +207,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2010.00104"> <img class="pub-image" src="/assets/publications/ppg2ecg_fast.gif" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2010.00104"> <img class="pub-image" src="./assets/publications/ppg2ecg_fast.gif" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -232,7 +232,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf"> <img class="pub-image" src="/assets/publications/happy_driver.png" width="100%"> </a>
+			<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf"> <img class="pub-image" src="./assets/publications/happy_driver.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -256,7 +256,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2011.02000"> <img class="pub-image" src="/assets/publications/sslecg2.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2011.02000"> <img class="pub-image" src="./assets/publications/sslecg2.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -279,7 +279,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/2002.03898"> <img class="pub-image" src="/assets/publications/sslecg_jr.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/2002.03898"> <img class="pub-image" src="./assets/publications/sslecg_jr.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -302,7 +302,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/1910.07497"> <img class="pub-image" src="/assets/publications/sslecg_cf.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/1910.07497"> <img class="pub-image" src="./assets/publications/sslecg_cf.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -325,7 +325,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://pubmed.ncbi.nlm.nih.gov/34222746/"> <img class="pub-image" src="/assets/publications/ideas1.png" width="100%"> </a>
+			<a href="https://pubmed.ncbi.nlm.nih.gov/34222746/"> <img class="pub-image" src="./assets/publications/ideas1.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -348,7 +348,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://arxiv.org/abs/1908.00385"> <img class="pub-image" src="/assets/publications/acii19.png" width="100%"> </a>
+			<a href="https://arxiv.org/abs/1908.00385"> <img class="pub-image" src="./assets/publications/acii19.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -370,7 +370,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://www.mdpi.com/1424-8220/19/19/4270"> <img class="pub-image" src="/assets/publications/ideas2.png" width="100%"> </a>
+			<a href="https://www.mdpi.com/1424-8220/19/19/4270"> <img class="pub-image" src="./assets/publications/ideas2.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -391,7 +391,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://ieeexplore.ieee.org/document/8999310"> <img class="pub-image" src="/assets/publications/cad.png" width="100%"> </a>
+			<a href="https://ieeexplore.ieee.org/document/8999310"> <img class="pub-image" src="./assets/publications/cad.png" width="100%"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -417,7 +417,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/img.png"> </a>
+			<a href=""> <img class="pub-image" src="./assets/publications/img.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -442,7 +442,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
+			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="./assets/publications/poster_2022_rais_feas.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -464,7 +464,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
+			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="./assets/publications/poster_2022_rais_feas.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -486,7 +486,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="/files/poster/poster_2021_rais.pdf"> <img class="pub-image" src="/assets/publications/poster_2021_rais.png"> </a>
+			<a href="/files/poster/poster_2021_rais.pdf"> <img class="pub-image" src="./assets/publications/poster_2021_rais.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -508,7 +508,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="/files/poster/poster_2019_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2019_feas.png"> </a>
+			<a href="/files/poster/poster_2019_feas.pdf"> <img class="pub-image" src="./assets/publications/poster_2019_feas.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -535,7 +535,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
+			<a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a"> <img class="pub-image" src="./assets/publications/QueensLogo_colour.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
@@ -558,7 +558,7 @@ permalink: /research/
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
-			<a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
+			<a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927"> <img class="pub-image" src="./assets/publications/QueensLogo_colour.png"> </a>
 		</div>
 		<div class="col-sm-9">
 			<div class="pub-title">
