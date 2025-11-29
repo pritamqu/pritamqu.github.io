@@ -62,11 +62,11 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
     <summary style="margin-left:0px;"><strong>Pro-bono activity</strong> (click to read more)</summary>
     <ul>
         <p>
-        I am dedicating a weekly time slot (45 minutes) to speak with graduate students who might lack access to broad mentorship networks. Whether you want to brainstorm, refine your research direction, or get an external perspective on your work, I am here to help.
+        I am dedicating a weekly time slot (45 minutes) to speak with graduate students who might lack access to a strong mentorship or peer support. Whether you want to brainstorm, refine your research direction, or get an external perspective on your work, I am happy to help.
         </p>
 
         <p>
-            <strong>The Motivation</strong> 
+            <strong>The Motivation:</strong> 
             I have been incredibly fortunate to have supportive mentors and peers throughout my career, but I also know the difficulty of working without it. This is my way of paying forward the support I have received, aiming to reach students outside my immediate network who might benefit from such support. 
         </p>
         
