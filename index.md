@@ -59,26 +59,37 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
 <a name="/pro-bono"></a>
 
 <details>
-  <summary style="margin-left:0px;"><strong>Pro-bono activity</strong> (click to read more)</summary>
-  <ul>
-  
-  I am starting this initiative to dedicate 45 minutes each week to speak with graduate students who may not have access to strong mentorship networks or peers in their research areas. If you would like to brainstorm ideas, discuss your research direction, or get an external perspective on your work, I am happy to help. 
-  <br>
-  Why am I doing this? I have been fortunate to receive support from excellent mentors and peers at various stages of my career, and I also know what it feels like to work alone without any guidance. 
-  <br>
-  To express your interest, please send a brief message through this **[form](https://forms.gle/ZJH79XhwN8dWcxS27)**, and I will get back to you. Before reaching out, please review my research interests to see if they (at least somewhat) align with yours. 
-  <br>
-  To make the best use of our time, let us plan the discussion in the following format:
-  <ul>
-  <li>5 minutes: Quick introductions.</li>
-  <li>10 minutes: You describe your research problem, current progress, and specific challenges. Ideally some slides with specific points.</li>
-  <li>25 minutes: Brainstorming ideas and some actionable feedback.</li>
-  <li>5 minutes: Wrap up and any final questions/suggestions for me.</li>
-  </ul>
-  <br>
-  Please be assured that I will periodically review the submitted responses and reach out to selected candidates. However, due to limited time, I may not be able to respond to everyone. Based on my availability, I may schedule sessions during the weekends. Thank you for your understanding. 
+    <summary style="margin-left:0px;"><strong>Pro-bono activity</strong> (click to read more)</summary>
+    <ul>
+        <p>
+            I am starting this initiative to dedicate 45 minutes each week to speak with graduate students who may not have access to strong mentorship networks or peers in their research areas. If you would like to brainstorm ideas, discuss your research direction, or get an external perspective on your work, I am happy to help. 
+        </p>
 
-  </ul>
+        <p>
+            <strong>Why am I doing this?</strong> 
+            I have been fortunate to receive support from excellent mentors and peers at various stages of my career, and I also know what it feels like to work alone without any guidance. 
+        </p>
+        
+        <p>
+            To express your interest, please send a brief message through this
+            <a href="https://forms.gle/ZJH79XhwN8dWcxS27">form</a>, and I will get back to you.
+            Before reaching out, please review my research interests to see if they (at least somewhat) align with yours.
+        </p>
+
+        <p>
+            To make the best use of our time, let us plan the discussion in the following format:
+        </p>
+        <ul>
+            <li>5 minutes: Quick introductions.</li>
+            <li>10 minutes: You describe your research problem, current progress, and specific challenges. Ideally some slides with specific points.</li>
+            <li>25 minutes: Brainstorming ideas and some actionable feedback.</li>
+            <li>5 minutes: Wrap up and any final questions/suggestions for me.</li>
+        </ul>
+
+        <p>
+            Please be assured that I will periodically review the submitted responses and reach out to selected candidates. However, due to limited time, I may not be able to respond to everyone. Based on my availability, I may schedule sessions during the weekends. Thank you for your understanding. 
+        </p>
+    </ul>
 </details>
 
 <a name="/research-focus"></a>
