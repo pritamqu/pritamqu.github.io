@@ -48,10 +48,10 @@ I received the First Prize in the Research Excellence Award (PhD), IEEE Kingston
 <!-- Outside of research, I am passionate about photography and film-making, enjoy coffee, and like walking, running, and playing a bit of badminton. -->
 
 
-<p><mark class="red">
-<strong>Open to collaboration:</strong>
+<p><mark class="black">
+<strong>Open to collaboration</strong><br>
 If you are interested in collaborating on research ideas of mutual interest, 
-please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank">email me</a>. 
+please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank">email</a> me. 
 <!-- I am also open to speaking engagements as well. -->
 </mark></p>
 
@@ -64,9 +64,9 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
   
   I am starting this initiative to dedicate 45 minutes each week to speak with graduate students who may not have access to strong mentorship networks or peers in their research areas. If you would like to brainstorm ideas, discuss your research direction, or get an external perspective on your work, I am happy to help. 
   
-  Why am I doing this? I have been fortunate to receive support from excellent mentors and peers at different stages of my career, and I also know what it feels like to work alone without any guidance. 
+  Why am I doing this? I have been fortunate to receive support from excellent mentors and peers at various stages of my career, and I also know what it feels like to work alone without any guidance. 
   
-  To express your interest, please send a brief message through this form: https://forms.gle/ZJH79XhwN8dWcxS27, and I will get back to you. Before reaching out, please review my research interests to see if they (at least somewhat) align with yours. 
+  To express your interest, please send a brief message through this **[form](https://forms.gle/ZJH79XhwN8dWcxS27)**, and I will get back to you. Before reaching out, please review my research interests to see if they (at least somewhat) align with yours. 
 
   To make the best use of our time, let us plan the discussion in the following format:
   <ul>
@@ -75,7 +75,7 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
   <li>25 minutes: Brainstorming ideas and some actionable feedback.</li>
   <li>5 minutes: Wrap up and any final questions/suggestions for me.</li>
   </ul>
-  Please be assured that I will periodically review the submitted responses and reach out to selected candidates. However, due to limited time, I may not be able to respond to everyone. Thank you for your understanding. 
+  Please be assured that I will periodically review the submitted responses and reach out to selected candidates. However, due to limited time, I may not be able to respond to everyone. Based on my availability, I may schedule sessions during the weekends. Thank you for your understanding. 
 
   </ul>
 </details>
