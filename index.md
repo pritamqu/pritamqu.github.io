@@ -59,15 +59,14 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
 <a name="/pro-bono"></a>
 
 <details>
-    <summary style="margin-left:0px;"><strong>Pro-bono activity</strong> (click to read more)</summary>
+    <summary style="margin-left:0px;"><strong>Pro-bono activity for students</strong> (click to read more)</summary>
     <ul>
         <p>
-        I am dedicating a weekly time slot (45 minutes) to speak with graduate students who might lack access to a strong mentorship or peer support. Whether you want to brainstorm, refine your research direction, or get an external perspective on your work, I am happy to help.
+            I am dedicating a weekly time slot (45 minutes) to speak with graduate students who might lack access to a strong mentorship or peer support. Whether you want to brainstorm, refine your research direction, or get an external perspective on your work, I am happy to help.
         </p>
 
         <p>
-            <strong>The Motivation:</strong> 
-            I have been incredibly fortunate to have supportive mentors and peers throughout my career, but I also know the difficulty of working without it. This is my way of paying forward the support I have received, aiming to reach students outside my immediate network who might benefit from such support. 
+            Why am I doing this? I have been incredibly fortunate to have supportive mentors and peers throughout my career, but I also know the difficulty of working without it. This is my way of paying forward the support I have received, aiming to reach students outside my immediate network who might benefit from such support. 
         </p>
         
         <p>
@@ -107,6 +106,7 @@ Please find more about my research [here](./research.md).
 ### News
 <hr>
 
+- [Dec 25] I joined UBC and Vector as a postdoc.
 - [Oct 25] I am serving as an AC for WACV 2026.
 - [Sep 25] Our proposed **[Self-alignment with RRPO](https://arxiv.org/abs/2504.12083)** got accepted in **NeurIPS** 2025.
 - [Sep 25] I successfully defended my PhD thesis! Here are the [slides](https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/).
