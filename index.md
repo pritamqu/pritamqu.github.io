@@ -106,7 +106,7 @@ Please find more about my research [here](./research.md).
 ### News
 <hr>
 
-- [Dec 25] I joined UBC and Vector as a postdoc.
+- [Dec 25] I joined [UBC](https://www.postdocs.ubc.ca/profile/pritam-sarkar) and [Vector](https://vectorinstitute.ai/team/pritam-sarkar/) as a postdoc.
 - [Oct 25] I am serving as an AC for WACV 2026.
 - [Sep 25] Our proposed **[Self-alignment with RRPO](https://arxiv.org/abs/2504.12083)** got accepted in **NeurIPS** 2025.
 - [Sep 25] I successfully defended my PhD thesis! Here are the [slides](https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/).
