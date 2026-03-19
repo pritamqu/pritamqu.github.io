@@ -41,7 +41,7 @@ permalink: /
 
 I am interested in advancing safe multimodal intelligence and in designing algorithms that require minimal human supervision. Currently, I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) as part of the Computer Vision Group in the CS department. 
 I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/), where I worked with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD, I interned at [Google](https://research.google/) and [RBC Borealis](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/). 
-I received the First Prize in the Research Excellence Award (PhD), IEEE Kingston Section, in 2023. Outside of research, I am passionate about photography and film-making, enjoy coffee, long walks, and playing a bit of badminton.
+I received the First Prize in the IEEE Research Excellence Award, in 2023. Outside of research, I am passionate about photography and film-making, enjoy coffee, long walks, and playing a bit of badminton.
 
 <!-- I joined Queen's in 2018 and completed my master's in 2020, and subsequently began my PhD.  -->
 <!-- Prior to that, I worked for about three years as a Software Engineer at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's in 2015 from [West Bengal University of Technology, India](/).  -->
