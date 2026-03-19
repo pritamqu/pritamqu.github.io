@@ -121,9 +121,6 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
   <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for oral presentation.</li>
   <li>[Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.</li>
   <li>[Sep 18] Joined Queen's for a master's degree.</li>
-  <li>[Dec 17] Joined Infosys as a Sr. System Engineer.</li>
-  <li>[Nov 15] Joined Tech Mahindra as a Software Engineer.</li>
-  <li>[Jun 15] Completed B.Tech!</li>
   </ul>
 
 </details>
