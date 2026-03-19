@@ -98,6 +98,7 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
 - [Oct 25] I am serving as an AC for WACV 2026.
 - [Sep 25] Our proposed **[Self-alignment with RRPO](https://arxiv.org/abs/2504.12083)** got accepted in **NeurIPS** 2025.
 - [Sep 25] I successfully defended my PhD thesis! Here are the [slides](https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/) and [Thesis](https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a).
+<details>
 - [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.
 - [Apr 25] Introduced **[RRPO](https://arxiv.org/abs/2504.12083)**, a fine-grained self-alignment recipe to align Multimodal LLMs.
 - [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.
@@ -113,8 +114,6 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
 - [Aug 21] We are organizing [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/).
 - [Mar 21] I received postgraduate affiliation award from Vector Institute. [News](https://vectorinstitute.ai/vector-welcomes-new-researchers-to-postgraduate-affiliate-program/)
 - [Dec 20] Our paper **[CardioGAN](https://arxiv.org/abs/2010.00104)** got accepted in **AAAI** 2021.
-
-<details>
   <summary style="margin-left: 25px;">Click to see old news</summary>
   <ul>
   <li>[Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
