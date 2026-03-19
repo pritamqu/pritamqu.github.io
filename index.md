@@ -110,7 +110,7 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
 - [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.
 - [Nov 22] **[AVCAffe](https://arxiv.org/abs/2205.06887)** and **[CrissCross](https://arxiv.org/abs/2111.05329)** (**Oral**) got accepted in **AAAI** 2023.
 - [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).
-- [Oct 22] **Honourable Mention** in poster competitions (1.) Robotics and AI Symposium 2022 and (2.) FEAS Research Symposium 2022 at Queen's University, Canada.
+- [Oct 22] **Honourable Mention** in poster competitions at Robotics and AI Symposium 2022 and FEAS Research Symposium 2022 at Queen's University, Canada.
 - [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.
 - [Oct 21] **Best poster** award at Robotics and AI Symposium, Ingenuity Labs, 2021.
 - [Aug 21] We are organizing [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/).
@@ -121,7 +121,7 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
   <summary style="margin-left: 25px;">Click to see old news</summary>
   <ul>
   <li>[Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
-  <li>[Apr 20] Successfully defended my M.A.Sc. thesis.</li>
+  <li>[Apr 20] Successfully defended my M.A.Sc. thesis. [Thesis](https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927) </li>
   <li>[Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for oral presentation.</li>
   <li>[Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.</li>
   <li>[Sep 18] Joined Queen's for a master's degree.</li>
@@ -663,55 +663,4 @@ Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion model
 		</div>
 	</div>
 </div> -->
-
-
-<br>
-<h1> Theses </h1> 
-
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				Multimodal Learning from Videos: Self-supervised Pre-training, Post-training Alignment, and Benchmarks
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>
-			</div>
-			<div class="pub-conf">
-				Queen's University, Kingston, Canada, 2025.
-			</div>
-			<div class="pub-links">
-				<a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">[Ph.D. Thesis]</a>
-			</div>
-		</div>
-	</div>
-</div>
-
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927"> <img class="pub-image" src="/assets/publications/QueensLogo_colour.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				Self-supervised ECG Representation Learning for Affective Computing
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>
-			</div>
-			<div class="pub-conf">
-				Queen's University, Kingston, Canada, 2020.
-			</div>
-			<div class="pub-links">
-				<a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">[M.A.Sc. Thesis]</a>
-			</div>
-		</div>
-	</div>
-</div>
-
 
