@@ -41,18 +41,15 @@ permalink: /
 
 I am interested in advancing safe multimodal intelligence and in designing algorithms that require minimal human supervision. Currently, I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) as part of the Computer Vision Group in the CS department. 
 I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/), where I worked with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD, I interned at [Google](https://research.google/) and [RBC Borealis](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/). 
-I received the First Prize in the IEEE Research Excellence Award, in 2023. Outside of research, I am passionate about photography and film-making, enjoy coffee, long walks, and playing a bit of badminton.
-
-<!-- I joined Queen's in 2018 and completed my master's in 2020, and subsequently began my PhD.  -->
-<!-- Prior to that, I worked for about three years as a Software Engineer at [Infosys](https://www.infosys.com/) and [Tech Mahindra](https://www.techmahindra.com/). I completed my bachelor's in 2015 from [West Bengal University of Technology, India](/).  -->
-<!-- Outside of research, I am passionate about photography and film-making, enjoy coffee, and like walking, running, and playing a bit of badminton. -->
+I received the First Prize in the IEEE Research Excellence Award, in 2023. 
+I frequently review for the following venues: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, PAMI. 
+Outside of research, I am passionate about photography and film-making, enjoy coffee, long walks, and playing badminton.
 
 
 <p><mark class="black">
 <strong>Open to collaboration</strong><br>
 If you are interested in collaborating on research ideas of mutual interest, 
 please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank">email</a> me. 
-<!-- I am also open to speaking engagements as well. -->
 </mark></p>
 
 
@@ -546,121 +543,4 @@ Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion model
 		</div>
 	</div>
 </div>
-
-
-
-<!-- <h1> Patents </h1>
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href=""> <img class="pub-image" src="/assets/publications/img.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				Title withheld
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
-			</div>
-			<div class="pub-conf">
-				US Patent Application, 63/085,394, 2020.
-			</div>
-			<div class="pub-links">
-				<a href="">[patent]</a>
-			</div>
-		</div>
-	</div>
-</div>
- -->
-
-<!-- <h1> Symposiums/Posters/Others </h1>
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
-			</div>
-			<div class="pub-conf">
-				FEAS Research Symposium at Queen's University, Canada, 2022. <mark class="red">Honourable Mention</mark>
-			</div>
-			<div class="pub-links">
-				<a href="/files/poster/poster_2022_rais_feas.pdf">[poster]</a>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="/files/poster/poster_2022_rais_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2022_rais_feas.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				The First Large Scale Audio-Visual Dataset of Cognitive Load and Affect
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
-			</div>
-			<div class="pub-conf">
-				Robotics and AI Symposium at Ingunity Labs, Canada, 2022. <mark class="red">Honourable Mention</mark>
-			</div>
-			<div class="pub-links">
-				<a href="/files/poster/poster_2022_rais_feas.pdf">[poster]</a>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="/files/poster/poster_2021_rais.pdf"> <img class="pub-image" src="/assets/publications/poster_2021_rais.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				Toward Wearables of the Future: Affordable Acquisition of Continuous ECG with Deep Learning
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
-			</div>
-			<div class="pub-conf">
-				Robotics and AI Symposium at Ingunity Labs, Canada, 2021. <mark class="red">Best Poster Award</mark>
-			</div>
-			<div class="pub-links">
-				<a href="/files/poster/poster_2021_rais.pdf">[poster]</a>
-			</div>
-		</div>
-	</div>
-</div>
-
-<div class="container-fluid">
-	<div class="row pub-entry">
-		<div class="col-sm-3">
-			<a href="/files/poster/poster_2019_feas.pdf"> <img class="pub-image" src="/assets/publications/poster_2019_feas.png"> </a>
-		</div>
-		<div class="col-sm-9">
-			<div class="pub-title">
-				A Deep Learning Approach for AR-based Adaptive Simulation using Wearables
-			</div>
-			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, K. Ross, D. Rodenburg, A. Ruberto, P. Hungler, D. Howes, A. Szulewski, A. Etemad
-			</div>
-			<div class="pub-conf">
-				FEAS Research Symposium at Queen's University, Canada, 2019.
-			</div>
-			<div class="pub-links">
-				<a href="/files/poster/poster_2019_feas.pdf">[poster]</a>
-			</div>
-		</div>
-	</div>
-</div> -->
 
