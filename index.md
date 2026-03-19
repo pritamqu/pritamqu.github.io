@@ -99,28 +99,29 @@ please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sark
 - [Sep 25] Our proposed **[Self-alignment with RRPO](https://arxiv.org/abs/2504.12083)** got accepted in **NeurIPS** 2025.
 - [Sep 25] I successfully defended my PhD thesis! Here are the [slides](https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/) and [Thesis](https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a).
 
-<details> <summary style="margin-left: 25px;">Click to see old news</summary>
+<details>
+<summary style="margin-left: 25px;">Click to see old news</summary>
 <ul>
-<li> [May 25] Introduced **[VCRBench](https://arxiv.org/abs/2505.08455)**, the first video-based multi-step causal reasoning benchmark.</li>
-<li> [Apr 25] Introduced **[RRPO](https://arxiv.org/abs/2504.12083)**, a fine-grained self-alignment recipe to align Multimodal LLMs.</li>
-<li> [Jan 25] **[DPA](https://arxiv.org/abs/2405.18654)** got accepted in **ICLR** 2025.</li>
-<li> [Dec 23] **[XKD](https://arxiv.org/abs/2211.13929)** and **[RDDM](https://arxiv.org/abs/2308.13568)** got accepted in **AAAI** 2024.</li>
-<li> [Nov 23] I have won the **first prize** in IEEE Research Excellence Award (PhD).</li>
-<li> [Sep 23] Our paper on **[Video SSL in OOD](https://arxiv.org/abs/2306.02014)** got accepted in **NeurIPS** 2023 as a **Spotlight**.</li>
-<li> [Aug 23] Accepted an offer from **Google** to join as a Student Researcher.</li>
-<li> [Nov 22] **[AVCAffe](https://arxiv.org/abs/2205.06887)** and **[CrissCross](https://arxiv.org/abs/2111.05329)** (**Oral**) got accepted in **AAAI** 2023.</li>
-<li> [Oct 22] We are organizing [AAAI 2023 Workshop on R2HCAI](https://r2hcai.github.io/AAAI-23/).</li>
-<li> [Oct 22] **Honourable Mention** in poster competitions at Robotics and AI Symposium 2022 and FEAS Research Symposium 2022 at Queen's University, Canada.</li>
-<li> [Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.</li>
-<li> [Oct 21] **Best poster** award at Robotics and AI Symposium, Ingenuity Labs, 2021.</li>
-<li> [Aug 21] We are organizing [AAAI 2022 Workshop on HC-SSL](https://hcssl.github.io/AAAI-22/).</li>
-<li> [Mar 21] I received postgraduate affiliation award from Vector Institute. [News](https://vectorinstitute.ai/vector-welcomes-new-researchers-to-postgraduate-affiliate-program/)</li>
-<li> [Dec 20] Our paper **[CardioGAN](https://arxiv.org/abs/2010.00104)** got accepted in **AAAI** 2021.</li>
-<li> [Aug 20] My first journal/transaction as a first author got accepted in IEEE Trans. of Affective Computing.</li>
-<li> [Apr 20] Successfully defended my [MASc thesis](https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927).</li>
-<li> [Jan 20] Conference paper on ECG-based SSL got accepted in IEEE ICASSP 2020 for oral presentation.</li>
-<li> [Jun 19] My first paper got accepted for oral presentation in IEEE ACII 2019.</li>
-<li> [Sep 18] Joined Queen's for a master's degree.</li>
+<li>[May 25] Introduced <strong><a href="https://arxiv.org/abs/2505.08455">VCRBench</a></strong>, the first video-based multi-step causal reasoning benchmark.</li>
+<li>[Apr 25] Introduced <strong><a href="https://arxiv.org/abs/2504.12083">RRPO</a></strong>, a fine-grained self-alignment recipe to align Multimodal LLMs.</li>
+<li>[Jan 25] <strong><a href="https://arxiv.org/abs/2405.18654">DPA</a></strong> got accepted in <strong>ICLR</strong> 2025.</li>
+<li>[Dec 23] <strong><a href="https://arxiv.org/abs/2211.13929">XKD</a></strong> and <strong><a href="https://arxiv.org/abs/2308.13568">RDDM</a></strong> got accepted in <strong>AAAI</strong> 2024.</li>
+<li>[Nov 23] I won <strong>first prize</strong> in IEEE Research Excellence Award (PhD).</li>
+<li>[Sep 23] Our paper on <strong><a href="https://arxiv.org/abs/2306.02014">Video SSL in OOD</a></strong> got accepted in <strong>NeurIPS</strong> 2023 as a <strong>Spotlight</strong>.</li>
+<li>[Aug 23] Accepted an offer from <strong>Google</strong> to join as a Student Researcher.</li>
+<li>[Nov 22] <strong><a href="https://arxiv.org/abs/2205.06887">AVCAffe</a></strong> and <strong><a href="https://arxiv.org/abs/2111.05329">CrissCross</a></strong> (<strong>Oral</strong>) got accepted in <strong>AAAI</strong> 2023.</li>
+<li>[Oct 22] We organized <a href="https://r2hcai.github.io/AAAI-23/">AAAI 2023 Workshop on R2HCAI</a>.</li>
+<li>[Oct 22] <strong>Honourable Mention</strong> in poster competitions at Robotics and AI Symposium 2022 and FEAS Research Symposium 2022 at Queen&#39;s University, Canada.</li>
+<li>[Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.</li>
+<li>[Oct 21] <strong>Best poster</strong> award at Robotics and AI Symposium, Ingenuity Labs, 2021.</li>
+<li>[Aug 21] We organized <a href="https://hcssl.github.io/AAAI-22/">AAAI 2022 Workshop on HC-SSL</a>.</li>
+<li>[Mar 21] I received postgraduate affiliation award from Vector Institute. <a href="https://vectorinstitute.ai/vector-welcomes-new-researchers-to-postgraduate-affiliate-program/">News</a></li>
+<li>[Dec 20] Our paper <strong><a href="https://arxiv.org/abs/2010.00104">CardioGAN</a></strong> got accepted in <strong>AAAI</strong> 2021.</li>
+<li>[Aug 20] My <a href="https://arxiv.org/abs/2002.03898">first transaction</a> as a first author got accepted in IEEE Transactions on Affective Computing.</li>
+<li>[Apr 20] Successfully defended my <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">MASc thesis</a>.</li>
+<li>[Jan 20] Conference paper on <a href="https://arxiv.org/abs/1910.07497">ECG-based SSL</a> got accepted in IEEE ICASSP 2020 for oral presentation.</li>
+<li>[Jun 19] My <a href="https://arxiv.org/abs/1908.00385">first paper</a> got accepted for oral presentation in IEEE ACII 2019.</li>
+<li>[Sep 18] Joined Queen's for a master's degree.</li>
 
 </ul>
 </details>
