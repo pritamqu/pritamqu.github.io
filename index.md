@@ -149,14 +149,13 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				<!-- Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2023. <mark class="red">Spotlight</mark> -->
-				Preprint. Under review.
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under review</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2505.08455">[paper]</a>
-				<a href="https://github.com/pritamqu/VCRBench">[code]</a>
-				<a href="https://pritamqu.github.io/VCRBench/">[website]</a>
-				<a href="https://huggingface.co/datasets/pritamqu/VCRBench">[Benchmark]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2505.08455"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/VCRBench"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/VCRBench/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
+				<!-- <a class="pub-link pub-link--hf" href="https://huggingface.co/datasets/pritamqu/VCRBench"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/huggingface.svg" alt="" />Dataset</a> -->
 			</div>
 		</div>
 	</div>
@@ -175,13 +174,12 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2025.
-				<!-- Preprint. Under review. -->
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />NeurIPS · 2025</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2504.12083">[paper]</a>
-				<a href="https://github.com/pritamqu/RRPO">[code]</a>
-				<a href="https://pritamqu.github.io/RRPO/">[website]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2504.12083"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/RRPO"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/RRPO/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -200,12 +198,11 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, S. Ebrahimi, A. Etemad, A. Beirami, S. Ö. Arık, T. Pfister
 			</div>
 			<div class="pub-conf">
-				International Conference on Learning Representations, (<mark class="red">ICLR</mark>), 2025. 
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />ICLR · 2025</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2405.18654">[paper]</a>
-				<a href="https://github.com/pritamqu/HALVA">[code]</a>
-				<!-- <a href="./">[website]</a> -->
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2405.18654"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/HALVA"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
 			</div>
 		</div>
 	</div>
@@ -224,12 +221,13 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Beirami, A. Etemad
 			</div>
 			<div class="pub-conf">
-				Neural Information Processing Systems, (<mark class="red">NeurIPS</mark>), 2023. <mark class="red">Spotlight</mark>
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />NeurIPS · 2023</span>
+				<span class="venue-note venue-note--spotlight">Spotlight</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2306.02014">[paper]</a>
-				<a href="https://github.com/pritamqu/OOD-VSSL">[code]</a>
-				<a href="https://pritamqu.github.io/OOD-VSSL/">[website]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2306.02014"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/OOD-VSSL"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/OOD-VSSL/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -249,13 +247,12 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (<mark class="red">AAAI</mark>), 2024. 
-				<!-- <mark class="red">Oral</mark> -->
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2024</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2211.13929">[paper]</a>
-				<a href="https://github.com/pritamqu/XKD">[code]</a>
-				<a href="https://pritamqu.github.io/XKD/">[website]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2211.13929"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/XKD"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/XKD/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -274,12 +271,13 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (<mark class="red">AAAI</mark>), 2023. <mark class="red">Oral</mark>
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2023</span>
+				<span class="venue-note venue-note--oral">Oral</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2111.05329">[paper]</a>
-				<a href="https://github.com/pritamqu/crisscross">[code]</a>
-				<a href="https://pritamqu.github.io/CrissCross/">[website]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2111.05329"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/crisscross"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/CrissCross/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -300,12 +298,12 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Posen, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (<mark class="red">AAAI</mark>), 2023.
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2023</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2205.06887">[paper]</a>
-				<a href="https://github.com/pritamqu/AVCAffe">[code]</a>
-				<a href="https://pritamqu.github.io/AVCAffe/">[website]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2205.06887"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/AVCAffe"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/AVCAffe/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -324,13 +322,11 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				D. Shome, <strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (<mark class="red">AAAI</mark>), 2024. 
-				<!-- <mark class="red">Oral</mark> -->
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2024</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2308.13568">[paper]</a>
-				<a href="https://github.com/DebadityaQU/RDDM">[code]</a>
-				<!-- <a href="https://pritamqu.github.io/OOD-VSSL/">[website]</a> -->
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2308.13568"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/DebadityaQU/RDDM"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
 			</div>
 		</div>
 	</div>
@@ -349,13 +345,12 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				AAAI Conference on Artificial Intelligence, (<mark class="red">AAAI</mark>), 2021.
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2021</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2010.00104">[paper]</a>
-				<a href="https://github.com/pritamqu/ppg2ecg-cardiogan">[code]</a>
-				<!-- <a href="https://pritamqu.github.io/ppg2ecg-cardiogan/">[website]</a> -->
-				<a href="https://slideslive.com/38948024/cardiogan-attentive-generative-adversarial-network-with-dual-discriminators-for-synthesis-of-ecg-from-ppg">[video]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2010.00104"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/ppg2ecg-cardiogan"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<!-- <a class="pub-link pub-link--video" href="https://slideslive.com/38948024/cardiogan-attentive-generative-adversarial-network-with-dual-discriminators-for-synthesis-of-ecg-from-ppg"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/video.svg" alt="" />Video</a> -->
 			</div>
 		</div>
 	</div>
@@ -421,11 +416,11 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				IEEE Transactions on Affective Computing, (TAFFC), 2020.
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />IEEE TAFFC · 2020</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/2002.03898">[paper]</a>
-				<a href="https://github.com/pritamqu/SSL-ECG">[code]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2002.03898"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/SSL-ECG"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
 			</div>
 		</div>
 	</div>
@@ -444,11 +439,12 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				IEEE International Conference on Acoustics, Speech, and Signal Processing, (ICASSP), 2020. <mark class="red">Oral</mark>
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />ICASSP · 2020</span>
+				<span class="venue-note venue-note--oral">Oral</span>
 			</div>
 			<div class="pub-links">
-				<a href="https://arxiv.org/abs/1910.07497">[paper]</a>
-				<a href="https://github.com/pritamqu/SSL-ECG">[code]</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/1910.07497"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/SSL-ECG"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
 			</div>
 		</div>
 	</div>
