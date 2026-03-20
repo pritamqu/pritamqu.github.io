@@ -336,9 +336,279 @@ details {
   margin-bottom: 16px;
 }
 
+// Collaboration CTA (About section)
+.collab-callout {
+  margin: 1.35rem 0 1.5rem;
+  padding: 1rem 1.15rem 1.05rem 1.25rem;
+  border: 1px solid rgba(71, 85, 119, 0.22);
+  border-left-width: 5px;
+  border-left-color: rgb(71, 85, 119);
+  border-radius: 6px;
+  background: linear-gradient(135deg, #f4f6fb 0%, #eef2f8 100%);
+  box-shadow: 0 1px 3px rgba(45, 55, 80, 0.06);
+}
+
+.collab-callout__title {
+  display: block;
+  font-size: 1.35rem;
+  letter-spacing: 0.01em;
+  color: rgb(71, 85, 119);
+  margin: 0 0 0.45rem;
+}
+
+.collab-callout__text {
+  margin: 0;
+  line-height: 1.5;
+  color: #333;
+  font-size: 15px;
+}
+
+.collab-callout__text a {
+  font-weight: 600;
+  color: rgb(55, 70, 115);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.collab-callout__text a:hover,
+.collab-callout__text a:focus {
+  color: rgb(40, 52, 95);
+}
+
+// Expandable block — matches collab-callout / site accent
+details.panel-details {
+  margin: 0 0 1.5rem;
+  padding: 0;
+  border: 1px solid rgba(71, 85, 119, 0.22);
+  border-left-width: 5px;
+  border-left-color: rgb(71, 85, 119);
+  border-radius: 6px;
+  background: linear-gradient(135deg, #f4f6fb 0%, #eef2f8 100%);
+  box-shadow: 0 1px 3px rgba(45, 55, 80, 0.06);
+}
+
+.panel-details__summary {
+  cursor: pointer;
+  list-style: none;
+  margin: 0;
+  padding: 1rem 1.2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.75rem;
+  font-weight: 600;
+  color: rgb(71, 85, 119);
+}
+
+.panel-details__summary::-webkit-details-marker {
+  display: none;
+}
+
+.panel-details__summary-title {
+  font-size: 1.5rem;
+  letter-spacing: 0.01em;
+}
+
+.panel-details__summary-hint {
+  font-size: 1.05rem;
+  font-weight: 500;
+  color: rgba(71, 85, 119, 0.75);
+}
+
+.panel-details__content {
+  padding: 0.15rem 1.2rem 1.1rem 1.25rem;
+  border-top: 1px solid rgba(71, 85, 119, 0.12);
+}
+
+.panel-details__content p,
+.panel-details__content li {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #333;
+}
+
+.panel-details__content p {
+  margin: 0 0 0.85em;
+}
+
+.panel-details__content p:last-child {
+  margin-bottom: 0;
+}
+
+.panel-details__content ul {
+  margin: -0.35em 0 0.85em;
+  padding-left: 1.35rem;
+}
+
+.panel-details__content li {
+  margin-bottom: 0.35em;
+}
+
+.panel-details__content a {
+  font-weight: 600;
+  color: rgb(55, 70, 115);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.panel-details__content a:hover,
+.panel-details__content a:focus {
+  color: rgb(40, 52, 95);
+}
+
+// News feed — date chip + row (original list order)
+.news-feed {
+  margin: 0.5rem 0 1.25rem;
+}
+
+.news-feed__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-feed__item {
+  display: flex;
+  gap: 0.85rem;
+  align-items: baseline;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eaecef;
+}
+
+.news-feed__item:last-child {
+  border-bottom: none;
+}
+
+.news-feed__tag {
+  flex: 0 0 auto;
+  min-width: 3.75rem;
+  font-size: 0.74rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: rgb(71, 85, 119);
+  background: #eef1f7;
+  padding: 0.2rem 0.45rem;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 1.35;
+}
+
+.news-feed__body {
+  flex: 1;
+  min-width: 0;
+  line-height: 1.5;
+}
+
+.news-feed__archive {
+  margin-top: 0.35rem;
+}
+
+.news-feed__archive summary {
+  margin-left: 0;
+  padding: 0.35rem 0;
+  color: rgb(71, 85, 119);
+}
+
+.news-feed__archive .news-feed__list {
+  padding-top: 0.15rem;
+}
+
+@media (max-width: 520px) {
+  .news-feed__item {
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .news-feed__tag {
+    align-self: flex-start;
+  }
+}
+
 summary {
   font-weight: bold;
   cursor: pointer;
+}
+
+// Chronological education & employment (index timeline)
+.career-timeline {
+  margin: 1.25rem 0 2rem;
+  font-size: 15px;
+}
+
+.career-timeline .timeline-axis {
+  margin: 0;
+  padding: 0 0 0 1px;
+  border-left: 3px solid rgb(71, 85, 119);
+  margin-left: 14px;
+}
+
+.career-timeline .timeline-item {
+  position: relative;
+  padding: 0 0 1.35rem 1.35rem;
+  margin: 0;
+}
+
+.career-timeline .timeline-item:last-child {
+  padding-bottom: 0.25rem;
+}
+
+.career-timeline .timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -9px;
+  top: 6px;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: rgb(71, 85, 119);
+  border: 2px solid #fff;
+  box-shadow: 0 0 0 1px rgba(71, 85, 119, 0.35);
+}
+
+.career-timeline .timeline-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.5rem 0.75rem;
+  margin-bottom: 0.3rem;
+}
+
+.career-timeline .timeline-years {
+  font-weight: 600;
+  color: rgb(71, 85, 119);
+  font-variant-numeric: tabular-nums;
+  min-width: 7rem;
+}
+
+.career-timeline .timeline-pill {
+  display: inline-block;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border-radius: 4px;
+  vertical-align: middle;
+}
+
+.career-timeline .timeline-pill--edu {
+  background: #e9ecf5;
+  color: #3d4a66;
+}
+
+.career-timeline .timeline-pill--work {
+  background: #e8f2eb;
+  color: #2d4a3a;
+}
+
+.career-timeline .timeline-title {
+  line-height: 1.45;
+}
+
+.career-timeline .timeline-title strong {
+  color: #222;
 }
 
 

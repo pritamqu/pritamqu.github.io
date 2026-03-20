@@ -1,7 +1,7 @@
 ---
 layout: page
 title:
-permalink: /
+permalink: /previous/
 ---
 
 <div class="row">
@@ -38,41 +38,54 @@ permalink: /
 
 <hr>
 
-<a name="/about"></a>
 
-### About
-<hr>
-
-I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision.
-
-I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group (CS). I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [RBC Borealis](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
-
-I received **first prize** in the IEEE Kingston Section Research Excellence Award (PhD) in 2023. Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
+I am interested in advancing safe multimodal intelligence and in designing algorithms that require minimal human supervision. Currently, I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) as part of the Computer Vision Group in the CS department. 
+I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/), where I worked with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD, I interned at [Google](https://research.google/) and [RBC Borealis](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/). 
+I received the First Prize in the IEEE Research Excellence Award, in 2023. 
+I frequently review for the following venues: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, PAMI. 
+Outside of research, I am passionate about photography and film-making, enjoy coffee, long walks, and playing badminton.
 
 
-<aside class="collab-callout" role="note">
-  <strong class="collab-callout__title">Open to collaboration</strong>
-  <p class="collab-callout__text">If you are interested in collaborating on research ideas of mutual interest, please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email me</a>.</p>
-</aside>
+<p><mark class="black">
+<strong>Open to collaboration</strong><br>
+If you are interested in collaborating on research ideas of mutual interest, 
+please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank">email</a> me. 
+</mark></p>
 
 
 <a name="/pro-bono"></a>
 
-<details class="panel-details">
-  <summary class="panel-details__summary"><span class="panel-details__summary-title">Pro-bono activity for students</span><span class="panel-details__summary-hint">Click to expand</span></summary>
-  <div class="panel-details__content">
-    <p>I am dedicating a weekly time slot (45 minutes) to speak with graduate students who might lack access to a strong mentorship or peer support. Whether you want to brainstorm, refine your research direction, or get an external perspective on your work, I am happy to help.</p>
-    <p>Why am I doing this? I have been incredibly fortunate to have supportive mentors and peers throughout my career, but I also know the difficulty of working without it. This is my way of paying forward the support I have received, aiming to reach students outside my immediate network who might benefit from such support.</p>
-    <p>To express your interest, please send a brief message through this <a href="https://forms.gle/ZJH79XhwN8dWcxS27">form</a>, and I will get back to you. Before reaching out, please review my research interests to see if they (at least somewhat) align with yours.</p>
-    <p>To make the best use of our time, let us plan the discussion in the following format:</p>
+<details>
+    <summary style="margin-left:0px;"><strong>Pro-bono activity for students</strong> (click to read more)</summary>
     <ul>
-      <li>5 minutes: Quick introductions.</li>
-      <li>10 minutes: You describe your research problem, current progress, and specific challenges. Ideally some slides with specific points.</li>
-      <li>25 minutes: Brainstorming ideas and some actionable feedback.</li>
-      <li>5 minutes: Wrap up and any final questions/suggestions for me.</li>
+        <p>
+            I am dedicating a weekly time slot (45 minutes) to speak with graduate students who might lack access to a strong mentorship or peer support. Whether you want to brainstorm, refine your research direction, or get an external perspective on your work, I am happy to help.
+        </p>
+
+        <p>
+            Why am I doing this? I have been incredibly fortunate to have supportive mentors and peers throughout my career, but I also know the difficulty of working without it. This is my way of paying forward the support I have received, aiming to reach students outside my immediate network who might benefit from such support. 
+        </p>
+        
+        <p>
+            To express your interest, please send a brief message through this
+            <a href="https://forms.gle/ZJH79XhwN8dWcxS27">form</a>, and I will get back to you.
+            Before reaching out, please review my research interests to see if they (at least somewhat) align with yours.
+        </p>
+
+        <p>
+            To make the best use of our time, let us plan the discussion in the following format:
+        </p>
+        <ul>
+            <li>5 minutes: Quick introductions.</li>
+            <li>10 minutes: You describe your research problem, current progress, and specific challenges. Ideally some slides with specific points.</li>
+            <li>25 minutes: Brainstorming ideas and some actionable feedback.</li>
+            <li>5 minutes: Wrap up and any final questions/suggestions for me.</li>
+        </ul>
+
+        <p>
+            Please be assured that I will periodically review the submitted responses and reach out to selected candidates. However, due to limited time, I may not be able to respond to everyone. Based on my availability, I may schedule sessions during the weekends. Thank you for your understanding. 
+        </p>
     </ul>
-    <p>Please be assured that I will periodically review the submitted responses and reach out to selected candidates. However, due to limited time, I may not be able to respond to everyone. Based on my availability, I may schedule sessions during the weekends. Thank you for your understanding.</p>
-  </div>
 </details>
 
 
@@ -81,46 +94,37 @@ I received **first prize** in the IEEE Kingston Section Research Excellence Awar
 ### News
 <hr>
 
-<div class="news-feed">
-<ul class="news-feed__list">
-<li class="news-feed__item"><span class="news-feed__tag">Dec 25</span><span class="news-feed__body">I joined <a href="https://www.postdocs.ubc.ca/profile/pritam-sarkar">UBC</a> and <a href="https://vectorinstitute.ai/team/pritam-sarkar/">Vector</a> as a postdoc.</span></li>
+- [Dec 25] I joined [UBC](https://www.postdocs.ubc.ca/profile/pritam-sarkar) and [Vector](https://vectorinstitute.ai/team/pritam-sarkar/) as a postdoc.
+- [Oct 25] I am serving as an AC for WACV 2026.
+- [Sep 25] Our proposed **[Self-alignment with RRPO](https://arxiv.org/abs/2504.12083)** got accepted in **NeurIPS** 2025.
+- [Sep 25] I successfully defended my PhD thesis! Here are the [slides](https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/) and [Thesis](https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a).
 
-<li class="news-feed__item"><span class="news-feed__tag">Sep 25</span><span class="news-feed__body">I successfully defended my PhD thesis! Here are the <a href="https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/">slides</a> and <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a>.</span></li>
+<details>
+<summary style="margin-left: 25px;">Click to see old news</summary>
+<ul>
+<li>[May 25] Introduced <strong><a href="https://arxiv.org/abs/2505.08455">VCRBench</a></strong>, the first video-based multi-step causal reasoning benchmark.</li>
+<li>[Apr 25] Introduced <strong><a href="https://arxiv.org/abs/2504.12083">RRPO</a></strong>, a fine-grained self-alignment recipe to align Multimodal LLMs.</li>
+<li>[Jan 25] <strong><a href="https://arxiv.org/abs/2405.18654">DPA</a></strong> got accepted in <strong>ICLR</strong> 2025.</li>
+<li>[Dec 23] <strong><a href="https://arxiv.org/abs/2211.13929">XKD</a></strong> and <strong><a href="https://arxiv.org/abs/2308.13568">RDDM</a></strong> got accepted in <strong>AAAI</strong> 2024.</li>
+<li>[Nov 23] I won <strong>first prize</strong> in IEEE Research Excellence Award (PhD).</li>
+<li>[Sep 23] Our paper on <strong><a href="https://arxiv.org/abs/2306.02014">Video SSL in OOD</a></strong> got accepted in <strong>NeurIPS</strong> 2023 as a <strong>Spotlight</strong>.</li>
+<li>[Aug 23] Accepted an offer from <strong>Google</strong> to join as a Student Researcher.</li>
+<li>[Nov 22] <strong><a href="https://arxiv.org/abs/2205.06887">AVCAffe</a></strong> and <strong><a href="https://arxiv.org/abs/2111.05329">CrissCross</a></strong> (<strong>Oral</strong>) got accepted in <strong>AAAI</strong> 2023.</li>
+<li>[Oct 22] We organized <a href="https://r2hcai.github.io/AAAI-23/">AAAI 2023 Workshop on R2HCAI</a>.</li>
+<li>[Oct 22] <strong>Honourable Mention</strong> in poster competitions at Robotics and AI Symposium 2022 and FEAS Research Symposium 2022 at Queen&#39;s University, Canada.</li>
+<li>[Jun 22] Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.</li>
+<li>[Oct 21] <strong>Best poster</strong> award at Robotics and AI Symposium, Ingenuity Labs, 2021.</li>
+<li>[Aug 21] We organized <a href="https://hcssl.github.io/AAAI-22/">AAAI 2022 Workshop on HC-SSL</a>.</li>
+<li>[Mar 21] I received postgraduate affiliation award from Vector Institute. <a href="https://vectorinstitute.ai/vector-welcomes-new-researchers-to-postgraduate-affiliate-program/">News</a></li>
+<li>[Dec 20] Our paper <strong><a href="https://arxiv.org/abs/2010.00104">CardioGAN</a></strong> got accepted in <strong>AAAI</strong> 2021.</li>
+<li>[Aug 20] My <a href="https://arxiv.org/abs/2002.03898">first transaction</a> as a first author got accepted in IEEE Transactions on Affective Computing.</li>
+<li>[Apr 20] Successfully defended my <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">MASc thesis</a>.</li>
+<li>[Jan 20] Conference paper on <a href="https://arxiv.org/abs/1910.07497">ECG-based SSL</a> got accepted in IEEE ICASSP 2020 for oral presentation.</li>
+<li>[Jun 19] My <a href="https://arxiv.org/abs/1908.00385">first paper</a> got accepted for oral presentation in IEEE ACII 2019.</li>
+<li>[Sep 18] Joined Queen's for a master's degree.</li>
 
-
-</ul>
-
-
-
-<details class="news-feed__archive">
-<summary>Show older news</summary>
-<ul class="news-feed__list news-feed__list--archive">
-<li class="news-feed__item"><span class="news-feed__tag">Oct 25</span><span class="news-feed__body">I am serving as an AC for WACV 2026.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Sep 25</span><span class="news-feed__body">Our proposed <strong><a href="https://arxiv.org/abs/2504.12083">Self-alignment with RRPO</a></strong> got accepted in <strong>NeurIPS</strong> 2025.</span></li>
-<!-- <li class="news-feed__item"><span class="news-feed__tag">Sep 25</span><span class="news-feed__body">I successfully defended my PhD thesis! Here are the <a href="https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/">slides</a> and <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a>.</span></li> -->
-<li class="news-feed__item"><span class="news-feed__tag">May 25</span><span class="news-feed__body">Introduced <strong><a href="https://arxiv.org/abs/2505.08455">VCRBench</a></strong>, the first video-based multi-step causal reasoning benchmark.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Apr 25</span><span class="news-feed__body">Introduced <strong><a href="https://arxiv.org/abs/2504.12083">RRPO</a></strong>, a fine-grained self-alignment recipe to align Multimodal LLMs.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Jan 25</span><span class="news-feed__body"><strong><a href="https://arxiv.org/abs/2405.18654">DPA</a></strong> got accepted in <strong>ICLR</strong> 2025.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Dec 23</span><span class="news-feed__body"><strong><a href="https://arxiv.org/abs/2211.13929">XKD</a></strong> and <strong><a href="https://arxiv.org/abs/2308.13568">RDDM</a></strong> got accepted in <strong>AAAI</strong> 2024.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Nov 23</span><span class="news-feed__body">I won <strong>first prize</strong> in IEEE Research Excellence Award (PhD).</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Sep 23</span><span class="news-feed__body">Our paper on <strong><a href="https://arxiv.org/abs/2306.02014">Video SSL in OOD</a></strong> got accepted in <strong>NeurIPS</strong> 2023 as a <strong>Spotlight</strong>.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Aug 23</span><span class="news-feed__body">Accepted an offer from <strong>Google</strong> to join as a Student Researcher.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Nov 22</span><span class="news-feed__body"><strong><a href="https://arxiv.org/abs/2205.06887">AVCAffe</a></strong> and <strong><a href="https://arxiv.org/abs/2111.05329">CrissCross</a></strong> (<strong>Oral</strong>) got accepted in <strong>AAAI</strong> 2023.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Oct 22</span><span class="news-feed__body">We organized <a href="https://r2hcai.github.io/AAAI-23/">AAAI 2023 Workshop on R2HCAI</a>.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Oct 22</span><span class="news-feed__body"><strong>Honourable Mention</strong> in poster competitions at Robotics and AI Symposium 2022 and FEAS Research Symposium 2022 at Queen&#39;s University, Canada.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Jun 22</span><span class="news-feed__body">Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Oct 21</span><span class="news-feed__body"><strong>Best poster</strong> award at Robotics and AI Symposium, Ingenuity Labs, 2021.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Aug 21</span><span class="news-feed__body">We organized <a href="https://hcssl.github.io/AAAI-22/">AAAI 2022 Workshop on HC-SSL</a>.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Mar 21</span><span class="news-feed__body">I received postgraduate affiliation award from Vector Institute. <a href="https://vectorinstitute.ai/vector-welcomes-new-researchers-to-postgraduate-affiliate-program/">News</a>.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Dec 20</span><span class="news-feed__body">Our paper <strong><a href="https://arxiv.org/abs/2010.00104">CardioGAN</a></strong> got accepted in <strong>AAAI</strong> 2021.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Aug 20</span><span class="news-feed__body">My <a href="https://arxiv.org/abs/2002.03898">first transaction</a> as a first author got accepted in IEEE Transactions on Affective Computing.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Apr 20</span><span class="news-feed__body">Successfully defended my <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">MASc thesis</a>.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Jan 20</span><span class="news-feed__body">Conference paper on <a href="https://arxiv.org/abs/1910.07497">ECG-based SSL</a> got accepted in IEEE ICASSP 2020 for oral presentation.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Jun 19</span><span class="news-feed__body">My <a href="https://arxiv.org/abs/1908.00385">first paper</a> got accepted for oral presentation in IEEE ACII 2019.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Sep 18</span><span class="news-feed__body">Joined Queen&#39;s for a master&#39;s degree.</span></li>
 </ul>
 </details>
-</div>
 
 <a name="/research"></a>
 ### Research
@@ -129,10 +133,6 @@ I received **first prize** in the IEEE Kingston Section Research Excellence Awar
 My current research focus is **multimodal AI with video, image, audio, and language**. 
 
 Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion models), foundation models (video, image, vision-language, audio-visual), self-supervised learning, alignment, reasoning, AI agents, computer vision.
-
-#### Selected Publications
-
-Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ&view_op=list_works&sortby=pubdate) for full list of publications.
 
 
 <div class="container-fluid">
@@ -360,7 +360,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 	</div>
 </div>
 
-<!-- <div class="container-fluid">
+<div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
 			<a href="https://equis.cs.queensu.ca/~equis/pubs/2021/phinnemore-hai-21.pdf"> <img class="pub-image" src="/assets/publications/happy_driver.png" width="100%"> </a>
@@ -405,7 +405,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
@@ -453,7 +453,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 	</div>
 </div>
 
-<!-- <div class="container-fluid">
+<div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
 			<a href="https://pubmed.ncbi.nlm.nih.gov/34222746/"> <img class="pub-image" src="/assets/publications/ideas1.png" width="100%"> </a>
@@ -473,10 +473,10 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 
 
-<!-- <div class="container-fluid">
+<div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
 			<a href="https://arxiv.org/abs/1908.00385"> <img class="pub-image" src="/assets/publications/acii19.png" width="100%"> </a>
@@ -496,9 +496,9 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 			</div>
 		</div>
 	</div>
-</div> -->
+</div>
 
-<!-- <div class="container-fluid">
+<div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
 			<a href="https://www.mdpi.com/1424-8220/19/19/4270"> <img class="pub-image" src="/assets/publications/ideas2.png" width="100%"> </a>
@@ -517,8 +517,8 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 			</div>
 		</div>
 	</div>
-</div> -->
-<!-- 
+</div>
+
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
@@ -539,134 +539,5 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 			</div>
 		</div>
 	</div>
-</div> -->
-
-<a name="/mentoring"></a>
-
-### Mentoring & Student Supervision
-<hr>
-
-I work with students at the undergraduate, master’s, and PhD levels. Current and past mentees:
-
-- **Ali Salamatian** - Bachelor's, University of British Columbia (2026–present).
-- **Yogesh Kulkarni** - PhD, Arizona State University (2026-Present).
-- **Jiayun Luo (Letitia)** — PhD, University of British Columbia (2026–present).
-- **Bicheng Xu** — PhD, University of British Columbia (2025–present).
-- **Negin Baghbanzadeh** — PhD, York University (2025–present).
-- **Shayan Samakosh** — Master’s, York University (2025–present).
-- **Seth Grief-Albert** — Bachelor’s, Queen’s University (summer 2024); continuing undergraduate studies.
-- **Vishal Narnaware** — visiting student, University of Cambridge (2023–2024), co-mentored with [Nikhil Churamani](https://www.cl.cam.ac.uk/~nc528/); next: PhD, University of Central Florida.
-- **Debaditya Shome** — Master’s, Queen’s University (2022–2023); next: Applied AI Scientist, Homebase.
-- **Aaron Posen** — Bachelor’s, Queen’s University (2021–2022); next: Data Engineer, Deloitte.
-- **Rachel Phinnemore** — Bachelor’s, Queen’s University (2020–2021); next: Product Manager, Google.
-
-<a name="/career"></a>
-
-### Education & Employment
-<hr>
-
-<p style="margin-top: 0; color: #555; font-size: 14px;">Timeline in reverse chronological order (present at top, older entries below).</p>
-
-<div class="career-timeline">
-<div class="timeline-axis">
-
-<div class="timeline-item">
-<a name="/employment"></a>
-<div class="timeline-meta">
-<span class="timeline-years">2025–present</span>
-<span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
-<div class="timeline-title">Postdoctoral Research Fellow, <strong>University of British Columbia</strong>, Vancouver, Canada</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">2025–present</span>
-<span class="timeline-pill timeline-pill--work">Employment</span>
-</div>
-<div class="timeline-title">Distinguished Postdoctoral Fellow, <strong>Vector Institute</strong>, Toronto, Canada</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">Fall 2023</span>
-<span class="timeline-pill timeline-pill--work">Employment</span>
-</div>
-<div class="timeline-title">Student Researcher, <strong>Google</strong>, Sunnyvale, USA</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">Fall 2022</span>
-<span class="timeline-pill timeline-pill--work">Employment</span>
-</div>
-<div class="timeline-title">Machine Learning Research Intern, <strong>RBC Borealis</strong>, Toronto, Canada</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">2020–2025</span>
-<span class="timeline-pill timeline-pill--edu">Education</span>
-</div>
-<div class="timeline-title"><strong>PhD</strong>, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a> · <a href="https://youtube.com/clip/UgkxnPWuCeGlN-Mf0vPgx4MAUg5u1b7sEnm4?si=J9t5nAfb9gADi-Yr">Convocation clip</a></div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">2018–2025</span>
-<span class="timeline-pill timeline-pill--work">Employment</span>
-</div>
-<div class="timeline-title">Research assistant and teaching assistant / guest lecturer, <strong>Queen’s University</strong>, Kingston, Canada</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">2018–2020</span>
-<span class="timeline-pill timeline-pill--edu">Education</span>
-</div>
-<div class="timeline-title"><strong>MASc</strong>, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">Thesis</a></div>
-</div>
-
-<!-- <div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">2017–2018</span>
-<span class="timeline-pill timeline-pill--work">Employment</span>
-</div>
-<div class="timeline-title">Sr. System Engineer, <strong>Infosys</strong> Ltd., Bangalore, India</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">2015–2017</span>
-<span class="timeline-pill timeline-pill--work">Employment</span>
-</div>
-<div class="timeline-title">Software Engineer, <strong>Tech Mahindra</strong> Ltd., Hyderabad, India</div>
-</div>
-
-<div class="timeline-item">
-<div class="timeline-meta">
-<span class="timeline-years">2011–2015</span>
-<span class="timeline-pill timeline-pill--edu">Education</span>
-</div>
-<div class="timeline-title"><strong>B.Tech</strong>, West Bengal University of Technology, India</div>
-</div> -->
-
-</div>
-</div>
-
-<a name="/academic-service"></a>
-
-### Academic Service
-<hr>
-
-**Area Chair**
-
-- WACV 2026
-
-**Reviewer** (selected venues)
-
-- NeurIPS (2023, 2025), ICLR (2024, 2025), ICML (2024)
-- CVPR (2023, 2024, 2026), ICCV (2023), ECCV (2022, 2024)
-- PAMI (2023–present), IEEE T-AFFC (2022–present)
-
 
