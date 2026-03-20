@@ -52,7 +52,8 @@ I received **first prize** in the IEEE Kingston Section Research Excellence Awar
 
 <aside class="collab-callout" role="note">
   <strong class="collab-callout__title">Open to collaboration</strong>
-  <p class="collab-callout__text">If you are interested in collaborating on research ideas of mutual interest, please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email me</a>.</p>
+  <p class="collab-callout__text">
+  If interested in collaborating on research ideas of mutual interest, please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email me</a>.</p>
 </aside>
 
 
