@@ -545,17 +545,17 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 
 I work with students at the undergraduate, master’s, and PhD levels. Current and past mentees:
 
-- **Ali Salamatian** - Bachelor's, University of British Columbia (2026–present).
-- **Yogesh Kulkarni** - PhD, Arizona State University (2026-Present).
-- **Jiayun Luo (Letitia)** — PhD, University of British Columbia (2026–present).
-- **Bicheng Xu** — PhD, University of British Columbia (2025–present).
-- **Negin Baghbanzadeh** — PhD, York University (2025–present).
-- **Shayan Samakosh** — Master’s, York University (2025–present).
-- **Seth Grief-Albert** — Bachelor’s, Queen’s University (summer 2024); continuing undergraduate studies.
-- **Vishal Narnaware** — visiting student, University of Cambridge (2023–2024), co-mentored with [Nikhil Churamani](https://www.cl.cam.ac.uk/~nc528/); next: PhD, University of Central Florida.
-- **Debaditya Shome** — Master’s, Queen’s University (2022–2023); next: Applied AI Scientist, Homebase.
-- **Aaron Posen** — Bachelor’s, Queen’s University (2021–2022); next: Data Engineer, Deloitte.
-- **Rachel Phinnemore** — Bachelor’s, Queen’s University (2020–2021); next: Product Manager, Google.
+- [Ali Salamatian](https://alisalamatian1.github.io/) - Bachelor's, University of British Columbia (2026–present).
+- [Yogesh Kulkarni](https://yogkul2000.github.io/) - PhD, Arizona State University (2026-Present).
+- [Jiayun Luo (Letitia)](https://sites.google.com/view/jiayunluo/jiayun-luo-letitia) — PhD, University of British Columbia (2026–present).
+- [Bicheng Xu](https://www.bicheng-xu.com/) — PhD, University of British Columbia (2025–present).
+- [Negin Baghbanzadeh](https://www.linkedin.com/in/negin-baghbanzadeh-040546197/) — PhD, York University (2025–present).
+- [Shayan Samakosh](https://www.linkedin.com/in/shayan-mohammadizadeh/) — Master’s, York University (2025–present).
+- [Seth Grief-Albert](https://www.sethgriefalbert.com/) — Bachelor’s, Queen’s University (summer 2024); continuing undergraduate studies.
+- [Vishal Narnaware](https://vishalnarnaware.github.io/portfolio/) — visiting student, University of Cambridge (2023–2024), co-mentored with [Nikhil Churamani](https://www.cl.cam.ac.uk/~nc528/); next: PhD, University of Central Florida.
+- [Debaditya Shome](https://www.debadityashome.com/) — Master’s, Queen’s University (2022–2023); next: Applied AI Scientist, Homebase.
+- [Aaron Posen](https://ca.linkedin.com/in/jordan-posen-93aa1a177) — Bachelor’s, Queen’s University (2021–2022); next: Data Engineer, Deloitte.
+- [Rachel Phinnemore](https://rachelphinnemore.com/) — Bachelor’s, Queen’s University (2020–2021); next: Product Manager, Google.
 
 <a name="/career"></a>
 
