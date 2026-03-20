@@ -385,7 +385,7 @@ footer {
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  font-size: 1.08rem;
+  font-size: 1rem;
   font-weight: 500;
   color: var(--color-link, #4183c4);
   text-decoration: none;
@@ -397,11 +397,16 @@ footer {
   }
 }
 
+// SVG imgs have large intrinsic sizes; flex min-width:auto can blow them up without max-* + min-width:0
 .pub-link__icon {
-  width: 18px;
-  height: 18px;
+  width: 14px;
+  height: 14px;
+  max-width: 14px;
+  max-height: 14px;
+  min-width: 0;
   flex-shrink: 0;
   display: block;
+  object-fit: contain;
 }
 
 

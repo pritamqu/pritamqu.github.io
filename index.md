@@ -152,10 +152,10 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under review</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2505.08455"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/VCRBench"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
-				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/VCRBench/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
-				<!-- <a class="pub-link pub-link--hf" href="https://huggingface.co/datasets/pritamqu/VCRBench"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/huggingface.svg" alt="" />Dataset</a> -->
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2505.08455"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/VCRBench"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/VCRBench/"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/globe.svg" />Project</a>
+				<!-- <a class="pub-link pub-link--hf" href="https://huggingface.co/datasets/pritamqu/VCRBench"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/huggingface.svg" />Dataset</a> -->
 			</div>
 		</div>
 	</div>
@@ -177,9 +177,9 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />NeurIPS · 2025</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2504.12083"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/RRPO"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
-				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/RRPO/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2504.12083"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/RRPO"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/RRPO/"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/globe.svg" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -201,8 +201,8 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />ICLR · 2025</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2405.18654"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/HALVA"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2405.18654"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/HALVA"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
 			</div>
 		</div>
 	</div>
@@ -225,9 +225,9 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-note venue-note--spotlight">Spotlight</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2306.02014"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/OOD-VSSL"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
-				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/OOD-VSSL/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2306.02014"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/OOD-VSSL"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/OOD-VSSL/"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/globe.svg" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -250,9 +250,9 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2024</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2211.13929"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/XKD"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
-				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/XKD/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2211.13929"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/XKD"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/XKD/"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/globe.svg" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -275,9 +275,9 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-note venue-note--oral">Oral</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2111.05329"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/crisscross"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
-				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/CrissCross/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2111.05329"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/crisscross"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/CrissCross/"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/globe.svg" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -301,9 +301,9 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2023</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2205.06887"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/AVCAffe"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
-				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/AVCAffe/"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/globe.svg" alt="" />Project</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2205.06887"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/AVCAffe"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
+				<a class="pub-link pub-link--web" href="https://pritamqu.github.io/AVCAffe/"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/globe.svg" />Project</a>
 			</div>
 		</div>
 	</div>
@@ -325,8 +325,8 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2024</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2308.13568"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/DebadityaQU/RDDM"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2308.13568"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/DebadityaQU/RDDM"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
 			</div>
 		</div>
 	</div>
@@ -348,9 +348,9 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2021</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2010.00104"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/ppg2ecg-cardiogan"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
-				<!-- <a class="pub-link pub-link--video" href="https://slideslive.com/38948024/cardiogan-attentive-generative-adversarial-network-with-dual-discriminators-for-synthesis-of-ecg-from-ppg"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/video.svg" alt="" />Video</a> -->
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2010.00104"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/ppg2ecg-cardiogan"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
+				<!-- <a class="pub-link pub-link--video" href="https://slideslive.com/38948024/cardiogan-attentive-generative-adversarial-network-with-dual-discriminators-for-synthesis-of-ecg-from-ppg"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/video.svg" />Video</a> -->
 			</div>
 		</div>
 	</div>
@@ -419,8 +419,8 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />IEEE TAFFC · 2020</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2002.03898"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/SSL-ECG"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2002.03898"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/SSL-ECG"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
 			</div>
 		</div>
 	</div>
@@ -443,8 +443,8 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-note venue-note--oral">Oral</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/1910.07497"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/arxiv.svg" alt="" />arXiv</a>
-				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/SSL-ECG"><img class="pub-link__icon" src="{{ site.baseurl }}/assets/icons/github.svg" alt="" />Code</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/1910.07497"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--github" href="https://github.com/pritamqu/SSL-ECG"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/github.svg" />Code</a>
 			</div>
 		</div>
 	</div>
