@@ -45,9 +45,9 @@ permalink: /
 
 I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision.
 
-I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group (CS). I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [RBC Borealis](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
+I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group (CS). I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
 
-I received **first prize** in the IEEE Kingston Section Research Excellence Award (PhD) in 2023. Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
+I received first prize in the IEEE Kingston Section Research Excellence Award (PhD) in 2023. Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
 
 
 <aside class="collab-callout" role="note">
@@ -601,7 +601,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">Fall 2022</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
-<div class="timeline-title">Machine Learning Research Intern, <strong>RBC Borealis</strong>, Toronto, Canada</div>
+<div class="timeline-title">Machine Learning Research Intern, <strong>Borealis AI</strong>, Toronto, Canada</div>
 </div>
 
 <div class="timeline-item">
