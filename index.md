@@ -573,7 +573,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">2025–present</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
-<div class="timeline-title">Postdoctoral Research Fellow, <strong>University of British Columbia</strong>, Vancouver, Canada</div>
+<div class="timeline-title">Postdoctoral Research Fellow, University of British Columbia, Vancouver, Canada</div>
 </div>
 
 <div class="timeline-item">
@@ -581,7 +581,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">2025–present</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
-<div class="timeline-title">Distinguished Postdoctoral Fellow, <strong>Vector Institute</strong>, Toronto, Canada</div>
+<div class="timeline-title">Distinguished Postdoctoral Fellow, Vector Institute, Toronto, Canada</div>
 </div>
 
 <div class="timeline-item">
@@ -589,7 +589,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">Fall 2023</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
-<div class="timeline-title">Student Researcher, <strong>Google</strong>, Sunnyvale, USA</div>
+<div class="timeline-title">Student Researcher, Google, Sunnyvale, USA</div>
 </div>
 
 <div class="timeline-item">
@@ -597,7 +597,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">Fall 2022</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
-<div class="timeline-title">Machine Learning Research Intern, <strong>Borealis AI</strong>, Toronto, Canada</div>
+<div class="timeline-title">Machine Learning Research Intern, Borealis AI, Toronto, Canada</div>
 </div>
 
 <div class="timeline-item">
@@ -605,7 +605,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">2020–2025</span>
 <span class="timeline-pill timeline-pill--edu">Education</span>
 </div>
-<div class="timeline-title"><strong>PhD</strong>, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a> · <a href="https://youtube.com/clip/UgkxnPWuCeGlN-Mf0vPgx4MAUg5u1b7sEnm4?si=J9t5nAfb9gADi-Yr">Convocation clip</a></div>
+<div class="timeline-title">PhD, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a> · <a href="https://youtube.com/clip/UgkxnPWuCeGlN-Mf0vPgx4MAUg5u1b7sEnm4?si=J9t5nAfb9gADi-Yr">Convocation clip</a></div>
 </div>
 
 <div class="timeline-item">
@@ -613,7 +613,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">2018–2025</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
-<div class="timeline-title">Research assistant and teaching assistant / guest lecturer, <strong>Queen’s University</strong>, Kingston, Canada</div>
+<div class="timeline-title">Research assistant and teaching assistant / guest lecturer, Queen’s University, Kingston, Canada</div>
 </div>
 
 <div class="timeline-item">
@@ -621,7 +621,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="timeline-years">2018–2020</span>
 <span class="timeline-pill timeline-pill--edu">Education</span>
 </div>
-<div class="timeline-title"><strong>MASc</strong>, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">Thesis</a></div>
+<div class="timeline-title">MASc, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">Thesis</a></div>
 </div>
 
 <!-- <div class="timeline-item">
