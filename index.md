@@ -60,7 +60,7 @@ I won first prize in the IEEE Research Excellence Awards in 2023. Outside resear
 <a name="/pro-bono"></a>
 
 <details class="panel-details">
-  <summary class="panel-details__summary"><span class="panel-details__summary-title">Pro-bono activity for students</span><span class="panel-details__summary-hint">Click to expand</span></summary>
+  <summary class="panel-details__summary"><span class="panel-details__summary-title">Pro-bono activity</span><span class="panel-details__summary-hint">Click to expand</span></summary>
   <div class="panel-details__content">
     <p>I am dedicating a weekly time slot (45 minutes) to speak with graduate students who might lack access to a strong mentorship or peer support. Whether you want to brainstorm, refine your research direction, or get an external perspective on your work, I am happy to help.</p>
     <p>Why am I doing this? I have been incredibly fortunate to have supportive mentors and peers throughout my career, but I also know the difficulty of working without it. This is my way of paying forward the support I have received, aiming to reach students outside my immediate network who might benefit from such support.</p>
@@ -545,17 +545,17 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 
 I work with students at the undergraduate, master’s, and PhD levels. Current and past mentees:
 
-- [Ali Salamatian](https://alisalamatian1.github.io/) - Bachelor's, University of British Columbia (2026–present).
-- [Yogesh Kulkarni](https://yogkul2000.github.io/) - PhD, Arizona State University (2026-Present).
-- [Jiayun Luo (Letitia)](https://sites.google.com/view/jiayunluo/jiayun-luo-letitia) — PhD, University of British Columbia (2026–present).
-- [Bicheng Xu](https://www.bicheng-xu.com/) — PhD, University of British Columbia (2025–present).
-- [Negin Baghbanzadeh](https://www.linkedin.com/in/negin-baghbanzadeh-040546197/) — PhD, York University (2025–present).
-- [Shayan Samakosh](https://www.linkedin.com/in/shayan-mohammadizadeh/) — Master’s, York University (2025–present).
-- [Seth Grief-Albert](https://www.sethgriefalbert.com/) — Bachelor’s, Queen’s University (summer 2024); continuing undergraduate studies.
-- [Vishal Narnaware](https://vishalnarnaware.github.io/portfolio/) — visiting student, University of Cambridge (2023–2024), co-mentored with [Nikhil Churamani](https://www.cl.cam.ac.uk/~nc528/); next: PhD, University of Central Florida.
-- [Debaditya Shome](https://www.debadityashome.com/) — Master’s, Queen’s University (2022–2023); next: Applied AI Scientist, Homebase.
-- [Aaron Posen](https://ca.linkedin.com/in/jordan-posen-93aa1a177) — Bachelor’s, Queen’s University (2021–2022); next: Data Engineer, Deloitte.
-- [Rachel Phinnemore](https://rachelphinnemore.com/) — Bachelor’s, Queen’s University (2020–2021); next: Product Manager, Google.
+- [Ali Salamatian](https://alisalamatian1.github.io/) - Bachelor's, University of British Columbia (2026–present)
+- [Yogesh Kulkarni](https://yogkul2000.github.io/) - PhD, Arizona State University (2026-Present)
+- [Jiayun Luo (Letitia)](https://sites.google.com/view/jiayunluo/jiayun-luo-letitia) — PhD, University of British Columbia (2026–present)
+- [Bicheng Xu](https://www.bicheng-xu.com/) — PhD, University of British Columbia (2025–present)
+- [Negin Baghbanzadeh](https://www.linkedin.com/in/negin-baghbanzadeh-040546197/) — PhD, York University (2025–present)
+- [Shayan Samakosh](https://www.linkedin.com/in/shayan-mohammadizadeh/) — Master’s, York University (2025–present)
+- [Seth Grief-Albert](https://www.sethgriefalbert.com/) — Bachelor’s, Queen’s University (summer 2024); continuing undergraduate studies
+- [Vishal Narnaware](https://vishalnarnaware.github.io/portfolio/) — visiting student, University of Cambridge (2023–2024)<!-- , co-mentored with [Nikhil Churamani](https://www.cl.cam.ac.uk/~nc528/) -->
+- [Debaditya Shome](https://www.debadityashome.com/) — Master’s, Queen’s University (2022–2023)
+- [Aaron Posen](https://ca.linkedin.com/in/jordan-posen-93aa1a177) — Bachelor’s, Queen’s University (2021–2022)
+- [Rachel Phinnemore](https://rachelphinnemore.com/) — Bachelor’s, Queen’s University (2020–2021)
 
 <a name="/career"></a>
 
@@ -658,12 +658,21 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 
 **Area Chair**
 
-- WACV 2026
+- WACV (2026)
 
 **Reviewer** (selected venues)
 
-- NeurIPS (2023, 2025), ICLR (2024, 2025), ICML (2024)
-- CVPR (2023, 2024, 2026), ICCV (2023), ECCV (2022, 2024)
-- PAMI (2023–present), IEEE T-AFFC (2022–present)
+- NeurIPS (2023, 2025) 
+- ICLR (2024, 2025)
+- ICML (2024)
+- CVPR (2023, 2024, 2026)
+- ICCV (2023)
+- ECCV (2022, 2024, 2026)
+- PAMI (2023–present)
+
+**Organizer**
+
+- AAAI 2023 Workshop on <a href="https://r2hcai.github.io/AAAI-23/">R2HCAI</a>
+- AAAI 2022 Workshop on <a href="https://hcssl.github.io/AAAI-22/">HC-SSL</a>
 
 
