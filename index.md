@@ -47,7 +47,7 @@ I am interested in advancing safe multimodal intelligence through designing algo
 
 I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group (CS). I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
 
-I received first prize in the IEEE Kingston Section Research Excellence Award (PhD) in 2023. Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
+I won first prize in the IEEE Research Excellence Awards in 2023. Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
 
 
 <aside class="collab-callout" role="note">
