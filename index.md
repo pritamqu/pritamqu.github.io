@@ -7,7 +7,7 @@ permalink: /
 <div class="row">
 	<!-- <center> -->
     <div class="col-sm-3 col-xs-12">
-        <img src="./assets/my_images/pp_square.jpg" >
+        <img src="./assets/my_images/pp_round.jpg" >
     </div>
     <div class="col-sm-9 col-xs-12" style="margin-bottom: 0;">
         <h4>
@@ -41,7 +41,7 @@ permalink: /
 <a name="/about"></a>
 
 ### About
-<hr>
+<!-- <hr> -->
 
 I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision.
 
@@ -77,10 +77,11 @@ I won first prize in the IEEE Research Excellence Awards in 2023. Outside resear
 </details>
 
 
+<hr> 
 <a name="/news"></a>
 
 ### News
-<hr>
+<!-- <hr> -->
 
 <div class="news-feed">
 <ul class="news-feed__list">
@@ -123,9 +124,10 @@ I won first prize in the IEEE Research Excellence Awards in 2023. Outside resear
 </details>
 </div>
 
+<hr> 
 <a name="/research"></a>
 ### Research
-<hr>
+<!-- <hr> -->
 
 My current research focus is **multimodal AI with video, image, audio, and language**. 
 
@@ -538,29 +540,89 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 	</div>
 </div> -->
 
+
+<hr> 
 <a name="/mentoring"></a>
 
 ### Mentoring & Student Supervision
-<hr>
+<!-- <hr> -->
 
 I work with students at the undergraduate, master’s, and PhD levels. Current and past mentees:
 
-- [Ali Salamatian](https://alisalamatian1.github.io/) - Bachelor's, University of British Columbia (2026–present)
-- [Yogesh Kulkarni](https://yogkul2000.github.io/) - PhD, Arizona State University (2026-Present)
-- [Jiayun Luo (Letitia)](https://sites.google.com/view/jiayunluo/jiayun-luo-letitia) — PhD, University of British Columbia (2026–present)
-- [Bicheng Xu](https://www.bicheng-xu.com/) — PhD, University of British Columbia (2025–present)
-- [Negin Baghbanzadeh](https://www.linkedin.com/in/negin-baghbanzadeh-040546197/) — PhD, York University (2025–present)
-- [Shayan Samakosh](https://www.linkedin.com/in/shayan-mohammadizadeh/) — Master’s, York University (2025–present)
-- [Seth Grief-Albert](https://www.sethgriefalbert.com/) — Bachelor’s, Queen’s University (summer 2024); continuing undergraduate studies
-- [Vishal Narnaware](https://vishalnarnaware.github.io/portfolio/) — visiting student, University of Cambridge (2023–2024)<!-- , co-mentored with [Nikhil Churamani](https://www.cl.cam.ac.uk/~nc528/) -->
-- [Debaditya Shome](https://www.debadityashome.com/) — Master’s, Queen’s University (2022–2023)
-- [Aaron Posen](https://ca.linkedin.com/in/jordan-posen-93aa1a177) — Bachelor’s, Queen’s University (2021–2022)
-- [Rachel Phinnemore](https://rachelphinnemore.com/) — Bachelor’s, Queen’s University (2020–2021)
+<ul class="mentee-list" markdown="0">
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://alisalamatian1.github.io/">Ali Salamatian</a></span>
+<span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">University of British Columbia</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2026 – Present</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://yogkul2000.github.io/">Yogesh Kulkarni</a></span>
+<span class="mentee-pill mentee-pill--phd mentee-col--degree">PhD</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">Arizona State University</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2026 – Present</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://sites.google.com/view/jiayunluo/jiayun-luo-letitia">Jiayun Luo (Letitia)</a></span>
+<span class="mentee-pill mentee-pill--phd mentee-col--degree">PhD</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">University of British Columbia</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2026 – Present</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://www.bicheng-xu.com/">Bicheng Xu</a></span>
+<span class="mentee-pill mentee-pill--phd mentee-col--degree">PhD</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">University of British Columbia</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2025 – Present</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://www.linkedin.com/in/negin-baghbanzadeh-040546197/">Negin Baghbanzadeh</a></span>
+<span class="mentee-pill mentee-pill--phd mentee-col--degree">PhD</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">York University</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2025 – Present</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://www.linkedin.com/in/shayan-mohammadizadeh/">Shayan Samakosh</a></span>
+<span class="mentee-pill mentee-pill--masters mentee-col--degree">Master’s</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">York University</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2025 – Present</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://www.sethgriefalbert.com/">Seth Grief-Albert</a></span>
+<span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">Queen’s University</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">Summer 2024</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://vishalnarnaware.github.io/portfolio/">Vishal Narnaware</a></span>
+<span class="mentee-pill mentee-pill--visiting mentee-col--degree">Visiting</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">University of Cambridge</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2023–2024</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://www.debadityashome.com/">Debaditya Shome</a></span>
+<span class="mentee-pill mentee-pill--masters mentee-col--degree">Master’s</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">Queen’s University</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2022–2023</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://ca.linkedin.com/in/jordan-posen-93aa1a177">Aaron Posen</a></span>
+<span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">Queen’s University</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2021–2022</span>
+</li>
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://rachelphinnemore.com/">Rachel Phinnemore</a></span>
+<span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">Queen’s University</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2020–2021</span>
+</li>
+</ul>
 
+<hr> 
 <a name="/career"></a>
 
 ### Education & Employment
-<hr>
+<!-- <hr> -->
 
 <p style="margin-top: 0; color: #555; font-size: 14px;">Timeline in reverse chronological order (present at top, older entries below).</p>
 
@@ -570,7 +632,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <div class="timeline-item">
 <a name="/employment"></a>
 <div class="timeline-meta">
-<span class="timeline-years">2025–present</span>
+<span class="timeline-years">2025 – Present</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
 <div class="timeline-title">Postdoctoral Research Fellow, University of British Columbia, Vancouver, Canada</div>
@@ -578,7 +640,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 
 <div class="timeline-item">
 <div class="timeline-meta">
-<span class="timeline-years">2025–present</span>
+<span class="timeline-years">2025 – Present</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
 <div class="timeline-title">Distinguished Postdoctoral Fellow, Vector Institute, Toronto, Canada</div>
@@ -651,10 +713,11 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 </div>
 </div>
 
+<hr> 
 <a name="/academic-service"></a>
 
 ### Academic Service
-<hr>
+<!-- <hr> -->
 
 **Area Chair**
 

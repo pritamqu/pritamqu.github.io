@@ -29,15 +29,14 @@
         <header class="masthead clearfix">
           <!-- <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a> -->
 
-          <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <!-- <div class="site-info"> -->
+            <!-- <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1> -->
             <!-- <p class="site-description">{{ site.description }}</p> -->
-          </div>
+          <!-- </div> -->
 
           <nav class="masthead-nav">
             <a href="{{ site.baseurl }}/">home</a>
             <a href="{{ site.baseurl }}/#/about">about</a>
-            <!-- <a href="{{ site.baseurl }}/#/pro-bono">pro bono</a> -->
             <a href="{{ site.baseurl }}/#/news">news</a>
             <a href="{{ site.baseurl }}/#/research">research</a>
             <a href="{{ site.baseurl }}/#/mentoring">mentoring</a>
@@ -62,5 +61,26 @@
     </div>
 
     {% include analytics.html %}
+
+    <button type="button" id="back-to-top" class="back-to-top" aria-label="Jump to top of page">Jump to top</button>
+    <script>
+      (function () {
+        var btn = document.getElementById('back-to-top');
+        if (!btn) return;
+        var threshold = 320;
+        function onScroll() {
+          if (window.scrollY > threshold) {
+            btn.classList.add('back-to-top--visible');
+          } else {
+            btn.classList.remove('back-to-top--visible');
+          }
+        }
+        window.addEventListener('scroll', onScroll, { passive: true });
+        onScroll();
+        btn.addEventListener('click', function () {
+          window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+      })();
+    </script>
   </body>
 </html>
