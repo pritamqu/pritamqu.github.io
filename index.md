@@ -546,7 +546,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 <hr> 
 <a name="/mentoring"></a>
 
-### Mentoring & Student Supervision
+### Mentoring
 <!-- <hr> -->
 
 I work with students at the undergraduate, master’s, and PhD levels. Current and past mentees:
@@ -556,12 +556,6 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="mentee-name"><a href="https://alisalamatian1.github.io/">Ali Salamatian</a></span>
 <span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
 <span class="mentee-pill mentee-pill--school mentee-col--school">University of British Columbia</span>
-<span class="mentee-pill mentee-pill--year mentee-col--year">2026 – Present</span>
-</li>
-<li class="mentee-item">
-<span class="mentee-name"><a href="https://yogkul2000.github.io/">Yogesh Kulkarni</a></span>
-<span class="mentee-pill mentee-pill--phd mentee-col--degree">PhD</span>
-<span class="mentee-pill mentee-pill--school mentee-col--school">Arizona State University</span>
 <span class="mentee-pill mentee-pill--year mentee-col--year">2026 – Present</span>
 </li>
 <li class="mentee-item">
