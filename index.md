@@ -49,7 +49,7 @@ I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and 
 
 
 <!-- I received the First Prize in the IEEE Research Excellence Awards (2023) for my work on self-supervised learning.  -->
-I was awarded the John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society (CIPPRS) in 2025.
+I was awarded the John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society (CIPPRS) in 2026.
 
 
 Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
