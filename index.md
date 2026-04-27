@@ -44,13 +44,8 @@ permalink: /
 <!-- <hr> -->
 
 I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision.
-
-I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group (CS). I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
-
-
-<!-- I received the First Prize in the IEEE Research Excellence Awards (2023) for my work on self-supervised learning.  -->
-I was awarded the 2026 John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society, presented annually to the top PhD thesis in computer vision and robotics across Canada.
-
+I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group. I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
+I was awarded the 2026 John Barron **Doctoral Dissertation Award** by the Canadian Image Processing and Pattern Recognition Society (CIPPRS), presented annually to the top PhD thesis in computer vision and robotics across Canada. I also received the First Prize in the **IEEE Research Excellence Awards** in 2023 for my work on self-supervised learning. 
 Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
 
 
