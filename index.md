@@ -49,8 +49,7 @@ I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and 
 
 
 <!-- I received the First Prize in the IEEE Research Excellence Awards (2023) for my work on self-supervised learning.  -->
-I was awarded the John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society (CIPPRS) in 2026.
-
+I was awarded the 2026 John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society, presented annually to the top PhD thesis in computer vision and robotics across Canada.
 
 Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
 
@@ -90,6 +89,13 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 
 <div class="news-feed">
 <ul class="news-feed__list">
+
+
+<li class="news-feed__item"><span class="news-feed__tag">Apr 26</span><span class="news-feed__body">
+I was awarded the 2026 John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society (CIPPRS).
+</span></li>
+
+
 <li class="news-feed__item"><span class="news-feed__tag">Dec 25</span><span class="news-feed__body">I joined <a href="https://www.postdocs.ubc.ca/profile/pritam-sarkar">UBC</a> and <a href="https://vectorinstitute.ai/team/pritam-sarkar/">Vector</a> as a postdoc.</span></li>
 
 <li class="news-feed__item"><span class="news-feed__tag">Sep 25</span><span class="news-feed__body">I successfully defended my PhD thesis! Here are the <a href="https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/">slides</a> and <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a>.</span></li>
