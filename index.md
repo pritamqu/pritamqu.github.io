@@ -92,7 +92,7 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 
 
 <li class="news-feed__item"><span class="news-feed__tag">Apr 26</span><span class="news-feed__body">
-I was awarded the 2026 John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society (CIPPRS).
+I received the John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society.
 </span></li>
 
 
