@@ -43,9 +43,10 @@ permalink: /
 ### About
 <!-- <hr> -->
 
-I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision.
+I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision. 
 I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group. I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
-I was awarded the 2026 John Barron **Doctoral Dissertation Award** by the Canadian Image Processing and Pattern Recognition Society (CIPPRS), presented annually to the top PhD thesis in computer vision and robotics across Canada. I also received the First Prize in the **IEEE Research Excellence Awards** in 2023 for my work on self-supervised learning. 
+I received the 2026 *John Barron Doctoral Dissertation Award* by the [Canadian Image Processing and Pattern Recognition Society](https://www.cipprs.org/index.html), presented annually to the top PhD thesis in computer vision and robotics across Canada. 
+<!-- I also received the First Prize in the **IEEE Research Excellence Awards** in 2023 for my work on self-supervised learning.  -->
 Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
 
 
@@ -144,6 +145,51 @@ Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion model
 Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ&view_op=list_works&sortby=pubdate) for full list of publications.
 
 
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2605.06809"> <img class="pub-image" src="/assets/publications/lookwhen.png" width="100%"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute
+			</div>
+			<div class="pub-authors">
+				A. Salamatian*, A. Fuller*, <strong>P. Sarkar</strong>, J. R. Green, L. Sigal, E. Shelhamer
+			</div>
+			<div class="pub-conf">
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
+			</div>
+			<div class="pub-links">
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.06809"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2412.08110v3"> <img class="pub-image" src="/assets/publications/compart.png" width="100%"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				The ART of Composition: Attention-Regularized Training for Compositional Visual Grounding
+			</div>
+			<div class="pub-authors">
+				J. Luo, M. R. I. Hossain, <strong>P. Sarkar</strong>, B. Li, L. Sigal
+			</div>
+			<div class="pub-conf">
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
+			</div>
+			<div class="pub-links">
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2412.08110v3"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+			</div>
+		</div>
+	</div>
+</div>
+
 <div class="container-fluid">
 	<div class="row pub-entry">
 		<div class="col-sm-3">
@@ -157,7 +203,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<strong>P. Sarkar</strong>, A. Etemad
 			</div>
 			<div class="pub-conf">
-				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under review</span>
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />CogVL & VidLLM Workshops at CVPR · 2026</span>
 			</div>
 			<div class="pub-links">
 				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2505.08455"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
