@@ -144,7 +144,27 @@ Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion model
 
 Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=o6m0mbsAAAAJ&view_op=list_works&sortby=pubdate) for full list of publications.
 
-
+<div class="container-fluid">
+	<div class="row pub-entry">
+		<div class="col-sm-3">
+			<a href="https://arxiv.org/abs/2606.12169"> <img class="pub-image" src="/assets/publications/openmedreason.png" width="100%"> </a>
+		</div>
+		<div class="col-sm-9">
+			<div class="pub-title">
+				OpenMedReason: Scientific Reasoning Supervision for Medical Vision–Language Models
+			</div>
+			<div class="pub-authors">
+				N. Baghbanzadeh, <strong>P. Sarkar</strong>, M. Colacci, A. Badawi, A. Fallahpour, A. Afkanpour, L. Sigal, A. Etemad, E. Dolatabadi
+			</div>
+			<div class="pub-conf">
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
+			</div>
+			<div class="pub-links">
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.12169"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+			</div>
+		</div>
+	</div>
+</div>
 
 <div class="container-fluid">
 	<div class="row pub-entry">
