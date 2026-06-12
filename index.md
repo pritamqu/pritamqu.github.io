@@ -88,7 +88,7 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 
 
 <li class="news-feed__item"><span class="news-feed__tag">Apr 26</span><span class="news-feed__body">
-I received the John Barron Doctoral Dissertation Award by the Canadian Image Processing and Pattern Recognition Society.
+I received the John Barron Doctoral Dissertation Award (Best PhD Thesis) by the <a href="https://www.cipprs.org/awards.html">Canadian Image Processing and Pattern Recognition Society</a>.
 </span></li>
 
 
@@ -138,7 +138,7 @@ I received the John Barron Doctoral Dissertation Award by the Canadian Image Pro
 
 My current research focus is **multimodal AI with video, image, audio, and language**. 
 
-Broadly interested in: generative models (LLMs, multimodal LLMs, diffusion models), foundation models (video, image, vision-language, audio-visual), self-supervised learning, alignment, reasoning, AI agents, computer vision.
+Broadly interested in: generative models (LLMs, multimodal LLMs, video/image generation models), foundation models (video, image, vision-language, audio-visual), self-supervised learning, alignment, reasoning, AI agents, computer vision.
 
 #### Selected Publications
 
@@ -155,7 +155,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Analyzing and Improving Fine-grained Preference Optimization in Medical LVLMs
 			</div>
 			<div class="pub-authors">
-				S. Mohammadizadehsamakosh, <strong>P. Sarkar</strong>, L. Sigal, A. Etemad, E. Dolatabadi
+				Shayan Mohammadizadehsamakosh, <strong>Pritam Sarkar</strong>, Leonid Sigal, Ali Etemad, Elham Dolatabadi
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
@@ -177,7 +177,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				OpenMedReason: Scientific Reasoning Supervision for Medical Vision–Language Models
 			</div>
 			<div class="pub-authors">
-				N. Baghbanzadeh, <strong>P. Sarkar</strong>, M. Colacci, A. Badawi, A. Fallahpour, A. Afkanpour, L. Sigal, A. Etemad, E. Dolatabadi
+				Negin Baghbanzadeh, <strong>Pritam Sarkar</strong>, Michael Colacci, Abeer Badawi, Adibvafa Fallahpour, Arash Afkanpour, Leonid Sigal, Ali Etemad, Elham Dolatabadi
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
@@ -199,7 +199,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				LookWhen? Fast Video Recognition by Learning When, Where, and What to Compute
 			</div>
 			<div class="pub-authors">
-				A. Salamatian*, A. Fuller*, <strong>P. Sarkar</strong>, J. R. Green, L. Sigal, E. Shelhamer
+				Ali Salamatian*, Anthony Fuller*, <strong>Pritam Sarkar</strong>, James R. Green, Leonid Sigal, Evan Shelhamer
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
@@ -221,7 +221,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				The ART of Composition: Attention-Regularized Training for Compositional Visual Grounding
 			</div>
 			<div class="pub-authors">
-				J. Luo, M. R. I. Hossain, <strong>P. Sarkar</strong>, B. Li, L. Sigal
+				Jiayun Luo, Mir Rayat Imtiaz Hossain, <strong>Pritam Sarkar</strong>, Boyang Li, Leonid Sigal
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
@@ -243,7 +243,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				VCRBench: Exploring Long-form Causal Reasoning Capabilities of Large Video Language Models
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />CogVL & VidLLM Workshops at CVPR · 2026</span>
@@ -268,7 +268,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Self-alignment of Large Video Language Models with Refined Regularized Preference Optimization
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />NeurIPS · 2025</span>
@@ -292,7 +292,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Mitigating Object Hallucination in MLLMs via Data-augmented Phrase-level Alignment
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, S. Ebrahimi, A. Etemad, A. Beirami, S. Ö. Arık, T. Pfister
+				<strong>Pritam Sarkar</strong>, Sayna Ebrahimi, Ali Etemad, Ahmad Beirami, Sercan Ö. Arık, Tomas Pfister
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />ICLR · 2025</span>
@@ -315,7 +315,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Uncovering the Hidden Dynamics of Video Self-supervised Learning under Distribution Shifts
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Beirami, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ahmad Beirami, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />NeurIPS · 2023</span>
@@ -341,7 +341,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				XKD: Cross-modal Knowledge Distillation with Domain Alignment for Video Representation Learning
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2024</span>
@@ -365,7 +365,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Self-supervised Audio-Visual Representation Learning with Relaxed Cross-Modal Synchronicity
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2023</span>
@@ -392,7 +392,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				AVCAffe: A Large Scale Audio-Visual Dataset of Cognitive Load and Affect for Remote Work
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Posen, A. Etemad
+				<strong>Pritam Sarkar</strong>, Aaron Posen, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2023</span>
@@ -416,7 +416,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Region-Disentangled Diffusion Model for High-Fidelity PPG-to-ECG Translation
 			</div>
 			<div class="pub-authors">
-				D. Shome, <strong>P. Sarkar</strong>, A. Etemad
+				Debaditya Shome, <strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2024</span>
@@ -439,7 +439,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				CardioGAN: Attentive Generative Adversarial Network with Dual Discriminators for Synthesis of ECG from PPG
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />AAAI · 2021</span>
@@ -463,7 +463,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Happy Driver: Investigating the Effect of Mood on Preferred Style of Driving in Self-Driving Cars
 			</div>
 			<div class="pub-authors">
-				R. Phinnemore, G. Cimolino, <strong>P. Sarkar</strong>, A. Etemad, T.C. Nicholas Graham
+				R. Phinnemore, G. Cimolino, <strong>Pritam Sarkar</strong>, Ali Etemad, T.C. Nicholas Graham
 			</div>
 			<div class="pub-conf">
 				International Conference on Human-Agent Interaction, (HAI), 2021.
@@ -487,7 +487,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Detection of Maternal and Fetal Stress from ECG with Self-supervised Representation Learning
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar*</strong>, S. Lobmaier*, B. Fabre, G. Berg, A. Mueller, M. G. Frasch, M. C. Antonelli, A. Etemad
+				<strong>P. Sarkar*</strong>, S. Lobmaier*, B. Fabre, G. Berg, A. Mueller, M. G. Frasch, M. C. Antonelli, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				Nature Scientific Reports, 2021.
@@ -510,7 +510,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Self-supervised ECG Representation Learning for Emotion Recognition
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />IEEE TAFFC · 2020</span>
@@ -533,7 +533,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Self-supervised Learning for ECG-based Emotion Recognition
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, A. Etemad
+				<strong>Pritam Sarkar</strong>, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />ICASSP · 2020</span>
@@ -557,7 +557,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				The Future of Simulation-based Medical Education: Adaptive Simulation Utilizing a Deep Multitask Neural Network
 			</div>
 			<div class="pub-authors">
-				A. Ruberto, D. Rodenburg, K. Ross, <strong>P. Sarkar</strong>, P. Hungler, A. Etemad, D. Howes, D. Clarke, J. McLellan, D. Wilson, A. Szulewski
+				A. Ruberto, D. Rodenburg, K. Ross, <strong>Pritam Sarkar</strong>, P. Hungler, Ali Etemad, D. Howes, D. Clarke, J. McLellan, D. Wilson, A. Szulewski
 			</div>
 			<div class="pub-conf">
 				AEM Education and Training (AEMET), 2021.
@@ -580,7 +580,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Classification of Cognitive Load and Expertise for Adaptive Simulation using Deep Multitask Learning
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>,  K. Ross, A. Ruberto, D. Rodenburg, P. Hungler, A. Etemad
+				<strong>Pritam Sarkar</strong>,  K. Ross, A. Ruberto, D. Rodenburg, P. Hungler, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				IEEE Affective Computing and Intelligent Interaction, (ACII), 2019. <mark class="red">Oral</mark>
@@ -601,7 +601,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 			<div class="pub-title">
 			Toward Dynamically Adaptive Simulation: Multimodal Classification of User Expertise using Wearable Devices </div>
 			<div class="pub-authors">
-				K. Ross, <strong>P. Sarkar</strong>, D. Rodenburg, A. Ruberto, P. Hungler, D. Howes, A. Szulewski, A. Etemad
+				K. Ross, <strong>Pritam Sarkar</strong>, D. Rodenburg, A. Ruberto, P. Hungler, D. Howes, A. Szulewski, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				Sensors, 2019
@@ -623,7 +623,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Computer-Aided Diagnosis using Class-Weighted Deep Neural Networks
 			</div>
 			<div class="pub-authors">
-				<strong>P. Sarkar</strong>, V. Davoodnia, A. Etemad
+				<strong>Pritam Sarkar</strong>, V. Davoodnia, Ali Etemad
 			</div>
 			<div class="pub-conf">
 				IEEE International Conference on Machine Learning and Applications, (ICMLA), 2019.
@@ -642,14 +642,20 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 ### Mentoring
 <!-- <hr> -->
 
-I work with students at the undergraduate, master’s, and PhD levels. Current and past mentees:
+I work with many students at the undergraduate, master’s, and PhD levels. The following is a selected list of individuals with whom I worked closely.
 
 <ul class="mentee-list" markdown="0">
+<li class="mentee-item">
+<span class="mentee-name"><a href="https://alisalamatian1.github.io/">Ghazi Ahmad</a></span>
+<span class="mentee-pill mentee-pill--masters mentee-col--degree">Master's</span>
+<span class="mentee-pill mentee-pill--school mentee-col--school">MBZUAI</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2026 - Present</span>
+</li>
 <li class="mentee-item">
 <span class="mentee-name"><a href="https://alisalamatian1.github.io/">Ali Salamatian</a></span>
 <span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
 <span class="mentee-pill mentee-pill--school mentee-col--school">University of British Columbia</span>
-<span class="mentee-pill mentee-pill--year mentee-col--year">2026 – Present</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">Winter 2026</span>
 </li>
 <li class="mentee-item">
 <span class="mentee-name"><a href="https://sites.google.com/view/jiayunluo/jiayun-luo-letitia">Jiayun Luo (Letitia)</a></span>
@@ -673,7 +679,7 @@ I work with students at the undergraduate, master’s, and PhD levels. Current a
 <span class="mentee-name"><a href="https://www.linkedin.com/in/shayan-mohammadizadeh/">Shayan Samakosh</a></span>
 <span class="mentee-pill mentee-pill--masters mentee-col--degree">Master’s</span>
 <span class="mentee-pill mentee-pill--school mentee-col--school">York University</span>
-<span class="mentee-pill mentee-pill--year mentee-col--year">2025 – Present</span>
+<span class="mentee-pill mentee-pill--year mentee-col--year">2025 – 2026</span>
 </li>
 <li class="mentee-item">
 <span class="mentee-name"><a href="https://www.sethgriefalbert.com/">Seth Grief-Albert</a></span>
