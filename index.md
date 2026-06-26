@@ -51,9 +51,9 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 
 
 <aside class="collab-callout" role="note">
-  <strong class="collab-callout__title">Open to collaboration & consultancy</strong>
-  <p class="collab-callout__text">
-  Feel free to reach out: <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email</a>.</p>
+  <strong class="collab-callout__title">Open to collaboration & consultancy, feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email</a> me.</strong>
+  <!-- <p class="collab-callout__text">
+  Feel free to reach out via <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email</a>.</p> -->
 </aside>
 
 
