@@ -51,13 +51,13 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 
 
 <aside class="collab-callout" role="note">
-  <strong class="collab-callout__title">Open to collaboration</strong>
+  <strong class="collab-callout__title">Open to collaboration & consultancy</strong>
   <p class="collab-callout__text">
-  If interested in collaborating on research ideas of mutual interest, please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email me</a>.</p>
+  Feel free to reach out: <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email</a>.</p>
 </aside>
 
 
-<a name="/pro-bono"></a>
+<!-- <a name="/pro-bono"></a>
 
 <details class="panel-details">
   <summary class="panel-details__summary"><span class="panel-details__summary-title">Pro-bono activity</span><span class="panel-details__summary-hint">Click to expand</span></summary>
@@ -74,7 +74,7 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
     </ul>
     <p>Please be assured that I will periodically review the submitted responses and reach out to selected candidates. However, due to limited time, I may not be able to respond to everyone. Based on my availability, I may schedule sessions during the weekends. Thank you for your understanding.</p>
   </div>
-</details>
+</details> -->
 
 
 <hr> 
@@ -719,7 +719,7 @@ I work with many students at the undergraduate, master’s, and PhD levels. The 
 ### Education & Employment
 <!-- <hr> -->
 
-<p style="margin-top: 0; color: #555; font-size: 14px;">Timeline in reverse chronological order (present at top, older entries below).</p>
+<!-- <p style="margin-top: 0; color: #555; font-size: 14px;">Timeline in reverse chronological order (present at top, older entries below).</p> -->
 
 <div class="career-timeline">
 <div class="timeline-axis">
@@ -765,21 +765,21 @@ I work with many students at the undergraduate, master’s, and PhD levels. The 
 <div class="timeline-title">PhD, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a> · <a href="https://youtube.com/clip/UgkxnPWuCeGlN-Mf0vPgx4MAUg5u1b7sEnm4?si=J9t5nAfb9gADi-Yr">Convocation clip</a></div>
 </div>
 
-<div class="timeline-item">
+<!-- <div class="timeline-item">
 <div class="timeline-meta">
 <span class="timeline-years">2018–2025</span>
 <span class="timeline-pill timeline-pill--work">Employment</span>
 </div>
 <div class="timeline-title">Research assistant and teaching assistant / guest lecturer, Queen’s University, Kingston, Canada</div>
-</div>
+</div> -->
 
-<div class="timeline-item">
+<!-- <div class="timeline-item">
 <div class="timeline-meta">
 <span class="timeline-years">2018–2020</span>
 <span class="timeline-pill timeline-pill--edu">Education</span>
 </div>
 <div class="timeline-title">MASc, Queen’s University, Kingston, Canada. <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">Thesis</a></div>
-</div>
+</div> -->
 
 <!-- <div class="timeline-item">
 <div class="timeline-meta">
@@ -816,16 +816,16 @@ I work with many students at the undergraduate, master’s, and PhD levels. The 
 
 **Area Chair**
 
-- WACV (2026)
+- WACV (2026, 2027)
 
 **Reviewer** (selected venues)
 
-- NeurIPS (2023, 2025) 
+- NeurIPS (2023, 2025, 2026) 
 - ICLR (2024, 2025)
 - ICML (2024)
 - CVPR (2023, 2024, 2026)
 - ICCV (2023)
-- ECCV (2022, 2024, 2026)
+- ECCV (2022, 2024)
 - PAMI (2023–present)
 
 **Organizer**
