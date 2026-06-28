@@ -646,7 +646,7 @@ I work with many students at the undergraduate, master’s, and PhD levels. The 
 
 <ul class="mentee-list" markdown="0">
 <li class="mentee-item">
-<span class="mentee-name"><a href="https://alisalamatian1.github.io/">Ghazi Ahmad</a></span>
+<span class="mentee-name"><a href="https://www.linkedin.com/in/ghazi-shazan-ahmad-89138517a/">Ghazi Ahmad</a></span>
 <span class="mentee-pill mentee-pill--masters mentee-col--degree">Master's</span>
 <span class="mentee-pill mentee-pill--school mentee-col--school">MBZUAI</span>
 <span class="mentee-pill mentee-pill--year mentee-col--year">2026 - Present</span>
