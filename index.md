@@ -44,14 +44,17 @@ permalink: /
 <!-- <hr> -->
 
 I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision. 
+
 I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group. I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
+
 I received the 2026 *John Barron Doctoral Dissertation Award* by the [Canadian Image Processing and Pattern Recognition Society](https://www.cipprs.org/index.html), presented annually to the top PhD thesis in computer vision and robotics across Canada. 
 <!-- I also received the First Prize in the **IEEE Research Excellence Awards** in 2023 for my work on self-supervised learning.  -->
+
 Outside research I enjoy photography, film-making, coffee, long walks, and badminton.
 
 
 <aside class="collab-callout" role="note">
-  <strong class="collab-callout__title">Open to collaboration & consultancy, feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email</a> me.</strong>
+  <strong class="collab-callout__title">Open to collaboration and opportunities, please feel free to <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email</a> me.</strong>
   <!-- <p class="collab-callout__text">
   Feel free to reach out via <a title="pritam.sarkar@queensu.ca" href="mailto:pritam.sarkar@queensu.ca" target="_blank" rel="noopener">email</a>.</p> -->
 </aside>
@@ -642,15 +645,15 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 ### Mentoring
 <!-- <hr> -->
 
-I work with many students at the undergraduate, master’s, and PhD levels. The following is a selected list of individuals with whom I worked closely.
+I work with many students at the undergraduate, master’s, and PhD levels. The following is a selected list of individuals with whom I worked closely, typically my work with them resulted in a paper.
 
 <ul class="mentee-list" markdown="0">
-<li class="mentee-item">
+<!-- <li class="mentee-item">
 <span class="mentee-name"><a href="https://www.linkedin.com/in/ghazi-shazan-ahmad-89138517a/">Ghazi Ahmad</a></span>
 <span class="mentee-pill mentee-pill--masters mentee-col--degree">Master's</span>
 <span class="mentee-pill mentee-pill--school mentee-col--school">MBZUAI</span>
 <span class="mentee-pill mentee-pill--year mentee-col--year">2026 - Present</span>
-</li>
+</li> -->
 <li class="mentee-item">
 <span class="mentee-name"><a href="https://alisalamatian1.github.io/">Ali Salamatian</a></span>
 <span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
@@ -681,7 +684,7 @@ I work with many students at the undergraduate, master’s, and PhD levels. The 
 <span class="mentee-pill mentee-pill--school mentee-col--school">York University</span>
 <span class="mentee-pill mentee-pill--year mentee-col--year">2025 – 2026</span>
 </li>
-<li class="mentee-item">
+<!-- <li class="mentee-item">
 <span class="mentee-name"><a href="https://www.sethgriefalbert.com/">Seth Grief-Albert</a></span>
 <span class="mentee-pill mentee-pill--bachelors mentee-col--degree">Bachelor’s</span>
 <span class="mentee-pill mentee-pill--school mentee-col--school">Queen’s University</span>
@@ -692,7 +695,7 @@ I work with many students at the undergraduate, master’s, and PhD levels. The 
 <span class="mentee-pill mentee-pill--visiting mentee-col--degree">Visiting</span>
 <span class="mentee-pill mentee-pill--school mentee-col--school">University of Cambridge</span>
 <span class="mentee-pill mentee-pill--year mentee-col--year">2023–2024</span>
-</li>
+</li> -->
 <li class="mentee-item">
 <span class="mentee-name"><a href="https://www.debadityashome.com/">Debaditya Shome</a></span>
 <span class="mentee-pill mentee-pill--masters mentee-col--degree">Master’s</span>
