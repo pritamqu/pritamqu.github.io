@@ -645,7 +645,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 ### Mentoring
 <!-- <hr> -->
 
-I work with many students at the undergraduate, master’s, and PhD levels. The following is a selected list of individuals with whom I worked closely, typically my work with them resulted in a paper.
+I work with many students at the undergraduate, master’s, and PhD levels. The following is a selected list of individuals with whom I worked closely.
 
 <ul class="mentee-list" markdown="0">
 <!-- <li class="mentee-item">
