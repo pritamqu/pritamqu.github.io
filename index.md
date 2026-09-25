@@ -186,10 +186,10 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Negin Baghbanzadeh, <strong>Pritam Sarkar</strong>, Michael Colacci, Abeer Badawi, Adibvafa Fallahpour, Arash Afkanpour, Leonid Sigal, Ali Etemad, Elham Dolatabadi
 			</div>
 			<div class="pub-conf">
-				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />NeurIPS E&D Track · 2026</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.12169"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />NeurIPS E&D Track · 2026</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.12169"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
 			</div>
 		</div>
 	</div>
