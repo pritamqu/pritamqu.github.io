@@ -89,6 +89,9 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 <div class="news-feed">
 <ul class="news-feed__list">
 
+<li class="news-feed__item"><span class="news-feed__tag">Sep 26</span><span class="news-feed__body">
+2 papers (<strong><a href="https://arxiv.org/abs/2605.06809">LookWhen</a></strong> & <strong><a href="https://arxiv.org/abs/2606.12169">OpenMedReason</a></strong>) accepted in <strong>NeurIPS</strong> 2026.
+</span></li>
 
 <li class="news-feed__item"><span class="news-feed__tag">Apr 26</span><span class="news-feed__body">
 I received the John Barron Doctoral Dissertation Award (Best PhD Thesis) by the <a href="https://www.cipprs.org/awards.html">Canadian Image Processing and Pattern Recognition Society</a>.
@@ -186,7 +189,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
 			</div>
 			<div class="pub-links">
-				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.12169"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
+				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2606.12169"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />NeurIPS E&D Track · 2026</a>
 			</div>
 		</div>
 	</div>
@@ -205,7 +208,7 @@ Please check my [Google Scholar](https://scholar.google.ca/citations?hl=en&user=
 				Ali Salamatian*, Anthony Fuller*, <strong>Pritam Sarkar</strong>, James R. Green, Leonid Sigal, Evan Shelhamer
 			</div>
 			<div class="pub-conf">
-				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />Preprint · Under Review</span>
+				<span class="venue-badge"><img class="venue-badge__icon" src="{{ site.baseurl }}/assets/icons/venue.svg" alt="" />NeurIPS · 2026</span>
 			</div>
 			<div class="pub-links">
 				<a class="pub-link pub-link--arxiv" href="https://arxiv.org/abs/2605.06809"><img class="pub-link__icon" width="14" height="14" alt="" src="{{ site.baseurl }}/assets/icons/arxiv.svg" />arXiv</a>
