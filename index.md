@@ -45,7 +45,9 @@ permalink: /
 
 I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision. 
 
-I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group. I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
+I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group. 
+I also serve as a research advisor to startups and companies working on AI and computer vision. 
+I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
 
 I received the 2026 *John Barron Doctoral Dissertation Award* by the [Canadian Image Processing and Pattern Recognition Society](https://www.cipprs.org/index.html), presented annually to the top PhD thesis in computer vision and robotics across Canada. 
 <!-- I also received the First Prize in the **IEEE Research Excellence Awards** in 2023 for my work on self-supervised learning.  -->
@@ -90,11 +92,11 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 <ul class="news-feed__list">
 
 <li class="news-feed__item"><span class="news-feed__tag">Sep 26</span><span class="news-feed__body">
-2 papers (<strong><a href="https://arxiv.org/abs/2605.06809">LookWhen</a></strong> & <strong><a href="https://arxiv.org/abs/2606.12169">OpenMedReason</a></strong>) accepted in <strong>NeurIPS</strong> 2026.
+2 papers (<a href="https://arxiv.org/abs/2605.06809">LookWhen</a> & <a href="https://arxiv.org/abs/2606.12169">OpenMedReason</a>) accepted in <strong>NeurIPS</strong> 2026.
 </span></li>
 
 <li class="news-feed__item"><span class="news-feed__tag">Apr 26</span><span class="news-feed__body">
-I received the John Barron Doctoral Dissertation Award (Best PhD Thesis) by the <a href="https://www.cipprs.org/awards.html">Canadian Image Processing and Pattern Recognition Society</a>.
+I received the John Barron Doctoral Dissertation Award (<strong>Best PhD Thesis</strong>) by the <a href="https://www.cipprs.org/awards.html">Canadian Image Processing and Pattern Recognition Society</a>.
 </span></li>
 
 
@@ -111,23 +113,23 @@ I received the John Barron Doctoral Dissertation Award (Best PhD Thesis) by the 
 <summary>Show older news</summary>
 <ul class="news-feed__list news-feed__list--archive">
 <li class="news-feed__item"><span class="news-feed__tag">Oct 25</span><span class="news-feed__body">I am serving as an AC for WACV 2026.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Sep 25</span><span class="news-feed__body">Our proposed <strong><a href="https://arxiv.org/abs/2504.12083">Self-alignment with RRPO</a></strong> got accepted in <strong>NeurIPS</strong> 2025.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Sep 25</span><span class="news-feed__body">Our proposed <a href="https://arxiv.org/abs/2504.12083">Self-alignment with RRPO</a> got accepted in <strong>NeurIPS</strong> 2025.</span></li>
 <!-- <li class="news-feed__item"><span class="news-feed__tag">Sep 25</span><span class="news-feed__body">I successfully defended my PhD thesis! Here are the <a href="https://docs.google.com/presentation/d/18-uRKXQ_1tO5Gnn3FGNVkybN2cidjHqCg2_d2cD-ZZM/">slides</a> and <a href="https://qspace.library.queensu.ca/items/e35f85c6-3a6b-49b7-ade1-70fdcf3bcd2a">Thesis</a>.</span></li> -->
-<li class="news-feed__item"><span class="news-feed__tag">May 25</span><span class="news-feed__body">Introduced <strong><a href="https://arxiv.org/abs/2505.08455">VCRBench</a></strong>, the first video-based multi-step causal reasoning benchmark.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Apr 25</span><span class="news-feed__body">Introduced <strong><a href="https://arxiv.org/abs/2504.12083">RRPO</a></strong>, a fine-grained self-alignment recipe to align Multimodal LLMs.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Jan 25</span><span class="news-feed__body"><strong><a href="https://arxiv.org/abs/2405.18654">DPA</a></strong> got accepted in <strong>ICLR</strong> 2025.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Dec 23</span><span class="news-feed__body"><strong><a href="https://arxiv.org/abs/2211.13929">XKD</a></strong> and <strong><a href="https://arxiv.org/abs/2308.13568">RDDM</a></strong> got accepted in <strong>AAAI</strong> 2024.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">May 25</span><span class="news-feed__body">Introduced <a href="https://arxiv.org/abs/2505.08455">VCRBench</a>, the first video-based multi-step causal reasoning benchmark.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Apr 25</span><span class="news-feed__body">Introduced <a href="https://arxiv.org/abs/2504.12083">RRPO</a>, a fine-grained self-alignment recipe to align Multimodal LLMs.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Jan 25</span><span class="news-feed__body"><a href="https://arxiv.org/abs/2405.18654">DPA</a> got accepted in <strong>ICLR</strong> 2025.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Dec 23</span><span class="news-feed__body"><a href="https://arxiv.org/abs/2211.13929">XKD</a> and <a href="https://arxiv.org/abs/2308.13568">RDDM</a> got accepted in <strong>AAAI</strong> 2024.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Nov 23</span><span class="news-feed__body">I won <strong>first prize</strong> in IEEE Research Excellence Award (PhD).</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Sep 23</span><span class="news-feed__body">Our paper on <strong><a href="https://arxiv.org/abs/2306.02014">Video SSL in OOD</a></strong> got accepted in <strong>NeurIPS</strong> 2023 as a <strong>Spotlight</strong>.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Sep 23</span><span class="news-feed__body">Our paper on <a href="https://arxiv.org/abs/2306.02014">Video SSL in OOD</a> got accepted in <strong>NeurIPS</strong> 2023 as a <strong>Spotlight</strong>.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Aug 23</span><span class="news-feed__body">Accepted an offer from <strong>Google</strong> to join as a Student Researcher.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Nov 22</span><span class="news-feed__body"><strong><a href="https://arxiv.org/abs/2205.06887">AVCAffe</a></strong> and <strong><a href="https://arxiv.org/abs/2111.05329">CrissCross</a></strong> (<strong>Oral</strong>) got accepted in <strong>AAAI</strong> 2023.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Nov 22</span><span class="news-feed__body"><a href="https://arxiv.org/abs/2205.06887">AVCAffe</a> and <a href="https://arxiv.org/abs/2111.05329">CrissCross</a> (<strong>Oral</strong>) got accepted in <strong>AAAI</strong> 2023.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Oct 22</span><span class="news-feed__body">We organized <a href="https://r2hcai.github.io/AAAI-23/">AAAI 2023 Workshop on R2HCAI</a>.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Oct 22</span><span class="news-feed__body"><strong>Honourable Mention</strong> in poster competitions at Robotics and AI Symposium 2022 and FEAS Research Symposium 2022 at Queen&#39;s University, Canada.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Jun 22</span><span class="news-feed__body">Accepted an offer from Borealis AI for a fall internship as a Machine Learning Research Intern.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Jun 22</span><span class="news-feed__body">Accepted an offer from <strong>Borealis AI</strong> for a fall internship as a Machine Learning Research Intern.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Oct 21</span><span class="news-feed__body"><strong>Best poster</strong> award at Robotics and AI Symposium, Ingenuity Labs, 2021.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Aug 21</span><span class="news-feed__body">We organized <a href="https://hcssl.github.io/AAAI-22/">AAAI 2022 Workshop on HC-SSL</a>.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Mar 21</span><span class="news-feed__body">I received postgraduate affiliation award from Vector Institute. <a href="https://vectorinstitute.ai/vector-welcomes-new-researchers-to-postgraduate-affiliate-program/">News</a>.</span></li>
-<li class="news-feed__item"><span class="news-feed__tag">Dec 20</span><span class="news-feed__body">Our paper <strong><a href="https://arxiv.org/abs/2010.00104">CardioGAN</a></strong> got accepted in <strong>AAAI</strong> 2021.</span></li>
+<li class="news-feed__item"><span class="news-feed__tag">Dec 20</span><span class="news-feed__body">Our paper <a href="https://arxiv.org/abs/2010.00104">CardioGAN</a> got accepted in <strong>AAAI</strong> 2021.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Aug 20</span><span class="news-feed__body">My <a href="https://arxiv.org/abs/2002.03898">first transaction</a> as a first author got accepted in IEEE Transactions on Affective Computing.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Apr 20</span><span class="news-feed__body">Successfully defended my <a href="https://qspace.library.queensu.ca/items/d3599bb3-56dd-4c65-bac6-8b4de0e36927">MASc thesis</a>.</span></li>
 <li class="news-feed__item"><span class="news-feed__tag">Jan 20</span><span class="news-feed__body">Conference paper on <a href="https://arxiv.org/abs/1910.07497">ECG-based SSL</a> got accepted in IEEE ICASSP 2020 for oral presentation.</span></li>
