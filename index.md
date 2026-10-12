@@ -43,7 +43,8 @@ permalink: /
 ### About
 <!-- <hr> -->
 
-I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision. 
+My research aims to advance safe multimodal intelligence by designing algorithms that require minimal human supervision.
+Find more [here](#/research).
 
 I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group. 
 I also serve as a research advisor to startups and companies broadly working on Generative AI and Computer Vision problems. 
