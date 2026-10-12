@@ -46,7 +46,7 @@ permalink: /
 I am interested in advancing safe multimodal intelligence through designing algorithms that require minimal human supervision. 
 
 I am a postdoc at the [University of British Columbia](https://www.ubc.ca/) and [Vector Institute](https://vectorinstitute.ai/), working with [Leonid Sigal](https://www.cs.ubc.ca/~lsigal/) in the Computer Vision Group. 
-I also serve as a research advisor to startups and companies working on AI and computer vision. 
+I also serve as a research advisor to startups and companies broadly working on Generative AI and Computer Vision problems. 
 I completed my PhD in 2025 at [Queen’s University](https://queensu.ca/) with [Ali Etemad](https://www.aiimlab.com/ali-etemad). During my PhD I interned at [Google](https://research.google/) and [Borealis AI](https://rbcborealis.com/), and was affiliated with the [Vector Institute](https://vectorinstitute.ai/), [Ingenuity Labs](https://ingenuitylabs.queensu.ca/), and [Aiim Lab](https://www.aiimlab.com/).
 
 I received the 2026 *John Barron Doctoral Dissertation Award* by the [Canadian Image Processing and Pattern Recognition Society](https://www.cipprs.org/index.html), presented annually to the top PhD thesis in computer vision and robotics across Canada. 
@@ -90,6 +90,10 @@ Outside research I enjoy photography, film-making, coffee, long walks, and badmi
 
 <div class="news-feed">
 <ul class="news-feed__list">
+
+<li class="news-feed__item"><span class="news-feed__tag">Oct 26</span><span class="news-feed__body">
+Recognized as a <strong>Top Reviewer</strong> in NeurIPS 2026.
+</span></li>
 
 <li class="news-feed__item"><span class="news-feed__tag">Sep 26</span><span class="news-feed__body">
 2 papers (<a href="https://arxiv.org/abs/2605.06809">LookWhen</a> & <a href="https://arxiv.org/abs/2606.12169">OpenMedReason</a>) accepted in <strong>NeurIPS</strong> 2026.
